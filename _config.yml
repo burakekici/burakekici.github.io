@@ -1,6 +1,6 @@
 # main text of home
 name: Burak Ekici
-bio: Developer, Blogger, CS Student
+bio: Developer, CS Student
 
 # twitter summary info
 description: Personal blog and portfolio page 
@@ -14,7 +14,6 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-# resume-url: http://burakekici.com/resume.pdf
 resume-url: assets/resume.pdf
 
 url: https://burakekici.github.io
