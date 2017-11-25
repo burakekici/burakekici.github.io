@@ -2,30 +2,25 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+
+# Hey! I am Burak!
 
 ---
 
-<h2>Hi there! I am Burak!</h2>
+* A senior year **computer science** undergraduate student at [Hacettepe University][1], Ankara. 
+* An ex Erasmus+ exchange student at [Albert-Ludwigs University][2], Freiburg.
 
-<p>A senior year computer science undergraduate student at Hacettepe University, Ankara.</p>
+---
 
-<p>An ex Erasmus+ exchange student at Albert-Ludwigs University, Freiburg.</p>
+* I currently work at [APPS][3] as a part-time iOS developer. 
+* I am interested in mobile technologies.
 
-<p>I live in Ankara, Turkey. I am 23 years old.</p>
+---
 
-<p> I am interested in mobile technologies. </p>
+* I live in Ankara, Turkey. 
+* I am 23 years old.
 
-
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>Lorem ipsum dolor sit amet.</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem ipsum dolor sit amet</a></li>
-</ul>
+[1]: http://cs.hacettepe.edu.tr
+[2]: https://informatik.uni-freiburg.de
+[3]: http://apps.com.tr
