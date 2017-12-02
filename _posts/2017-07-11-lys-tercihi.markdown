@@ -254,7 +254,7 @@ Belki. Siber güvenlikle uğraşırsan mümkün olma şansı mevcut.
 
 **Kadınlar için uygun mu?**
 
-Kesinlikle uygun. Bir kere mühendis kelimesine takılmayalım. Yazılım geliştirme işi ofis ortamlarında gerçekleşen bir iş ve şantiye vb. ile ilgisi yok. Ayrıca gerektiği zaman evden çalışma imkanı da sağlanabilir. Elinizin hamuruyla programlama işine girin kızlar. Hiç çekinmeyin. İlginiz varsa affetmeyin.
+Kesinlikle uygun. Bir kere mühendis kelimesine takılmayalım. Yazılım geliştirme işi ofis ortamlarında gerçekleşen bir iş; ve şantiye vb. ile ilgisi yok. Ayrıca gerektiği zaman evden çalışma imkanı da sağlanabilir. Kesinlikle tereddüt etmeyin. İlginiz varsa affetmeyin.
 
 &nbsp;
 
