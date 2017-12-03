@@ -1,0 +1,128 @@
+---
+title: "Taşındık! Wordpress'ten Jekyll'a Göç Rehberi"
+layout: post
+date: 2017-12-02 20:00
+tag:
+- migrate
+- blog
+- wordpress
+- jekyll
+- github
+- hosting
+hidden: false
+category: blog
+author: ekici
+description: Jekyll blogu GitHub Pages'te barındırma, Wordpress'ten Jekyll'a geçiş, custom domaini GitHub Pages'te kullanma, Jekyll kullanımı
+---
+
+Merhaba,
+
+Bir süredir blogumu Wordpress'ten Jekyll'a taşımayı planlıyordum. Bu yazıda Jekyll hakkında bilgi sahibi olmak isteyenler için aşağıdaki başlıkları ele aldım.
+
+1. [Neden Jekyll?](#1-neden-jekyll)
+2. [Blogunuz için GitHub sayesinde nasıl ücretsiz hosting servisi sağlanır?](#2-blogunuz-için-github-ile-nasıl-ücretsiz-hosting-servisi-sağlanır)
+3. [Wordpress'ten Jekyll'a nasıl göç edilir?](#3-wordpressten-jekylla-nasıl-göç-edilir)
+4. [Custom domainler bu bloga nasıl yönlendilir?](#4-custom-domainler-githubda-barındırılan-siteye-nasıl-yönlendirilir)
+5. [Jekyll'da yazı ekleme ve lokalde deneme rutinim](#5-jekyllda-yeni-yazı-hazırlama-ve-lokalde-deneme-rutinim)
+6. [Jekyll'da hazır yazı nasıl canlıya aktarılır?](#6-jekyllda-hazır-yazı-nasıl-canlıya-aktarılır)
+
+---
+
+## 1. Neden Jekyll?
+
+Yaklaşık iki yıldır sunucu hizmeti aldığım firmanın olmayan bir iptal talebini işleme koyarak tüm siteyi uçurmasıyla birlikte Jekyll'a bir şans vermek istedim. Sebeplerim;
+
+* Senede 5-10 adet yazı paylaşıyorum, 
+* Jekyll statik HTML dosyalarından oluştuğu için performans açısından daha iyi,
+* Yeni yazı hazırlayıp göndermesi daha hızlı, 
+* Jekyll'da veri tabanı yok, tüm yazılar markdown dosyalarından oluşuyor, bu da taşınabilirliği ve güvenliği artırıyor,
+* Yedek almak, yeni bir tema denemek ya da Jekyll benzeri başka platformlar (ör: Hugo) denemek kolay,
+* Ayrıca GitHub ya da Gitlab Pages servisleri sayesinde site **ücretsiz** olarak yayınlanabiliyor.
+
+Jekyll'a dair aklıma gelen tek eksiklik, Wordpress'in eklentiler yönünden bir hayli avantajlı olması. İhtiyaç duymadığımdan benim için bir problem oluşturmuyor.
+
+&nbsp;
+
+## 2. Blogunuz için GitHub ile nasıl ücretsiz hosting servisi sağlanır?
+
+GitHub Pages servisiyle kişisel web sayfanızı GitHub sunucularında barındırmak ve bu sayfaya *kullanıcı-adı.github.io* bağlantısından ulaşabilmeniz mümkün. Aynı zamanda blog tutmak istiyorsanız Jekyll, Hugo gibi frameworkler kullanabilirsiniz. Kendi sayfanızı oluşturmak için, 
+
+* GitHub'da yeni bir repository açın, 
+* İsim olarak **kullanıcı-adınız.github.io** girin, 
+* İçerisine bir index.html dosyası hazırlayıp eklediğinizde sitenizin **kullanıcı-adınız.github.io** adresinden erişilebilir hale geldiğini göreceksiniz.
+
+Blog kurmak içinse Jekyll kullanabilirsiniz. Jekyll kurmak için RubyGems kurulu olması gerekmekte. Mac OS'ta 
+
+{% highlight sh %}
+$ gem install Jekyll
+{% endhighlight %}
+
+komutu ile kurabilirsiniz. Ancak bunun öncesinde [Homebrew](https://brew.sh/) ve [rbenv](https://github.com/rbenv/rbenv)'e ihtiyaç duyabilirsiniz. Bunları yüklemek için aşağıdaki komutları çalıştırın, sonra da bir üstte yazan komutu yeniden çalıştırın.
+
+{% highlight sh %}
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ brew install rbenv
+{% endhighlight %}
+
+<br>
+
+Şimdi Jekyll projesi oluşturmaya hazırsınız. Terminale 
+
+{% highlight sh %}
+$ jekyll yeni-site
+$ cd yeni-site
+{% endhighlight %}
+
+Yazdığınızda artık standart temayla Jekyll blogunuz hazır demektir. Ben Sérgio Kopplin'in geliştirdiği [Indigo](https://github.com/sergiokopplin/indigo) temasını kullanıyorum, bu projeden dosyaları indirip ilgili dizine atarak kullanmanız da mümkün.
+
+Jekyll blogu kurduktan sonra **config.yml** dosyasını doldurun. Sonrasında GitHub'daki reponuza gönderdiğinizde artık blogunuz kullanıma hazır demektir.
+
+&nbsp;
+
+## 3. Wordpress'ten Jekyll'a nasıl göç edilir?
+Sıfırdan bir Jekyll blog oluşturuyorsanız işiniz zaten oldukça kolay. Birkaç komut ile sitenizi hazır hale gelecektir.
+
+Eğer eski bir Wordpress kullanıcısıysanız ve oradaki yazılarınızı transfer etmek istiyorsanız, Wordpress'te [Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter) eklentisini kullanabilirsiniz. Eklentiyi yükledikten sonra araçlar kısmından eklenti arayüzüne ulaşıp tüm yazılarınız ve resimlerinizi zip dosyası olarak indirebilirsiniz. [Şu yazının](http://www.gjermundbjaanes.com/how-to-migrate-your-wordpress-blog-to-jekyll/) da faydasını gördüm.
+
+Biraz düzenlemeye ihtiyaç duyuyordu. Toplamda 15 civarı yazım olduğu için elle düzelttim. 
+
+&nbsp;
+
+## 4. Custom domainler GitHub'da barındırılan siteye nasıl yönlendirilir?
+Elinizdeki kişisel alan adınızı GitHub sunucularına yönlendirmek istiyorsanız yine birkaç kısa adımla bunu gerçekleştirebilirsiniz. 
+
+Öncelikle oluşturmuş olduğunuz GitHub reposunda **CNAME** dosyası oluşturarak içine kullanmak istediğiniz alan adını girin.
+
+Şimdi yapmanız gereken ise alan adı hizmeti aldığınız hesabınıza giriş yapmanız ve burada DNS zone servisinden **A tipinde** 2 adet DNS kaydı oluşturmak. Bu kayıtların IP bölümüne de GitHub sunucu IPlerini girmelisiniz.
+
+{% highlight raw %}
+192.30.252.153
+192.30.252.154
+{% endhighlight %}
+
+Bu işlemlerden sonra yönlendirme işlemi birkaç saat içerisinde başarıya ulaşmış olacak. Artık adres çubuğuna kullanıcı-adı.github.io yazıldığında otomatik olarak kişisel-alan-adı.com gibi seçtiğiniz alan adına yönlendirilecek.
+
+<p align="center">
+  <img src="../assets/images/2017/jekyll/dns.jpg" alt="DNS Kayıtları"/>
+</p>
+
+Ek olarak ben bir tane daha CNAME oluşturdum, böylece birisi *www.burakekici.com* girdiğinde direkt *burakekici.com*'a dönüştürülüyor.
+
+Detaylı bilgi için [GitHub Help](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) sayfasına göz atabilirsiniz.
+
+
+&nbsp;
+
+## 5. Jekyll'da yeni yazı hazırlama ve lokalde deneme rutinim
+Benim için Jekyll'da yeni bir yazı yazmak ya da düzenleme yapmanın Wordpress'ten daha zahmetsiz olduğunu yukarıda belirtmiştim. Yeni bir şey eklemek istediğimde şu adımları izliyorum,
+
+1. Terminali açıp sitenin bulunduğu klasöre gidiyorum. (Bu işlem için *alias* tanımladım, **burak** yazdığımda direkt ilgili klasöre gidiyorum.)
+2. **code .** yazıp projeyi VS Code'da açıyorum.
+3. Lokalde denemek için yine terminalde **bundle exec jekyll serve** yazıyorum. Böylece site **localhost:4000** adresinde aktif olmuş oluyor, uzak sunucuya göndermeden test etme fırsatı sunuyor.
+
+Yeni bir yazı oluşturmak için *posts* klasöründe bir dosya oluşturuyorum. Bu yazının başlığı Jekyll formatı gereği **YYYY-MM-DD-başlık.markdown** şeklinde olmalı. Bu dosyanın yukarısına başlığı, tarihi, türü, etiketler ve kategori gibi bilgiler eklendikten yazmaya hazır hale geliyor.
+
+&nbsp;
+
+## 6. Jekyll'da hazır yazı nasıl canlıya aktarılır?
+Yeni yazınızı yazdınız ve uzak sunucuya göndermek istiyorsunuz. Bunun için terminal de kullanabilirsiniz ancak ben kolayıma geldiği için GitHub Desktop uygulamasını kullanıyorum. Commit ve push ettikten sonra artık yazınız yayında. Bu kadar pratik.
