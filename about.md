@@ -13,12 +13,12 @@ layout: page
 
 ---
 
-* I currently work at [APPS][3] as a part-time iOS developer. 
+* I currently work at [APPS Mobile][3] as a part-time iOS developer.
 * I am interested in mobile technologies.
 
 ---
 
-* I live in Ankara, Turkey. 
+* I live in Ankara, Turkey.
 * I am 23 years old.
 
 [1]: http://cs.hacettepe.edu.tr
