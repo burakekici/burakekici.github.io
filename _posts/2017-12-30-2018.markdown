@@ -1,0 +1,137 @@
+---
+title: "Gel Bakalım 2018"
+layout: post
+date: 2017-12-30 00:00
+tag:
+- yeni yıl
+hidden: false
+category: blog
+author: ekici
+description: 2017 değerlendirmeleri, 2018 hedefleri.
+---
+
+Selamlar.
+
+Yazmaya başlamadan önce 2017 versiyonunu okudum. Önce bi utandım 😄, bazı kısımlar neden böyle şeyler yazmışım yahu dedim. Sonra da boşver dedim. Zaten siteye günde 1 kişi ya giriyor ya girmiyor. 
+
+2018 için de benzer şekilde bir yazı kaleme almak istedim. Bu yazı daha çok kendim için. İleride dönüp baktığımda 2017'de neler yapmışım, 2018 için ne düşünmüşüm görmek güzel olabilir. Ayrıca beni daha yakından tanımak isteyenler için de faydalı bir yazı olabilir. Öyleyse konuya gelelim.
+
+---
+
+## 2017 benim için nasıl bir yıldı?
+
+Bir hayli yoğun, bir o kadar da yorucu bir yılı geride bıraktım. Kısaca özetleyecek olursam;
+
+<br>
+
+• Ocak-Şubat aylarında Almanya'da Erasmus'un son haftalarını yaşıyordum. Şubat sonunda yuvaya dönüş yaptım. Mart-Nisan-Mayıs benim için buhran dönemiydi. Erasmus ertesinde, bütün kalelerim zaptedilmiş, bütün ordularım dağıtılmış ve beynimin her köşesi bilfiil işgal edilmiş vaziyetteydi. Bu Post-Erasmus Sendromunun ne demek olduğunu maalesef yaşayarak tecrübe etmiş oldum.
+
+<br>
+
+• Erasmus ertesi yoğun bir okul dönemi ise bir hayli zorlayıcıydı. Zaten döndüğümde dönemin 3 haftası bitmişti. Döndükten sonra hem hayattan keyif alma oranım diplerde olduğundan hem de tekrar Avrupa'ya yüksek lisans için gitmek gibi bir gaye edindiğimden okula çok önem verdim. Çok şükür kazasız belasız altından kalktım.
+
+<br>
+
+• Bu süreçte dedim ki hazır okulu uzattım, yazın boşum, yurt dışına da tekrar gitmek istiyorum; staj fırsatlarına odaklandım. Litvanya'da bir staj ayarladım. (Bununla ilgili ayrıca yazacağım kısmetse.)
+
+Temmuz-Ağustos aylarında yaklaşık 6 haftalık bir Litvanya staj macerası geldi geçti. Karşılaştıklarım, beklentilerime göre bir hayli kötüydü. Ama tecrübenin iyisi kötüsü olmaz, değil mi?
+
+<br>
+
+• Ağustos biterken varımı yoğumu basıp ikinci el Macbook aldım. Yıllardır hayallerimdeki bir şeydi ama hep başka şeylerden ötürü bekletiyordum. Alır almaz iOS ile uygulama geliştirmeye ufak başlagıçlar yaptım.
+
+<br>
+
+• Eylül sonunda okul başladı. Ekim-Kasım-Aralık ve Ocak'ın bir kısmı okulla dolmuş oldu. Artık arkadaşlar da mezun olunca bölümün, kampüsün o eski tadı kalmadı. Şu bu derken dönem de bitiverdi zaten. Bir aksilik olmazsa 1 ay içerisinde mezun oluyorum. 
+
+<br>
+
+• Ve Kasım ortasında yarı zamanlı olarak işe girdim! Öncesinde 3 kez staj yapmıştım fakat staj ile maaşlı iş bir değilmiş. Bir firmadan emeğiniz karşılığında para almaya başladığınızda işin rengi değişiyor. Düşünsenize, bir firma sizin yaptığınız bir iş karşılığında size para ödüyor. Burada devreye sorumluluk girer. Yaptığınız işin kalitesi önem arz eder. En azından benim için böyle. Yaptığım işin kalitesini içim rahat edecek seviyeye çıkarmam için daha çok çalışmam gerektiğini düşünüyorum.
+
+
+"Çalışmak nasıl?" sorusunu yanıtlayacak olursam, önce rutin bir günümü anlatarak başlayayım:
+
+* **6.30** Kalkış
+* **6.30-7.00** Kahvaltı
+* **7.00-8.00** Yol
+* **8.00-12.00** İş
+* **12.00-13.00** Yemek
+* **13.00-17.00** İş
+* **17.00-18.00** Yol
+* **18.00-18.30** Yemek
+
+Böylece, günün tam **12 saati** yok oluyor. Bu gerçekten korkunç bir şey... Yetişkin bir insanın 7-8 saatlik uyku ihtiyacını üst sınırdan 8 olarak alırsak hafta içlerinde kendine ayırabileceği 4 saati kalıyor. Artık bu 4 saatte kitap mı okursun, film mi izlersin, aileye vakit mi ayırırsın, arkadaşlarınla dışarı mı çıkarsın. Bozdur bozdur harca...
+
+Yaptığın işi sevmenin önemli olduğunu bir kez daha anlamış oldum. Şanslıyım ki hem patronlarım süper insanlar hem de yaptığım işten keyif alıyorum. Öteki türlü iş dünyası benim için bayağı çekilmez olurdu sanırım. 
+
+Bir de 12 saat yok oluyor dedim ama bu sadece dışarıdan bakınca böyle. Eğer yaptığınız işte kendinize bir şeyler katabiliyorsanız, bu esnada da zevk alabiliyorsanız zaten tüm olay kayıp değil kazanca dönüşüyor. 
+
+<br>
+
+• Bu yıl yaptığım iyi yatırımlardan birisi de bu manyetik beyaz yazı tahtasını almaktı. Hepi topu 100 ₺'lik masraf yaptım ama böylece hem aklımdaki şeyleri hızlıca not edebiliyorum, hem ağaç israfını bir nebze olsun önlemiş oluyorum. 
+
+<p align="center">
+  <img src="../assets/images/2017/2018/whiteboard.jpg" alt="Whiteboard"/>
+</p>
+
+<br>
+
+• Benim için 2017 okuduğunuz gibi bayağı hareketli geçti. Genel olarak iyi bir yıldı. Güzel kazanımlar, güzel dostluklar elde ettiğimi düşünüyorum. Bir ay içinde de tam zamanlı işe başlayıp emeklilik için gün saymaya başlayacağım kısmetse. :p
+
+---
+
+## Peki 2018'de ne yapmak, nereye varmak istemekteyim?
+
+Geçen yılın başında yazdığım önceliklerde birkaç hafta sonra ufak değişikliklere gitmiştim. Hala da mevcut haliyle devam ediyorum. Güncellenmiş halini de aşağıya iliştireyim.
+
+• **Kodla** : Bu yıl ilk önceliğim yazılım alanında mümkün mertebe seviyemi yükseltmek. İlerleyen aylarda belki işte ve evde neler yaptığıma dair bir yazı yazabilirim.
+
+• **Oku** : Geçen yıl toplamda 8 kitap okuyabilmişim. Mart ayında yıl sonu hedefi olarak 12 sayısını belirlemiştim. Kötü ama kabul edilebilir. Çünkü okuduğum kitaplar bana çok fazla şey kattı. Bu yıl hedefim 20 kitap. 
+
+• **Yaz** : Sevdiğim bir yöntem vardır;
+
+> Yaptığını yaz, yazdığını yap. 
+
+Bu yıl yine fırsat buldukça birilerine fayda sağlayabilecek şeyleri yazmaya çalışacağım. Ayrıca teknik yazılar da yazmak istiyorum. (Biraz daha öğrendikten sonra).
+
+• **Spor yap** : Spora son iki aydır ara vermiş olsam da 2018'in bu yönden daha iyi bir yıl olacağına inanıyorum. Sağlık hayattaki en büyük zenginlik.
+
+--- 
+
+Ana hedefler bunlardı, iki tane de ara hedefim var. 
+
+• **Yabancı dil** : Sene başında bu Almanca'ydı ancak yılın ikinci yarısında yaşanan bazı kişisel gelişmeler sonrasında yurt dışı hayallerim suya düştü. Dolayısıyla Almanca öğrenmek için motivasyonum bir hayli düştü. Ara ara bakmaya devam ediyorum. Bu yıl YDS ve bir de belki IELTS'e girmek için İngilizce çalışabilirim.
+
+• **Gitar** : Müzik ruhun gıdası. Müzik aleti çalmak ise apayrı bir keyif. Ben her insanın bir müzik aleti çalması gerektiğini düşünüyorum. Hatta bir araştırma vardı birkaç gün önce Twitter'da denk gelmiştim, bilmem kaç yıl boyunca müzik aleti çalan insanlar, müzikle uğraşmayan insanlara göre daha fazla beyin aktivitesine sahip oluyormuş. Benim hedefim de bu yıl için gitar çalma becerimi az da olsa geliştirebilmek.
+
+Bu arada geride bıraktığımız okul döneminde seçmeli ders olarak ritim dersi almıştım. Orada darbuka biraz da bendir çalmayı öğrendim. Bayağı keyifliydi. Hatta bakarsınız paraya kıyıp, üşenmeyip hayalim olan piyano çalmak için kursa giderim. 
+
+---
+
+## Aklıma hayatımdaki kırılma noktalarından biri geldi
+
+Bundan tam 2 yıl önce, 2015'in son günlerinde CSGO batağında arkadaşlarla birlikte yarın yokmuşçasına sürünüyorduk. 2015'in son ayları benim için çok kötü zamanlardı. Okulda sevemediğim ve beceremediğim derslerle boğuşuyordum. Ortalamam can çekişiyordu (baktım 2.50'ymiş). Oyunlar konusunda otokontrolümü tamamen yitirmiştim. 
+
+Sonra dedim ki bu kötü gidişi düzeltebilir miyim? Evet ise nasıl? 
+
+İlk adımım oyunları hayatımdan çıkarmak oldu. Sonra Ocak 2016'da Erasmus dil sınavına girdim. Sonra derslere biraz daha özen gösterdim. Erasmus'a gittim. Yurt dışına staja gittim. Biraz Almanca öğrendim. Kitaplar okudum. Ortalamamı biraz toparladım. Bugün bir işim bile var. 
+
+Şöyle bir geriye dönüp bakıyorum da iyi ki o kararları vermişim. İçinden çıkılmayacak hiçbir şey yok diye düşünüyorum. Önemli olan siz ne istiyorsunuz? Ne kadar istiyorsunuz? Sonrası plan yapıp uygulamaya koymak ve son olarak istikrar. 
+
+<br>
+
+---
+
+## 2018'de yenilikler
+
+Geçen yılki yazının sonuna Productive diye bir uygulama kullanacağımı eklemiştim. Onu bir hafta olmadan sildim :) 
+
+Bu yıl daha farklı bir şey deniyorum. Barış Abi'nin 2018'de zinciri kırma PDF'ini çıktı aldım, bir de böyle deneyelim bakalım. Videoyu henüz izlemediyseniz bence bir şans vermelisiniz: 
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/_5fwRs94pvE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<br>
+
+---
+
+İşte böyle dostlar. Yazması çok kolay ama yapmak hiç de öyle değil dimi? Umarım 2018 gönlünüzce bir yıl olur. Mutluluk, huzur ve sağlık dolu bir yıl geçirmeniz dileğiyle! 
