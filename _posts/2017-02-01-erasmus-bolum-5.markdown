@@ -269,4 +269,4 @@ Okulun yemekhanesinde yemek ücreti yaklaşık 3-3.5 € civarında. Kaldığım
 - Erasmus Bölüm 5 – Ekonomi
 - **[Erasmus Bölüm 6 – Dil](http://burakekici.com/erasmus-bolum-6)**
 - **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**

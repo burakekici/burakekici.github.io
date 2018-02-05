@@ -132,4 +132,4 @@ Anlayabildiğim üç beş kelime vardı, Münih’e gidince onları da anlayamaz
 - **[Erasmus Bölüm 5 – Ekonomi](http://burakekici.com/erasmus-bolum-5)**
 - Erasmus Bölüm 6 – Dil
 - **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**

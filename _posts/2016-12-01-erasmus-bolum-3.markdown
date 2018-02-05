@@ -192,4 +192,4 @@ Bir de Interrail nedir bilmiyorsanız, hiç duymamışsanız hemen araştırman�
 - **[Erasmus Bölüm 5 – Ekonomi](http://burakekici.com/erasmus-bolum-5)**
 - **[Erasmus Bölüm 6 – Dil](http://burakekici.com/erasmus-bolum-6)**
 - **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**
