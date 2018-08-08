@@ -16,13 +16,13 @@ Know me in 1 minute:
 
 ## Work
 * A software developer at [APPS Mobile][3]. 
-* I usually develop iOS applications.
+* I usually develop iOS applications. I also develop games on Unity3D.
 * I am interested in mobile technologies.
 
 ---
 
 ## General
-* I am 23 years old.
+* I am 24 years old.
 * I currently live in Ankara, Turkey.
 * I lived in Freiburg, Germany for 5 months and Kaunas, Lithuania for 1.5 months.
 

@@ -75,7 +75,7 @@ En çok tercih edilen yol bu olsa gerek. Bu yolu izleyecek olursanız;
 
 - Size garantör olacak kişi ile notere gidip, garantör kişinin hangi tarih aralığında, masrafların ebeveyn tarafından nasıl karşılanacağını belirten bir taahhütname hazırlatmanız gerekli. Bu taahhütname eğitim amaçlı olduğu için çeşitli vergilerden muaf olacaksınız. 46 ₺ tutmuştu. Taahhütname örneğine ihtiyaç duyarsanız bana ulaşabilirsiniz.
 
-- Ardından bu taahhütnameyi Almanya’ya çevirtmelisiniz. Bu çeviri için de 30 ₺ ödedim.
+- Ardından bu taahhütnameyi Almanca’ya çevirtmelisiniz. Bu çeviri için de 30 ₺ ödedim.
 
 *(Tam bu aşamada benim bir salaklığım oldu. Ben Almanca belgenin de noterde tekrar kaşeleneceğini düşünüyordum. Notere gittim; kadın tüm sayfalara bir sürü damga vurdu. Sonra yüzüme bakıp 188 ₺ tuttu dedi. “Yahu nasıl olur, ben bu kağıda zaten 46 ₺ ödedim.” ve daha bir çok şey dediysem de maalesef durumu kotaramadım. 188 ₺ ödemek yerine mevcut kağıtları iptal ettirip noterde yeniden  taahhütname hazırlatmak daha mantıklı göründü ve 46 ₺’ye aynı metni yazdırarak yeni bir belge hazırlattım. Sağ olsunlar tercüme bürosundaki kişiler tekrar ücret almadı, tarihleri ve adresleri güncelleyerek yeni bir çıktı teslim ettiler.)*
 
