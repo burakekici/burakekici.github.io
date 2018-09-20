@@ -19,7 +19,7 @@ Merhaba,
 
 Bu yazıya tıklayıp da Spotify'ın ne olduğunu bilmeyen yoktur diye düşünüyorum ama her ihtimale karşı kısa bir tanımla başlamak isterim. 
 
-* _Spotify_, 2008 yılında kullanıma sunulan İsveç menşeili bir çevrim içi müzik dinleme servisi. Sevdiğiniz tüm müzikleri dilediğiniz çalma listelerine ekleyerek düzenli bir şekilde arşivleyebilir, dilediğinizi dinleyebilirsiniz.
+* _Spotify_, 2008 yılında kullanıma sunulan İsveç menşeili bir çevrim içi müzik dinleme servisi. 2018 Haziran verilerine göre dünya çapında 180 milyondan fazla aylık tekil kullanıcıya sahip ve bunların 83 milyonu premium üyeden oluşuyormuş. Sevdiğiniz tüm müzikleri dilediğiniz çalma listelerine ekleyerek düzenli bir şekilde arşivleyebilir, dilediğinizi dinleyebilirsiniz.
 
 * Ücretsiz ve premium olmak üzere iki farklı abonelik çeşidi mevcut. 
 
