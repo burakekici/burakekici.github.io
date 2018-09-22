@@ -1,6 +1,6 @@
 # main text of home
 name: Burak Ekici
-bio: iOS Developer, Software Engineer
+bio: Software Engineer
 
 # twitter summary info
 description: Personal blog and portfolio page 
@@ -55,7 +55,7 @@ email: contact.ekici@gmail.com
 authors:
     ekici:
         name: Burak Ekici
-        bio: Software Engineer, iOS Developer
+        bio: Software Engineer • Lifelong Learner
         external-image: false
         picture: assets/images/profile.jpg
         twitter: burakekici0

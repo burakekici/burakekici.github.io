@@ -15,9 +15,8 @@ Know me in 1 minute:
 ---
 
 ## Work
-* A software developer at [APPS Mobile][3]. 
-* I usually develop iOS applications. I also develop games on Unity3D.
-* I am interested in mobile technologies.
+* I work as a mobile developer at [APPS Mobile][3]. 
+* I develop games on Unity3D and also iOS native apps.
 
 ---
 
@@ -49,9 +48,9 @@ Some quotes I like:
 
 > Life is 10% what happens to you and 90% how you react to it.
 
-[1]: http://cs.hacettepe.edu.tr
+[1]: https://cs.hacettepe.edu.tr
 [2]: https://informatik.uni-freiburg.de
-[3]: http://apps.com.tr
+[3]: https://apps.com.tr
 [4]: https://open.spotify.com/user/bekici 
 [5]: https://www.goodreads.com/burakekici 
-[6]: http://www.imdb.com/user/ur41656845 
+[6]: https://www.imdb.com/user/ur41656845 
