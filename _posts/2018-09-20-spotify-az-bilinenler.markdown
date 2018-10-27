@@ -48,6 +48,7 @@ Spotify'da sadece müzikler yok, bugüne kadar denk gelmemiş olabileceğiniz ba
 Spotify'ı Podcast dinlemek için kullanabilirsiniz. Tüm kanallar bulunmasa da popüler çoğu podcast Spotify'da mevcut.
 
 Türkçe
+* [**304**](https://open.spotify.com/show/0uKDpGnutRqVC8co852N49?si=pp6A9DWkQgmJt45dzYcCMg) 🚀
 * [**Swifthane**](https://open.spotify.com/show/6ybOg9JrqbLBUDokL0R5eY?si=uMsEQdRKTYeS82iAytZUQA)
 * [**Paraşüt'le Üretim Bandı**](https://open.spotify.com/show/4MHPb3ds6geoZxosYv2bhP?si=bpaTQEINQJioqBSAa1_4VA)
 * [**Girişimci Muhabbeti**](https://open.spotify.com/show/1w34eR81wbAJIykHglB3u2?si=G1_UzLQCRZaqFZ4JzTOwIA)
