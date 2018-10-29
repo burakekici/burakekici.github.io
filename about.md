@@ -8,15 +8,15 @@ layout: page
 
 Know me in 1 minute:
 
-## Education
-* Got my BSc degree of computer science  at [Hacettepe University][1], Ankara. 
-* An ex Erasmus+ exchange student at [Albert-Ludwigs University][2], Freiburg.
+## Work
+* I work as a mobile developer at [APPS Mobile][3]. 
+* I develop games on Unity3D and develop iOS native apps.
 
 ---
 
-## Work
-* I work as a mobile developer at [APPS Mobile][3]. 
-* I develop games on Unity3D and also iOS native apps.
+## Education
+* Got my BSc degree of computer science  at [Hacettepe University][1], Ankara. 
+* An ex Erasmus+ exchange student at [Albert-Ludwigs University][2], Freiburg.
 
 ---
 
@@ -24,6 +24,7 @@ Know me in 1 minute:
 * I am 24 years old.
 * I currently live in Ankara, Turkey.
 * I lived in Freiburg, Germany for 5 months and Kaunas, Lithuania for 1.5 months.
+* I describe myself as a _minimalist_, a _booklover_ and a _lifelong learner_.
 
 --- 
 

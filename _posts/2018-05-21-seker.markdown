@@ -2,6 +2,8 @@
 title: "Bir Uyuşturucu Türü Olarak Şeker"
 layout: post
 date: 2018-05-21 20:00
+image: /assets/images/2018/seker/cover.jpg
+headerImage: false
 tag:
 - şeker
 - nbş
@@ -18,65 +20,67 @@ description: Şeker nedir? Neden alkol ve uyuşturucu kadar zararlıdır?
 
 Selamlar,
 
-Bu yazıda şeker nedir, neden zararlıdır ve nasıl azaltabiliriz sorularına yanıt arayacağım. Umarım daha bilinçli bir beslenme alışkanlığı edinmek isteyenlere faydalı bir yazı olur. 
+Bu yazıda şeker nedir, neden zararlıdır ve nasıl azaltabiliriz sorularına yanıt aradım. Umarım daha sağlıklı bir beslenme alışkanlığı edinmek isteyenlere faydalı bir yazı olur. 
 
 --- 
 
-## Şeker nedir? 
+## Şekerin Kısa Tarihçesi 
 
-• Temelden bir giriş yapalım. İnsan vücudunun yaklaşık %60'ı su (mineralli ve tuzlu su), yaklaşık %20'si hayvansal yağ ve yaklaşık %20'si de proteinden oluşuyor.
+Günümüzden yaklaşık 5 bin yıl önce şeker kamışı Hindistan’da fark edilmiş ve _sakkhara_ ismiyle anılmaya başlanmış. Bu isim, _saccharum_ olarak Latince'ye, _sakkharon_ olarak Yunanca'ya, _zucchero_ olarak İtalyanca'ya, _azucar_ olarak İspanyolca'ya, _zucker_ olarak Almanca'ya, _sucre_ olarak Fransızca'ya, _sugar_ olarak İngilizce'ye, _şükker_, _şeker_ ve diğer halleriyle de Türkçe, Farsça ve Arapça dillerine geçmiş.
 
-• Karbonhidrat, canlı yapısına katılmayan, birinci dereceden enerji verici olarak kullanılan, yapı taşı glikoz olan bir madde. Depolanma şekli bitkilerde nişasta, hayvanlarda ise glikojen şeklinde. 
+Avrupa'nın şekerle tanışması, Müslümanların İspanya'ya yerleşmesiyle başlıyor. O dönemde avrupalılar bu _baharatı_ çok beğeniyor ama bir hayli değerli. 1300'lerde İngiltere'de bir işçinin maaşı ile 1 pound şeker eşdeğer görülüyor. Hem Avrupa'da hem Osmanlı'da tedavi amaçlı kullanılıyor. _Nabza göre şerbet vermek_ deyimi de buradan geliyor. 
 
-• Bildiğimiz toz şeker, yani sakkaroz (sükroz), bir molekül **glikoz** ve bir molekül **fruktozdan** oluşuyor. Şeker pancarı ya da şeker kamışından üretiliyor. 
+## Şeker Nedir?
+
+İnsan vücudunun yaklaşık %60'ı su (mineralli ve tuzlu su), yaklaşık %20'si hayvansal yağ ve yaklaşık %20'si de proteinden oluşuyor.
+
+Karbonhidrat, canlı yapısına katılmayan, birinci dereceden enerji verici olarak kullanılan, yapı taşı da glikoz olan bir madde. Depolanma şekli bitkilerde nişasta, hayvanlarda ise glikojen şeklinde. 
+
+Bildiğimiz toz şeker, yani sakkaroz (sükroz), bir molekül **glikoz** ve bir molekül **fruktozdan** oluşuyor. Şeker pancarı ya da şeker kamışından üretiliyor. 
 
 Bir şeker kamışının %50'si su, o suyun da yalnızca %20'si şeker olabiliyor. Yani aslında soframıza gelen şeker, şeker kamışı bitkisinin konsantre hali.
 
-Fruktoz aynı zamanda balda, meyve suyunda ve mısır şurubunda (birazdan değineceğiz) mevcut.
+Fruktoz aynı zamanda balda, meyve suyunda ve mısır şurubunda  mevcut (birazdan değineceğiz).
 
----
-
-• Alkol yani etanol, vücudunuz tarafından bir toksik yani zehir olarak algılandığı için %80'i karaciğerde parçalanıyor. 
-
-• Fruktoz da aynı alkol gibi yaşamınız süresince hiç ihtiyaç duymadığınız bir madde olduğu için vücudunuz tamamen yabancı kalıyor, onu bir zehir olarak algılıyor ve neredeyse tamamı karaciğerde işlem görüyor. 
-
-(Glikoz tükettiğimizde (ör: ekmek ya da patates) yediğinizde bunun yaklaşık %20'si karaciğerde parçalanıyor.)
-
-Yani fruktozun vücutta işlenme süreçleri alkol ile büyük oranda benzerlik taşıyor.
-
-• Bir de **NBŞ** yani **Nişasta Bazlı Şekerler** var ki yılanın başı olur kendileri. NBŞ'ler genelde mısır olmak üzere çeşitli bitkilerden kimyasal yollarla üretilen endüstriyel şekerlere deniyor. Fruktoz şurubu ve glikoz şurubu olmak üzere iki ana kategoriye ayrılıyorlar. Yoğun miktarda fruktoz bulundururlar ve direkt tüketimden ziyade yine endüstriyel üretimlerde girdi olarak kullanılırlar. Örneğin meşrubatlarda, çeşitli tatlı ve şekerlemelerde görmek mümkün. Ve ne yazık ki çokça şeker pancarı kaynağımız olmasına rağmen (yanılmıyorsam dünyadaki 5. şeker pancarı üreticisiyiz) ucuz olduğu için son yıllarda mısır şurubu üretmek için mısır ithal edilmeye başlanmış. NBŞ'ler daha uzun raf ömrü de sağlayınca gıda üreticileri için biçilmiş kaftan olmuş.
-
-Şimdi müsaadenizle tanım kısmını kapatıyorum. 
+Bir de **NBŞ** yani **Nişasta Bazlı Şekerler** var ki en fenası. NBŞ'ler genelde mısır olmak üzere çeşitli bitkilerden kimyasal yollarla üretilen endüstriyel şekerlere deniyor. Fruktoz şurubu ve glikoz şurubu olmak üzere iki ana kategoriye ayrılıyorlar. Yoğun miktarda fruktoz bulunduruyorlar ve direkt tüketimden ziyade yine endüstriyel üretimlerde girdi olarak kullanılıyorlar. Örneğin meşrubatlarda, çeşitli tatlı ve şekerlemelerde görmek mümkün. Ve ne yazık ki çokça şeker pancarı kaynağımız olmasına rağmen (yanılmıyorsam dünyadaki 5. şeker pancarı üreticisiyiz) ucuz olduğu için ülkemizde son yıllarda mısır şurubu üretmek için mısır ithal edilmeye başlanmış. NBŞ'ler daha uzun raf ömrü de sağlayınca gıda üreticileri için biçilmiş kaftan olmuş.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/4aXkoYHpZWInu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/4aXkoYHpZWInu"></a>
-<figcaption>Harika GIF dimi 😄 "Sugar intake" aratırken denk geldi.</figcaption>
+<figcaption>Harika GIF dimi 😄</figcaption>
 </p>
-
-<!--<iframe src="https://giphy.com/embed/4aXkoYHpZWInu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4aXkoYHpZWInu">via GIPHY</a></p>-->
 
 ---
 
 ## Şeker neden düşman?
 
-• Şeker diyabete, hızlı kilo alımına ve dolayısıyla obeziteye, ani duygu değişimine ve **bağımlılığa** yol açıyor. **Karaciğerde alkol ile neredeyse aynı etkiyi gösteriyor.** 
+Alkol yani etanol, vücudunuz tarafından bir toksik yani zehir olarak algılandığı için %80'i karaciğerde parçalanıyor. 
 
-• Bir deneyde bir süre boyunca farklı zamanlarda **farelere kokain ve şeker** veriliyor. Bir süre sonra kokain ve şeker aynı zamanda fareye sunuluyor ve **farelerin %94'ü şekeri seçiyor**. 
+Fruktoz da aynı alkol gibi yaşamınız süresince hiç ihtiyaç duymadığınız bir madde olduğu için vücudunuz tamamen yabancı kalıyor, onu bir zehir olarak algılıyor ve neredeyse tamamı karaciğerde işlem görüyor. 
+
+(Glikoz tükettiğimizde (ör: ekmek ya da patates) yediğinizde bunun yaklaşık %20'si karaciğerde parçalanıyor.)
+
+Yani fruktozun vücutta işlenme süreçleri alkol ile büyük oranda benzerlik taşıyor.
+
+Şeker diyabete, hızlı kilo alımına ve dolayısıyla obeziteye, ani duygu değişimine ve **bağımlılığa** yol açıyor. **Karaciğerde alkol ile neredeyse aynı etkiyi gösteriyor.** 
+
+Bir deneyde bir süre boyunca farklı zamanlarda **farelere kokain ve şeker** veriliyor. Bir süre sonra kokain ve şeker aynı zamanda fareye sunuluyor ve **farelerin %94'ü şekeri seçiyor**. 
 
 Hatta bir aşama sonrasında şekere giden farelere elektrik şoku veriyorlar, ama fareler yine de kokain yerine şoka razı olarak şekere gidiyorlar.
 
 > Şeker, kokainden 8 kat daha fazla bağımlılık yapıyor.
 
-• Yoğun şeker tüketimi **beyin aktivitelerini yavaşlatıyor** ve öğrenme süreçlerinizin yavaşlamasına sebep oluyor.
+Yoğun şeker tüketimi **beyin aktivitelerini yavaşlatıyor** ve öğrenme süreçlerinizin yavaşlamasına sebep oluyor.
 
-• Şeker tüketimini azaltmak insülin seviyesinin düzelmesini, obezite, diyabet, kötü kolesterol ve kalp rahatsızlıklarının daha az görülmesini sağlıyor. 
+Şeker tüketimini azaltmak insülin seviyesinin düzelmesini, obezite, diyabet, kötü kolesterol ve kalp rahatsızlıklarının daha az görülmesini sağlıyor. 
 
-• Daha az şeker tüketimiyle depresyon riskini azaltmak ve genel olarak daha pozitif bir ruh haline sahip olmak mümkün.
+Daha az şeker tüketimiyle depresyon riskini azaltmak ve genel olarak daha pozitif bir ruh haline sahip olmak mümkün.
+
+Ayrıca şeker, diş çürümesine yol açan bakterilerle mücadele eden salyadaki organizmaları öldürerek dişlerin çürümesine sebep olabiliyor.
 
 ---
 
-• **İnsülinin en önemli görevi, dolaşımdaki kan şekerini derhal dolaşımdan uzaklaştırmaktır**. Depoya gönderir ve bu da karaciğeri, göbeği ve başka bölgeleri yağlandırır.
+**İnsülinin en önemli görevi, dolaşımdaki kan şekerini derhal dolaşımdan uzaklaştırmaktır**. Depoya gönderir ve bu da karaciğeri, göbeği ve başka bölgeleri yağlandırır.
 
-• Özellikle yoğun fruktoz tüketiminde, pankreasımız bizi bu zehirden korumak için bol miktarda insülin üretmeye çalışıyor, bu da sindirimi kontrol eden hormonların daha az üretilmesine sebep oluyor. Akabinde sindirim yapılamadığı için vücut enerji üretemediğinden beyin "Yemek yemeliyim" sinyalleriyle sizi yeniden yemek yemeye sevk ediyor. **Sonuç: doymama hissi ve şişmanlama**.
+Özellikle yoğun fruktoz tüketiminde, pankreasımız bizi bu zehirden korumak için bol miktarda insülin üretmeye çalışıyor, bu da sindirimi kontrol eden hormonların daha az üretilmesine sebep oluyor. Akabinde sindirim yapılamadığı için vücut enerji üretemediğinden beyin "Yemek yemeliyim" sinyalleriyle sizi yeniden yemek yemeye sevk ediyor. **Sonuç: doymama hissi ve şişmanlama**.
 
 <!--Aynı zamanda vücudunuzda yüksek insülin direnci baş gösterecektir. Yani şeker vücuttaki hücrelere giremiyor ve damarlarda dolanmaya devam ediyor. Bu da şeker hastalığını doğurmuş oluyor. -->
 
@@ -88,16 +92,16 @@ Aşağıda paylaştığım videolarda çok daha detaylı bir şekilde açıklama
 
 ---
 
-• Endüstriyel paketli gıdaların en az %80'inde şeker bulunuyor. Şeker güzel çünkü bir uyuşturucu gibi. Almayınca çıldırıyorsun. Patatesinizin yanında annenizin yaptığı domates sosu yerine ketçap istiyorsunuz çünkü içerisindeki şekere bağımlısınız. 
+Endüstriyel paketli gıdaların en az %80'inde şeker bulunuyor. Şeker güzel çünkü bir uyuşturucu gibi. Almayınca çıldırıyorsunuz. Patatesinizin yanında annenizin yaptığı domates sosu yerine ketçap istiyorsunuz çünkü içerisindeki şekere bağımlısınız. 
 
 Ayrıca paketli gıdalarda raf ömrünü artırmak için lif oranı düşürülüyor. 
 
-Örneğin bir meyve yediğinizde içerisinde fruktoz olsa dahi yoğun liflere sahip olduğundan diğer şekerli endüstriyel gıdalar gibi direkt sindirime geçmiyor. Belli bir zaman içerisinde sindiriliyor. 
+Örneğin bir meyve yediğinizde içerisinde fruktoz olsa dahi yoğun liflere sahip olduğundan diğer şekerli endüstriyel gıdalar gibi direkt sindirime geçmiyor. Daha uzun bir zaman içerisinde sindiriliyor. 
 
 
-• Aynı miktarda kalori alsanız dahi protein ve yağ yerine şekere abandığınızda hızlı bir şekilde kilo almaya, yağ oranında artışa ve insülin direnci geliştirmeye başlıyorsunuz.
+Aynı miktarda kalori alsanız dahi protein ve yağ yerine şekere abandığınızda hızlı bir şekilde kilo almaya, yağ oranında artışa ve insülin direnci geliştirmeye başlıyorsunuz.
 
-'That Sugar Film' adlı belgeselde adam günlük kalori alımını aynı tutarak yediği sağlıklı yiyeceklerin bir kısmını şekerli gıdalarla değiştiriyor. 1 ay içerisinde tam 8.5 kilo alıyor ve vücut yağ oranı %7 artış gösteriyor. 
+_'That Sugar Film'_ adlı belgeselde adam günlük kalori alımını aynı tutarak yediği sağlıklı yiyeceklerin bir kısmını şekerli gıdalarla değiştiriyor. 1 ay içerisinde tam 8.5 kilo alıyor ve vücut yağ oranı %7 artış gösteriyor. 
 
 ---
 
@@ -109,7 +113,7 @@ Ayrıca paketli gıdalarda raf ömrünü artırmak için lif oranı düşürül�
 
 • Şekerlemeleri, çikolataları azaltabilirsiniz. 
 
-• Çaya şeker atmayı bırakabilirsiniz. (Evet, çayın gerçekten bir tadı var.)
+• Çaya şeker atmayı bırakabilirsiniz.
 
 <iframe src="https://giphy.com/embed/kVVEP6SmfEXvy" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-morning-kVVEP6SmfEXvy"></a></p>
 
@@ -117,7 +121,9 @@ Ayrıca paketli gıdalarda raf ömrünü artırmak için lif oranı düşürül�
 
 • Beyaz ekmek yerine tam tahıllı ekmekler tüketebilirsiniz.
 
-• Endüstriyel gıdaların "İçindekiler" kısmında "şeker" ya da "x şurubu" şeklinde gördüğünüz tüm ibareler tehlike habercisidir! 
+• Alternatif olarak meyve, kuruyemiş, yoğurt yiyebilir; çay, kahve, ayran ve soda tercih edebilirsiniz.
+
+• Endüstriyel gıdaların "İçindekiler" kısmında "şeker" ya da "x şurubu" şeklinde gördüğünüz tüm ibareler tehlike habercisidir.
 
 ---
 
@@ -151,11 +157,15 @@ Ayrıca paketli gıdalarda raf ömrünü artırmak için lif oranı düşürül�
 
 Yeri gelmişken çikolatanın tarihçesinden de bahsetmek isterim. 
 
-- Çikolata eski Latin Amerika medeniyeti olan Azteklere ait. 
-- Aztekler ilk etapta kakao çekirdeklerini öğütüp sıvı haline getirip tüketirmiş. 
-- Doğal olarak acı bir tada sahip. 
-- Avrupalılar Güney Amerika'yı işgal edip sömürürken çikolatayı Avrupa'ya pazarlamak istiyor. 
-- Bakmışlar yeterince ilgi görmüyor, içine şeker koyalım diyorlar. Sonrası malum. :) 
+* Çikolata eski Latin Amerika medeniyeti olan Azteklere ait. 
+
+* Aztekler ilk etapta kakao çekirdeklerini öğütüp sıvı haline getirip tüketirmiş. 
+
+* Doğal olarak acı bir tada sahip. 
+
+* Avrupalılar Güney Amerika'yı işgal edip sömürürken çikolatayı Avrupa'ya pazarlamak istiyor. 
+
+* Bakmışlar yeterince ilgi görmüyor, içine şeker koyalım diyorlar. Sonrası malum. :) 
 
 --- 
 
@@ -195,4 +205,5 @@ Belki şunlara da göz gezdirmek istersiniz.
 
 - **[NTV - NBŞ'den uzak durmak için 10 neden](https://www.ntv.com.tr/saglik/nisasta-bazli-seker-neden-zararli-uzak-durmak-icin-10-neden,GecIffmRDkCOtnTYhMisQg)**
 - **[BloombergHT - NBŞ raporu](http://www.bloomberght.com/yorum/irfan-donat/2099739-nisasta-bazli-seker-nbs-raporu)**
+- **[Ekşi Şeyler - Alkolle ve Sigarayla Savaştığımız Gibi Neden Net Bir Şekilde Şekerle de Savaşmalıyız?](https://seyler.eksisozluk.com/alkolle-ve-sigarayla-savastigimiz-gibi-neden-net-bir-sekilde-sekerle-de-savasmaliyiz)**
 
