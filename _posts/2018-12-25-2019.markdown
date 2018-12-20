@@ -1,0 +1,115 @@
+---
+title: "Z Raporu: 2018"
+layout: post
+date: 2018-12-20 20:00
+tag:
+- z raporu
+- yeni yıl
+hidden: false
+star: false
+category: blog
+author: ekici
+description: Z Raporu 2018
+---
+
+Merhaba, 
+
+Hititlerin yazdığı anallar (yıllık raporlar) gibi geçtiğimiz yıllarda olduğu gibi bu yıl da sene sonu değerlendirmesi ve yeni yıl planlarımla buradayım. Geriye bakıp okuduğumda benim için güzel bir kayıt olmasını umuyorum. 
+
+---
+
+# 2018: Neydik? Ne olduk?
+
+Koca bir yıl resmen ışık hızıyla aktı geçti. Bu yıl neler yapmışım, kendime neler katmışım kronolojik sırayla anlatmaya çalışayım.
+
+<br>
+
+Ocak ayında üniversiteden mezun oldum (alkış! 👏🏼 🎉). Sağ olun, eksik olmayın. 😁 1999 Eylül'ünden beri devam ettiğim eğitim hayatımın sonlanması benim için de olağan dışı oldu elbette. 
+
+<br>
+
+**Hayat boyu öğrenme** felsefesini tam anlamıyla hayatımın merkezine oturtmak için çabaladım. Bu yıl benim açımdan ağırlıklı olarak ekonomi, davranış bilimi, psikoloji ve tarih ekseninde ilerledi. Şimdi detaya girip de konudan kopmayalım. Üşenmezsem öğrendiklerimi biraz anlatmaya çalışabilirim. (Üşendi...) 
+
+Bu yıl en çok odaklandığım konulardan biri de **minimalizm** idi. Bununla ilgili bir yazı (hatta 2 diyelim) hazırlıyorum ancak henüz bitmedi. Gene üşengeçlik engeline takıldık. 😄 
+
+Kitaplar açısından hayatımın en verimli yılını geçirdim, yüksek müsaadelerinizle kendimi tebrik ediyorum. Kedi olalı bir fare tuttum sanırım. :) Her biri itinayla seçilmiş 24 adet kitap okudum. Bunları da [şu yazıda](burakekici.com/2018-kitaplar) özetleyeceğim, 2 hafta içerisinde yayınlanmış olur diye umuyorum. Bu yıl o kadar çok kıymetli bilgi öğrendim ki anlatarak bitirmek zor. 
+
+<br> 
+
+Spor ve sağlıklı beslenme konularına da daha ciddi eğildim. Şeker konusunda mayıs ayında [şöyle bir yazı](burakekici.com/seker) yazmıştım, bilenler bilir. 2018'de şeker savaşında önemli ilerlemeler kaydettim. Eve neredeyse hiç abur cubur girmedi. Annemin de aklına girip alıştırdım. Ofiste de minik kaçamaklar dışında mutfaktan genelde sade sodayla çıkıyorum. Öğlen tatlı yerine meyve tercih ediyorum. Bi noktadan sonra aramayı da bırakıyor insan. Ama arkadaşlar hadi künefeciye gidiyoruz diyince şeker savaşı falan yalan olabiliyor, karşı koymak güç. 😄 
+
+Yürünebilecek her yere yürüyorum. İş yerinde asansör kullanmıyorum. Bir de şu spor işini tam düzene oturtabilirsem her şey daha güzel olacak. 
+
+<br>
+
+İş konusuna gelecek olursak neredeyse 1 yıldır tam zamanlı çalışıyorum. İlk güne göre epey yol kat ettiğime inanıyorum. 
+
+Önemli bir değişiklik söz konusu oldu. Kariyerimi iOS geliştirici olma yolunda sürdürürken çalıştığım şirketin oyun sektörüne kaymasıyla ben de yanlışlıkla Unity3D oyun geliştirici oldum. :) Hoşuma da gitmedi değil hani. 
+
+Bir diğer kayda değer değişiklik de çalışma düzenimle alakalıydı. Kıymetli patronlarım çalışma saatlerini esnetti. Bu da trafikten korkunç bir şekilde muzdarip olan bana günde yaklaşık 1 saat kazandırıyor. Mevcut sistemimizde 7.30-10.00 arasında işe gidip, başlangıç saatime müteakip 16.30 ila 19.00 arasında işten çıkabiliyorum. Genellikle 7.30-16.30 çalışıyorum, böylece günü oldukça verimli kullanabiliyorum. Bu esnek saat olayı gerçekten harika oldu. 
+
+<br>
+
+2018 yılında neredeyse hiç TV izlemedim. Zaten baştan aşağı çer çöp içeriklerle dolu. Size de öneririm. 
+
+Bu yaz iki adet (benim açımdan) çılgınlığa imza attım: yamaç paraşütü ve tüplü dalış yaptım. Sınırlarımı yekten yok ettim. 
+
+<br>
+
+Spotify'da 64 bin dakika müzik dinlemişim. Kabaca bir hesap yapınca günde 3 saat yapıyor. 😀 İstanbul Arabesque Project her yıl olduğu gibi yine yerini almış.  Bu yıl en favori şarkım _5 Quartet - Unutama Beni_ olmuş. Çok fena şarkıdır, dikkatli dinlemek lazım. 🔪 😄 
+Bir de dinlediğim şarkıların yaklaşık %30-40'ı yabancı şarkılardan oluşmasına rağmen ne Haftalık Keşif'te ne de diğer çalma listelerinde hiç yabancı şarkılar yer almıyor. Spotify'ın öneri sistemi bir tuhaf. 
+<p align="center">
+  <img src="../assets/images/2018/2019/spotify-stats.jpg" alt="2018 Spotify İstatistikleri" width="400"/>
+</p>
+
+<br>
+
+Yaklaşık Ekim ortasında başlayarak Instagram'a 1 ay kadar ara verdim. Günde neredeyse 40 dakika boşa çıktı. İnsanların toz pembe tatlış hayatlarını beğenmektense bu süreyi kitap ve oyuna aktarmak çok daha verimliydi. Ama uzun süreli kopmak zor elbette. En nihayetinde geri döndüm. :) 
+
+<br>
+
+Bu yıl hayatımı önemli ölçüde etkileyen iki adet satın alma yaptım. Bunlardan ilki Airpods. Hayat kalitesine direkt olarak +5 puan ekliyor. Eğer müzik dinlemeyi seviyorsanız Airpods ya da herhangi bir kablosuz kulaklık tavsiye ederim, böyle bir özgürlük yok.
+
+Diğer satın alımım ise Playstation idi. Geçen yılki yazımı incelerken oyunlarla ilgili kısıma denk gelince biraz garip hissettim. 😄 Elim azıcık maaş gördü biraz rahata kavuştum ya koşa koşa gidip Playstation alıverdim. Gerçekten çok hızlı oldu ben de böyle planlamıyordum... 
+
+Oyun sektörü öyle bir noktaya gelmiş ki müptelası olmamak elde değil. The Last of Us, Battlefield, FIFA en severek oynadığım oyunlar. Sonra neden blog yazmıyorum... 
+
+<br>
+
+Son yıllık yazımda Barış Özcan'ın Zinciri Kırma önerisinden bahsetmiştim. Epey faydasını gördüm diyebilirim. Hemen aşağıda 2018'deki durumu görebilirsiniz. 
+<p align="center">
+  <img src="../assets/images/2018/2019/books-2018.jpg" alt="2018 Kitaplar" width="600"/>
+</p>
+
+Barış Abinin yeni videosunu (şu adresten)[https://youtu.be/5uIl38UFVh0] izleyebilir, 2019 takvimini de video açıklamasından indirebilirsiniz. 
+
+<br>
+
+---
+
+<br>
+
+# 2019: Hedefler
+
+Peki 2019'da nelere odaklanmayı planlıyorum? Aşağı yukarı 2018 ile aynı hedefler var, biraz daha yoğun belki. 
+
+* Yazılım - 3 adet side project 
+* Kitap okuma - 24 kitap 
+* Blog - her ay en az 1 yazı 
+* Spor - haftada en az 2 antrenman 
+* Beslenme - daha az şeker, daha az paketli gıdalar
+
+Her ne kadar böyle planlar yapsam da şu söz yaşamın tüm dengesini (ya da dengesizliği) özetliyor:
+
+> _"Hayat siz planlar yaparken başınıza gelenlerdir."_
+
+<br>
+
+---
+
+<br>
+
+Bu yıllık benden bu kadar. Her ne kadar bu yazıları kendim için yazıyor olsam da birileri okuyup kendi motivasyon buluyorsa ne mutlu bana. 
+
+Önümüzdeki yıl yine benzer konseptte bir yazıda görüşmek dileğiyle. Mutluluk dolu bir yıl diliyorum.
+

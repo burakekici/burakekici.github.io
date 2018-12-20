@@ -1,10 +1,11 @@
 ---
-title: "Kitaplar ve Biz"
+title: "\"Okumak Zekayı Kibarlaştırır\""
 layout: post
 date: 2017-09-17 20:00
 tag:
 - kitap
 - okumak
+star: true
 category: blog
 author: ekici
 description: Kitap okuma alışkanlığı kazanmak
@@ -25,9 +26,9 @@ Uzun yıllardır kitap okumayı düzenli bir aktiviteye dönüştürmeye çalı�
 
 (Özgür Bolat’tan önündeki kitabı isteyerek söze başlıyor.)
 
-“Nedir bu kitap? Richard M Lerner, Ergenlik Hakkında Her Şey. Öz geçmişine baksak, bir dünya kitap okumuş, bir sürü başarısı olan bir adam.
+> “Nedir bu kitap? Richard M Lerner, Ergenlik Hakkında Her Şey. Öz geçmişine baksak, bir dünya kitap okumuş, bir sürü başarısı olan bir adam.
   
-Kaç para bu kitap? 29 lira. Yani bir profesör **hayatı boyunca** ergenlikle öğrendiği **her şeyi** yazıyor ve bunu size yalnızca 29 liraya satıyor. Bu adamı buraya konuşmaya çağırsak belki 10 bin dolar para isteyecek. Ama çok daha fazlasını 29 liraya alma şansınız var.”
+> Kaç para bu kitap? 29 lira. Yani bir profesör **hayatı boyunca** ergenlikle öğrendiği **her şeyi** yazıyor ve bunu size yalnızca 29 liraya satıyor. Bu adamı buraya konuşmaya çağırsak belki 10 bin dolar para isteyecek. Ama çok daha fazlasını 29 liraya alma şansınız var.”
 
 Kitapların alametifarikası en net şekilde ancak böyle ifade edilebilirdi sanırım. İlgilenenler için videoyu da bırakayım (dakika 1:19:23);
 
@@ -57,7 +58,8 @@ _**Etimoloji molası:**_
 
 _Kitap kelimesi, Arapçadaki “ketebe” (yazmak) fiilinden türemiş ve “kitab” (yazılı olan, yazılan) olarak dilimize girmiştir. Türkçedeki karşılığı “betik” ya da “bitig”dir._
 
-&nbsp;
+<br>
+<br>
 
 > “İyi kitaplar okumak, geçmiş yüzyılların en parlak insanlarıyla sohbet etmek gibidir.” Descartes
 
@@ -71,13 +73,13 @@ Bu bölümdeki istatistikler her ne kadar yürek burksa da üstesinden gelmek i�
 
 &nbsp;
 
-Türkiye nüfusunun yüzde 39’u ömründe **hiç** kitap okumamış.
+* Türkiye nüfusunun yüzde 39’u ömründe **hiç** kitap okumamış.
 
-TÜİK verilerine göre kitap okumak, Türk insanının ihtiyaç listesinde **235. sırada** yer alıyor.
+* TÜİK verilerine göre kitap okumak, Türk insanının ihtiyaç listesinde **235. sırada** yer alıyor.
 
-Yani **24 saatinin yalnızca 1 dakikasını** kitap okumaya ayırıyor. Bunun yanı sıra günde **6 saat** TV izlerken, **3 saat** de internete harcıyor.
+* Yani **24 saatinin yalnızca 1 dakikasını** kitap okumaya ayırıyor. Bunun yanı sıra günde **6 saat** TV izlerken, **3 saat** de internete harcıyor.
 
-Dünya genelinde kişi başına kitap harcaması **1.3 dolarken**, Türkiye'de bu rakam **0.25 dolar**.
+* Dünya genelinde kişi başına kitap harcaması **1.3 dolarken**, Türkiye'de bu rakam **0.25 dolar**.
 
 &nbsp;
 
@@ -103,15 +105,13 @@ Ortalama bir insanın okuma hızı **dakikada 200-250 kelimedir**.
   
 Genellikle kitaplarda **sayfa başına 250-300 kelime** bulunur.
   
-Kabaca bir hesapla **günde yalnızca 30 dakika** kitap okusanız 25 sayfa eder.
-  
-30 gün x 25 sayfadan 750 sayfa yapar.
-  
-Böylece her ay 2-3 adet kitap bitirebilirsiniz.
+Kabaca bir hesapla **günde yalnızca 30 dakika** kitap okusanız 25 sayfa eder. 
+
+Bu da ayda 750 sayfa yapar. Böylece her ay 2-3 adet kitap bitirebilirsiniz.
   
 Ayda **2** kitap bitirseniz, yılda tam **24** kitap yapıyor.
 
-Böyle Devlet Bahçeli hesabı gibi oldu ama sayılara çok odaklanmamak lazım. Her ay 1 kitap okusanız bile size çok şey katar.
+<br>
 
 > “Okumak, zekayı kibarlaştırır.” C.Meriç
 
