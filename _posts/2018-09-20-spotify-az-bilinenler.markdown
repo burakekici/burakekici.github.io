@@ -1,5 +1,5 @@
 ---
-title: "Sahi Siz Spotify'ı Sadece Müzik Dinlemek İçin mi Kullanıyorsunuz?"
+title: "Sahi Siz Spotify'da Sadece Müzik mi Dinliyorsunuz?"
 layout: post
 date: 2018-09-20 20:00
 tag:
