@@ -3,7 +3,7 @@ title: "Markdown Common Elements"
 layout: post
 date: 2015-01-02 20:00
 image: /assets/images/markdown.jpg
-headerImage: false
+headerImage: true
 hidden: true
 tag:
 - markdown

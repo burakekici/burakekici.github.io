@@ -1,0 +1,412 @@
+---
+title: "2018'de Okuduğum Kitaplar"
+layout: post
+date: 2019-01-07 20:00
+image: /assets/images/2019/kitaplar-2018/cover.JPG
+headerImage: false
+tag:
+- kitap
+- okumak
+hidden: false
+star: false
+category: blog
+author: ekici
+description: 2018 yılında okuduğum kitaplar.
+---
+
+<p align="center">
+  <img src="../assets/images/2019/kitaplar-2018/cover.JPG"/>
+</p>
+
+Merhaba, 
+
+Bu yıl benim için zoru başardım ve her biri itinayla seçilmiş 24 kitap okudum. İlginizi cezbeden bir kitap olursa okuma listenize alabilesiniz diye kitaplara dair altını çizdiğim kısımlardan bazı alıntılar ekledim. Her kitaba dair uzun uzun özet yazmak, alıntılar yapmak isterdim ancak hem size hem de bana kolay olması için her kitap için en fazla 5 alıntı ve/veya kısa bir yorum olacak şekilde içeriği kısıtlamaya çalıştım.
+
+<br>
+
+# 1. Beyaz Zambaklar Ülkesinde
+Grigory Petkov, 1923
+
+Bu kitap Finlandiya'nın 1800'lü yıllarda yaşadığı büyük sıçramayı konu alıyor. 1806 doğumlu Johan Wilhelm Snelman'ın önderliğinde Finlandiya'nın değişime nereden başlayıp neler yaptığını özetliyor. Ayrıca Atatürk bu kitabın askeri okullarda okunmasını zorunlu kılmış. Ben bir şans verin derim.
+
+> Yöneticiler iyi veya kötü olsunlar, kahraman veya zalim olsunlar, onlar kendi milletlerinin birer yansımasıdır.
+
+> Ülke insanının çoğunluğununun eğitimden yoksun bırakılması bir cinayettir.
+
+<br>
+
+# 2. Satranç 
+Stefan Zweig, 1942
+
+> Dünyada hiçbir şey insan ruhu üzerinde hiçlik kadar ağır bir baskı uygulayamaz.
+
+<br>
+
+# 3. Ulusların Düşüşü
+Daron Acemoğlu & James Robinson, 2012
+
+Daron Hoca'nın yazmış olduğu ansiklopedi kadar doyurucu harika kitap. Bugün zengin ülkeler neden zengin, fakir ülkeler neden bu kısır döngüden çıkamıyor, Avrupa neden bu kadar müreffeh ve özgür gibi tüm soruların yanıtı bu eserde mevcut.
+
+<br>
+
+# 4. Korku
+Stefan Zweig, 1925
+
+> Korku cezadan çok daha beterdir, çünkü ceza bellidir, ağır da olsa, hafif de, hiçbir zaman belirsizliğin dehşeti kadar, o sonsuz gerilimin ürkünçlüğü kadar kötü değildir.
+
+> İçte tutulan gözyaşları akıtılanlardan daha acıdır.
+
+<br>
+
+# 5. Türklerin Altın Çağı
+İlber Ortaylı, 2017
+
+> Hiçbir beyliğimiz adını Türk koymamıştır ama her tarafta Türk olduğu için İtalyanlar vatanımıza "Turchia" demiştir. Yani Türkiye onların verdiği bir isimdir.
+
+> Öyle filmlerdeki gibi yamuk bir Türkçe ile padişahın huzuruna çıkmak mümkün değildir. Bu memlekette Hürrem Sultan şairlerdendir.
+
+> Osmanlı İmparatorluğu çökmedi. Bir rejim olarak, imparatorluk, monarşi (mutlakiyet), sonra meşrutiyet bir rejim olarak kendisini feshetti. --- 19. asırda Tanzimat devriyle Türkiye şunu dedi: "Eğer Batılılaşacaksak bunu biz yaparız." Bunu 2 tane devlet dedi, biri Rusya diğeri Türkiye. Parçalanan ve çöken imparatorlukta böyle bir şey olmaz.
+
+> Esasen Arapça lûgatımız da Araplarla, Arap kültürüyle temasımızdan değil, İran'dan gelmiş olmamızdan kaynaklanır.
+
+> Bizans imparatorluğu Avrupa hümanistlerinin verdiği addır. Romion-Romanioi, "Devletin ve ülkenin adı Romania'dır" der. Türkler de bu ülkeye Rum ülkesi, mensuplarına da Rumî (Romalı) derler.
+
+> Fatih Sultan Mehmet bir Rönesans aydınıydı. Rönesans'ın otodidakt, yani kendi kendini yetiştiren imkânlarını kullanmanın yanı sıra bunları zorlayan, çok renkli bir aydın portresidir. Arapça, Farsça, Yunanca ve İtalyanca konuşur, bu dillerin edebiyatını da iyi biliyordu. Ülkeye ressam getiriyor, yabancı ülkelerin hem tarihi hem de coğrafyasıyla ilgili bütün bilgileri toplamaya çalışıyordu.
+
+<br>
+
+# 6. Dönüşüm
+Franz Kafka, 1915
+
+<br>
+
+# 7. Olağanüstü Bir Gece
+Stefan Zweig, 1922
+
+> Beni bırakan insanlar, gelen ve giden kadınlar oldu, her defasında odada oturmuş camın dışındaki yağmuru seyreden biri gibi hissettim kendimi; doğrudan yakınımda olan şeylerle bile aramda camdan bir duvar vardı ve kendi irademle onu yıkacak gücü bulamıyordum.
+
+<br>
+
+# 8. Bilinmeyen Bir Kadının Mektubu
+Stefan Zweig, 1922
+
+<br>
+
+# 9. Geleceği Keşfedenler 
+Walter Isaacson, 2017
+
+Teknoloji ve bilişim alanında çalışan herkesin bu kitabı okuması gerektiğini düşünüyorum. Teknolojinin tarihini keyifli bir şekilde detaylıca aktaran bir kitap.
+
+> Dijital çağın asıl yaratılıcılığı sanat ve bilimi harmanlayanlar insanlardan geldiğini öğrendim. 
+
+> (Bell Labs) Yaratıcılığın tesadüfi karşılaşmalarla tetiklendiğini biliyorlardı. Bu yüzden farklı disiplinlerin farklı binalarda olmamasını istediler. Birimlerin birbiriyle etkileşim kurmasını sağlamak için tüm binalar birbirine bağlanmıştı. 70 yıl sonra Steve Jobs Apple'ın yeni merkezini tasarlarken aynı stratejiyi kullanacaktı.
+
+> Bilgisayarların doğuşundan alınacak en büyük ders, yeniliğin genellikle grup çabasıyla, vizyonerler ile uygulamacıların işbirliğiyle ve farklı kaynaklardan fikir almakla ortaya çıktığıdır. İcatların birinin aklına yıldırım gibi düşmesi veya bir bodrumda ya da bir garajda tek başına çalışan birinin kafasında aniden bir ampul yanması sadece hikaye kitaplarında olur.
+
+> Elektronik cihazların hayatımızın her alanına girdiği dijital çağın doğuşu New Jersey'de, 16 Aralık 1947 Salı günü gerçekleşti. Bell Labs'teki iki bilimci, biraz altın şerit, bir parça yarı-iletken madde ve bükülmüş bir ataşla minik bir cihaz yaptılar. Doğru bir şekilde kıpırdatıldığında elektrik akımını güçlendirebiliyor, açıp kapatabiliyordu. Transistör adı verilen bu cihaz, dijital çağın buhar makinesi olacaktı.
+
+> Robert Noyce: "Babamın her zaman bodrumda bir atölyesi vardı. Amerika'da küçük bir kasabada büyüdüm. Kendi kendimize yetmek zorundaydık. Bir şey bozulduğunda kendiniz tamir ederdiniz."
+
+> Robert Noyce, Gorden Moore ve Andy Grove; Silikon Vadisi'ne nüfuz edecek Intel kültürü bu üç adamın ürünüydü. Çalışanlara daha esnek çalışma saatleri ve işlerini nasıl yapacakları konusunda inisiyatif vermenin avantajını fark etmişlerdi. Yönetim hiyerarşisi düzleştirildi. 1950'ler boyunca bu yaklaşım Kaliforniya'nın rahat yaşam tarzıyla birleşince cuma bira partileri, esnek saatler ve hisse opsiyonlarının olduğu bir kültür ortaya çıktı. Liyakat esastı. Bir işyeri ne kadar az sınıflandırılmış ve açık olursa yeni fikirler o kadar kıvılcımlanır, yayılır, geliştirilir ve uygulanırdı. --- Dijital çağ devrimsel gibi görünebilirdi ama aslında önceki nesillerin fikirlerinin geliştirilmesine dayanıyordu. Sadece aynı dönemde yaşayanların değil, nesillerin arasında da işbirliği vardı. Intel'in kurucuları hiyerarşik olmayan, ekip odaklı ve Noyce'tan tüm çalışanlara herkesin birbiriyle dirsek teması olduğu açık bir ofis alanı yarattılar. Bu Silikon Vadisi için bir model oldu. Steve Jobs Pixar için yeni bir merkez tasarladığında çalışanlar arasında tesadüfi karşılaşmalar olabilmesi için avlunun yapısı, hatta tuvaletlerin yeri konusunda bile takıntılı davrandı.
+
+> Mikroişlemci, kişisel bilgisayarlar için donanım ve yazılım yapan yüzlerce yeni şirket meydana getirdi. Intel sadece önde gelen çipleri üretmekle kalmadı, aynı zamanda risk sermayesiyle şirket kurma kültürünü yaratarak ekonomiyi dönüştürdü ve güney San Francisco'da başlayıp Palo Alto'dan San Jose'y 70 kilometrelik düz bir alan olan Santa Clara Vadisi'nin kayısı ağaçlarını söktü.
+
+<br>
+
+# 10. Değişim Sürecinde Türkiye
+Mahfi Eğilmez, 2018
+
+Yine her Türk'ün okuması gereken bir başyapıt. Mahfi Hoca'nın bu harika eseri okullarda ders olarak okutulabilecek nitelikte.
+
+> 1618 yılında başlayan 30 yıl savaşları 1648'de sona erdi ve Vestfalya Antlaşması imzalandı. Böylece Avrupa modern çağa geçiş yaptı. Egemenlik, sınırlar, iç işlere karışma, elçilik gibi kavramlar yaşama girdi. Devlet ve din işleri birbirinden ayrıldı, laikliğin temelleri atıldı. Ulus devlet düşüncesi 1789 Fransız Devrimi sonrasında öne çıktı. Feodal yapı yıkıldı, merkantilist sistemden kapitalist sisteme geçiş yapıldı. Feodal yapı yerine burjuvazi yükselmeye başladı.
+
+> Kapitalizmin 1. büyük krizi 1. Dünya Savaşı sonrasında Almanya'nın çok büyük bir borca sokularak kapitalizmin dışarı çıkarılmasına sebep olunmasıydı. Böylece Hitler ve Nazi Almanya'sı kurulmuş oldu. Kapitalizmin yaşadığı 2. büyük kriz, 1929'da başlayan Büyük Bunalım ya da Büyük Depresyon olarak adlandırılan ekonomik krizdi. 1. Dünya Savaşına girildiğinde her ülkenin parası altın standardına bağlıydı. Savaştan sonra paraya şiddetle ihtiyaç duyan Avrupa ülkeleri altın standardını terk ederek karşılıksız para basmaya başladı ve bu da enflasyona sebep oldu. Yatırımcılar paralarını altın karşılığı para basmaya devam eden ABD bankalarına yolladı ve böylece altın servetinin yaklaşık yüzde 40'ı ABD'de toplandı. Bu büyük servet ABD'de müthiş bir ekonomik sıçramaya yol açtı. Borsada değerlerin astronomik hızla şişmesi sonucu 24 Ekim 1929'da bir gün içinde borsada 4 milyar doların üzerinde kayıp yaşandı, 4000 kadar banka battı. Bu kriz tüm dünyaya yayıldı ve yaklaşık 10 yıl sürdü. 
+
+> Yirminci yüzyılda iki önemli gelişme oldu; 1971'de ABD doların altın karşılığını terk etti ve kapitalizmin yalan yanlış bir modelinin dünyanın her yerinde egemen olmasını sağlayan küreselleşme ortaya çıktı. 1990'larda Sovyet sistemi dağılıp da dünya tek kutuplu hale gelince mallar tamamen serbest dolaşmaya başladı ve sermayenin serbest dolaşımı da sistemin temeli haline geldi. --- Küreselleşmenin getirdiği serbest sermaye hareketiyle dünyanın her yerinde kredi kullanımı artmış, büyüme de hızlanmıştır. 2008 krizi, üçü beş gösteren, olmayan parayla olmayan varlıkları satın almayı özendiren, ahlaksızlıktan cesaret bulmuş açgözlülüğe inmiş bir tokat gibi etki yaptı. 
+
+> Roma İmparatorluğu'nun 5. yüzyılın hemen öncesinde Hıristiyanlığı devlet dini olarak kabul etmesiyle Yunan uygarlığının yarattığı bilimsel birikim kenara atılıp, düşünceyi ifade etme özgürlüğü rafa kaldırılınca Avrupa yeni bir döneme girdi. Ortaçağ boyunca Avrupa bilimden uzak karanlık bir çağ yaşadı. Her şey din adamlarının açıklamalarına ve ölçülerine kaldı. Engizisyon yargısı da işin içine girince bilim, dinin emrine verilmiş oldu. 
+
+> Bir toplum, geçmişte çekilen acıları hatırlamaz, yapılan hataları değerlendiremezse aynı acıları çekmeye mahkûmdur. Tarihini doğru okumayan kuşaklar, güün gelir o tarihi başkalarından dinlemek zorunda kalırlar. 
+
+<br>
+
+# 11. Kolay Ekonomi
+Mahfi Eğilmez, 2016
+
+Ekonomi okuryazarlığı edinmek için en uygun başlangıç.
+
+> GSYH yani Gayri Safi Yurt içi Hasıla ülkede 1 yıl içinde **üretilen tüm malların toplam karşılığına** denir. Türkiye'de 2017’de 852 milyar dolar idi.
+
+> Faiz, tasarruf sahibinin, tasarrufunu kullanmak yerine bir başkasına ödünç vermesinin karşılığında aldığı bir vazgeçme ya da kullanımı erteleme bedelidir. Bu işin evini bir süreliğine başkasına kiralayarak kira bedeli alan kişinin yaptığı işten bir farkı yoktur.
+
+> Enflasyon tüketimi artırır. Çünkü ürün fiyatlarının pahalanacağını düşünen insanlar erkenden almaya yönelir. Fiyatlar sabitse, enflasyon düşükse insanlar nasılsa seneye de aynı diyip harcamalarını erteleyebilir.
+
+<br>
+
+# 12. Hayatımızdaki Algoritmalar
+Brian Christian & Tom Griffins, 2017
+
+Kötü çeviri kurbanı olduğunu düşündüğüm bu kitaptan yeterince keyif alamadım. Bir de İngilizce orijinalini denemeliyim sanırım.
+
+> İnsanlar erkenden bırakma ve en iyi alternatifleri görmeden vazgeçme eğilimindedir.
+
+> Pişmanlık gerçekte yapmış olduğumuz ile olabilecek en iyi şeyin sonradan karşılaştırılmasıdır.
+
+> Google ve Bing tarzı programlara "arama motoru" deriz ancak bu yanlış bir isimlendirmedir. Gerçekte bunlar sıralama motorudur.
+
+> İnsan beyninin, günlük alınan kalorinin yaklaşık 5'te 1'ini yakıyor olması, entelektüel yeteneklerimizin bize sağladığı evrimsel avantajların bir mirasıdır.
+
+> İster işine her gün tampon tampona trafikte gitmeye çalışan bireyler, isterseniz de TCP paketlerini internette yönlendiren yönlendiriciler olsun sistemdeki herkes, sadece kendileri açısından en kolay olan şeyi ister. Sürücüler ne olursa olsun sadece en kısa güzergahı ister. Tim Roughgarden ve Eva Tardos 2002 yılında bencil yönlendirme (selfish routing) yaklaşımının sadece 4/3 değerinde bir anarşi bedeli olduğunu kanıtlamışlardır. Yani herkesin istediğini yapması, kusursuz bir koordinasyondan sadece %33 daha kötüdür.
+
+<br>
+
+# 13. Ferrari’yi Çalan Fil
+Şafak Altun, 2017
+
+> Psikoloji bilimine göre insan algısal olarak cimri davranmayı seviyor, zorda kalmadıkça, kafa yormak yerine kestirmeden gitmeyi tercih ediyor. Restoran menülerine "Şef'in Seçtikleri" bölümünün eklenmesi boşuna değil. Müşteriler, şef seçtiyse lezzetli olmalı algısıyla bu ürünleri tercih etmeye eğilim gösteriyorlar.
+
+> Psikolog Robert Zajonc, 1968'de yaptığı deneyle "Salt Maruz Kalma Etkisi"ni keşfetmiş. İnsan, bir şeye ne kadar maruz kalırsa ona o kadar bağlılık hisseder. Sürekli göz önündeki kişilerin "reklamın kötüsü olmaz" demesinin altında yatan sebep de budur.
+
+> IKEA etkisi, insanların oluşturulmasına kısmen katkısı olduğu ürünlere orantısız şekilde yüksek değer vermesine deniyor. 
+
+> Süpermarketlerde en çok satılması istenen malzemeler göz hizasına yerleştirilir.
+
+> Buffer CEO'su Joel Gascoigne: "Haberler genellikle olumsuzdur çünkü haberde olumsuzluk satar. Ana akım haberler bilginin fast food'udur. Ne kadar uzun süre negatiflik tüketirseniz o kadar sağlığınızdan olursunuz. Haberleri izleyeceğiniz vakti hobilerinize ya da küçük zevklerinize ayırarak günlük hayatınızı zenginleştirebilirsiniz." Kötü haber iş yapar çünkü beynimiz her zaman korkacak bir şey arar.
+
+> George Kelling-James Wilson 1982'de Atlantic'e yazdığı makalede 'Kırık Cam Teorisi'ni açıklamıştır. Teoriye göre, bir ortama çöp atıldığında, başkaları da aynı yere çöp atar. O mekanda her şey zaman içinde kirlenmeye, kötüleşmeye, kırılmaya ve bozulmaya başlar. Suç oranları artar. Teoriye göre vandallığı önlemenin yolu sorunlar küçükken onarmaktır.
+
+Kitapta geçen alıntılardan:
+> "Hayatımın ilk yıllarında gazetelerde hiçbir olayın doğru sunulmadığını fark ettim." George Orwell
+
+> "Hiçbir şey okumayan bir adam, sadece gazete okuyan bir adamdan daha bilgedir." Thomas Jefferson
+
+> "Gerçek ayakkabılarını giymeden, yalan dünyayı üç kere dolaşır." Mark Twain
+
+> "Bir erkeğin maaşından duyduğu tatmin, bacanağından daha fazla kaznaıp kazanamamasına bağlıdır." H.L.Mencken
+
+<br>
+
+# 14. Amok Koşucusu
+Stefan Zweig, 1922
+
+<br>
+
+# 15. Ikigai
+Hector Garcia, 2017
+
+> Ikigai: "hep meşgul kalarak mutlu olma" anlamına gelen Japonca bir terim. Japonya'da her 100.000 kişiden 24.055'i 100 yaşın üzerindeymiş. Japonca'da "emekli olma"ya karşılık gelen bir sözcük yokmuş.
+
+> "Defalarca ne yapıyorsak oyuz. Bu yüzden mükemmellik bir eylem değil, alışkanlıktır." Aristoteles
+
+> Bazı araştırmalar aynı anda birkaç farklı şey üzerinde çalışmanın verimliliği en az %60, IQ'yu da en az 10 puan azalttığını göstermiş.
+
+> Meditasyon zihin kaslarımızı eğitmenin bir yoludur.
+
+> Mutluluk sonuçta değil, süreçtedir. En mutlu insanlar en çoğunu elde edenler değildir. Vaktini akışı yakalayarak geçirenlerindir.
+
+Ikigai'nin 10 kuralı
+1. Aktif kalın emekli olmayın.
+2. Ağırdan alın. Aceleci olmak yaşam kalitesi ile ters orantılıdır.
+3. Midenizi tıka basa doldurmayın.
+4. Çevrenizde iyi arkadaşlarınız olsun. Yaşamak için en iyi ilaç arkadaşlardır.
+5. Bir sonraki doğum gününüze kadar şekle girin.
+6. Gülümseyin.
+7. Doğayla tekrar bağlantı kurun.
+8. Teşekkürlerinizi sunun. Günde 1 dakika ayırarak atalarınıza, havaya, yemeğe, doğaya, arkadaşlarınıza ve ailenize teşekkürlerinizi sunun.
+9. Anı yaşayın. Sahip olduğunuz tek şey bugün. Hatırlamaya değer kılın.
+10. Ikigainizi takip edin.
+
+<br>
+
+# 16. Elon Musk
+Ashlee Vance, 2016
+
+Elon Musk'ı tanıyıp da hayran kalmamak elde değil. Ancak bu kitapla birlikte anladım ki biyografiler ve otobiyografiler bana göre değil.
+
+> Musk: "Sanki biri dünyayı daha iyi bir yer haline getirmeliydi çünkü tersi bir hareket mantıklı durmuyordu."
+
+> Elon'un genç biri olarak karakterinin en çarpıcı yanı okuma dürtüsüydü. Kardeşi Kimbal şöyle söylemişti: "Günde 10 saat kitap okumak onun için alışılmadık bir şey değildi. Eğer hafta sonu günde 2 kitabı bitirebiliyordu."
+
+> Fosil yakıtlı otomobiller, girdi olan benzinin çıktı olan çekiş gücü bakımından oranlanmasına göre yüzde 10-20 arası bir verimlilikle çalışmaktadır. Elektrikli Tesla Model S'in verimi %60'a ulaşmaktadır.
+
+<br>
+
+# 17. Ustalık Gerektiren Kafaya Takmama Sanatı
+Mark Manson, 2017
+
+Banal bir 'kişisel gelişim' kitabı olduğunu düşünüyorum. Zaman kaybı. 
+
+<br>
+
+# 18. 21. Yüzyıl için 21 Ders
+Yuval Noah Harari, 2018
+
+Harari'nin Homo Sapiens ve Homo Deus'un ardından çıkardığı, serinin 3. kitabı. Keyifle okudum. 
+
+> Medyayı tekeline alan oligarşi tüm başarısızlıklarını tekrar tekrar başkalarının üzerine atıp dikkati hayali ya da gerçekdışı mihraklar üzerine çeker.
+
+> Referandum ve seçimler her zaman insanların duygularıyla ilişkilidir, mantıklarıyla değil. Brexit referandumunun ardından ünlü biyolog Richard Dawkins, İngiliz Halkının, kendisi de dahil, büyük bir kısmından böyle bir referandumda oy kullanmasında istemenin yanlış olduğunu çünkü gerekli ekonomi ve siyaset bilimi altyapısına sahip olmadıklarını ifade etmişti. "Einstein'ın cebir hesaplamalarının doğruluğunun halk oylamasıyla karar vermekten ya da pilotun hangi piste ineceğini yolcuların oyuna bırakmaktan farksız bir şey".
+
+> Hem demokrasiler hem de diktatörlükler kitlelerin sağlığı, eğitimi ve refahına büyük yatırımlar yaptı çünkü seri imalat bantlarında çalışacak milyonlarca sağlıklı işçi ve cephede savaşacak milyonlarca sadık asker gerekiyordu.
+
+> 1914 ila 1918 arasında ve sonra tekrar 1939 ila 1945 yıllarında teknolojik gelişim hızı tavan yaptı çünkü topyekûn savaşa giren milletler tedbirli ve ekonomik davranmayı bırakıp her tür cesur ve akıl almaz proye muazzam kaynaklar aktardı. Bu projelerin çoğu başarısız oldu ama kiminin sonucunda tanklar, radar sistemleri, zehirli gazlar, süpersonik jetler, kıtalararası füzeler ve nükleer bombalar ortaya çıktı.
+
+> Ahlak "ilahi buyruklara uymak" değil "çekilen acıları azaltmak" anlamına geliyor. İnsanların cinayet işlemeyi, tecavüz etmeyi ve hırsızlık yapmayı hala sürdürüyor olmasının sebebi yaptıklarının yol açtığı acıları ancak yüzeysel bir şekilde idrak edebilmeleridir. 
+
+> Coca-cola, Amazon, Baidu ve hükümet sizi ele geçirmek için yarışıyor. Akıllı telefonunuzu, bilgisayarınızı, banka hesabınızı değil, sizi ve organik işletim sisteminizi ele geçirme yarışındalar. Sonuçta basit bir ampirik mesele bu: algoritmalar içinizde ne döndüğünü sizden daha iyi bilirse otorite onlara geçer.
+
+<br>
+
+# 19. Otuz Milyon Kelime
+Dana Suskind, 2015
+
+Çocuk sahibi olanlar ya da çocuk sahibi olmayı düşünenlerin kesinlikle okuması gerektiğini düşündüğüm harika kitap. Ezber bozan bir içeriğe sahip. Meraklısı için birkaç alıntı:
+
+> İnsan beyninin %90'ı 3 yaşına kadar yani ilk 36 ayda oluşuyormuş.
+
+> Hiçbir çocuk zeki doğmuyor, yaşamının ilk yıllarındaki çevresine bağlı olarak potansiyelini açığa çıkarıyor ya da çıkarmıyor. 
+
+> Her şeyi çabuk kavrayan ya da kolay dil öğrenebilen ya da başarılı ya da zeki atfettiğimiz insanlar aslında özel ortamların ürünü.
+
+> Orta sınıf evlerinde daha fazla konuşma var, bu da daha büyük zihinsel çeviklik, daha fazla kelime dağarcığı, otorite sahibiyle daha rahat etme ve soyut kavramlara daha aşina olmaya katkı sağlıyor. Ayrıca bu ebeveyn dili, muhakemeyi, sözlü tartışmayı ve kelime oyunlarını vurguluyor. Direktifler sağlık ve güvenlik durumları haricinde nadiren kullanılıyor. Daha düşük sosyoekonomik seviyedeki evlerde ise çocukların hayatları çok daha az yapılandırılmış. Tek net kesinlik otoriteye saygı duymak ve itaat etmek. Daha az müdahaleci bir yaklaşım var.
+
+# 20. Başkalarının Aklı
+Tali Sharot
+
+İnsan beynin nasıl çalıştığı ve nelerden etkilendiğini akıcı ve sade bir dille ifade eden bir kitap. 
+
+> İnsanlar düşüncelerini başkalarına yayabilmek için para kaybetmeyi dahi göze alabiliyormuş.
+
+> Birini herhangi bir şeye ikna etmek için yapmanız gereken şey beyinde "YAP" sinyali üretmekmiş. Sopa göstermek yerine havuç göstermek çok daha doğru bir yaklaşım. 
+
+> Seçeneklerin çoğalması seçim yapmayı zorlaştırıyormuş. Bir deneyde 6 ve 20 farklı reçel türü ile müşterilerin davranışları gözlendiğinde, 6 reçel türü sunulan müşteriler daha fazla alışveriş yapmış. 
+
+> Bir deney sonucuna göre ilk yorumda ürün göklere çıkarıldığında o ürünün pozitif değerlendirmelerinin %32 arttığı görülmüş. İçgüdülerimiz bize başkalarının tercihlerini taklit etmemizi söylüyor.
+
+<br>
+
+# 21. Scrum
+Jeff Sutherland, 2014
+
+Yaptığı işte (bireysel ya da ekipçe) verimini artırmak isteyen herkesin okuması gereken bir kitap bence.
+
+> Scrum ile birlikte ekiplerin üretkenlikleri %300-400 arasında artabiliyor. Ayrıca yapılan işlerin kalitesi de 2 kattan fazla artmakta.
+
+> Performansa dayalı primler, terfiler ya da işe alımların tamamı, ekipten ziyade bireysel aktörün üzerine odaklanmıştır ve bunun da büyük bir hata olduğu ortaya çıkmıştır. Scrum'da önemli düşüncelerden biri ekip üyelerinin işi nasıl yapacaklarına kendilerinin karar vermesidir.
+
+> Tıpkı bir Özel Kuvvetler timinde olduğu gibi, bir Scrum ekibindeki herkes diğer herkesin ne yaptığını bilmek zorundadır. Yapılmış olan tüm işler, karşılaşılan güçlükler, kaydedilen ilerlemeler herkese açık ve şeffaf olmalıdır.
+
+> Eğer kişiler özel bir unvana sahip olursa, sadece o unvana uygun gibi görünen işleri yapma eğilimi içinde olurlar. Bu yüzden tüm unvanlardan kurtulmak ve kartvizitleri atmak gerekir.
+
+> Eğer bir bug yaratıldığı gün ilgilenilirse bunu düzeltmek 1 saat alıyor. 3 hafta sonra ilgilenilirse 24 saat.
+
+> Üretkenliğin zirve noktası haftada 40 saatten sonra düşmektedir. Çok uzun saatler boyunca çalışan insanlar daha fazla hata yapmaya başlıyor. Herhangi bir günde verebileceğiniz sağlıklı karar sayısının bir limiti vardır. O nedenle saat beşte evinize gidin, cep telefonunuzu hafta sonları kapatın. Bir film izleyin. Bu kadar çok çalışmayarak, daha çok ve daha iyi kalitede iş halledeceksiniz.
+
+> Mutlu insanlar basit bir şekilde daha iyi yapıyorlardı - evde, işte, hayatta. Daha fazla para kazanıyor, daha iyi işlerde çalışıyor, üniversiteden mezun oluyor ve daha uzun yaşıyorlar. İnsanları gerçekten mutlu eden şeyler, ekipleri harika kılan şeylerle aynıdır: otonomi, ustalık ve amaç.
+
+<br>
+
+# 22. Dürtme (Nudge)
+Richard Thaler & Cass Sunstein, 2008
+
+Thaler ve Sunstein'a Nobel ekonomi ödülü getiren bu kitap davranışsal ekonomi hakkında detaylı bilgiler sunmakta. Genel itibarıyla insanları baskılamadan çeşitli yönlendirmelerle kararlarını etkilemenin mümkün olduğunu anlatmakta.
+
+> Amsterdam Schiphol havaalanında erkek tuvaletlerinde her klozetin içine kabartma bir kara sinek resmi yapıştırmışlar. Yetkililere göre erkekler işerken çoğu zaman dikkatsiz davranarak klozetin dışını kirletiyormuş. Bu kabartma sinekle birlikte insanlar o noktaya odaklanmaya başlamış ve çevre temiz kalmış. Klozet sinek resimleri etrafa idrar sıçratma oranını %80 azaltmış.
+
+> İnsanda 2 tür düşünce sistemi vardır: birisi sezgiye dayalı Otomatik Sistem, öteki ise düşünme ve mantığa dayalı Düşünce Sistemi. Örneğin seçmenler genelde otomatik sistemle oylarına karar verirler.
+
+> Bağış toplayan kurumlar size tipik olarak 100, 250, 1.000 ve 5.000 dolarlık ya da başka seçenekler sunar. Bu rakamlar rastgele seçilmemiştir, çünkü seçenekler insanların yapacağı bağış miktarını etkiler. Seçenekler 50, 75, 100 ve 150 dolar değil de 100, 250, 1.000 ve 5.000 olduğunda insanlar daha çok bağış yapacaktır.
+
+> "100 kişiden 90'ı yaşıyor" ve "100 kişiden 10'u öldü" ifadelerine, içeriğin ikisi de aynı olmasına rağmen insanlar çok farklı tepkiler gösterecektir. İnsanlar dürtülebilir ve uyarılabilir varlıklardır.
+
+> Film izlerken gülümseyen oyuncular görürseniz, sahne komik olsun ya da olmasın, siz de gülümsersiniz. Esneme de bulaşıcıdır. Obezite de bulaşıcıdır. Eğer en iyi arkadaşlarınız kilo alıyorsa sizin kilo almaya başlama riskiniz de artar.
+
+Bu kitabın çevirisinde de sorunlar olduğunu düşünüyorum. Örneğin kitabın hemen her bölümünde serbestçi ataerkil sözcük öbeği geçiyor ancak hiçbir yerde tanımını ya da çevirisini bulamadım. İnternetten kitabın İngilizcesini indirip kontrol ettiğimde libertarian paternalism olduğunu öğrendim. 
+
+<br>
+
+# 23. Sıfırdan Bire
+Peter Thiel, 2014
+
+Girişimcilikte başarının nasıl yakalanabileceği hakkında kaynağından harika bilgiler içeren başyapıt niteliğinde bir kitap. Thiel girişimin başarılı olması için şu 7 soruya yanıt aranması gerektiğini söylüyor:
+
+1. Kademeli yenilikler yerine teknolojik bir atılım oluşturabilir misiniz?
+2. Doğru zaman şu an mı?
+3. Küçük bir pazarın büyük bir payı ile mi başlıyorsunuz?
+4. Doğru ekibe sahip misiniz?
+5. Ürününüzü üretmenin yanında satabilecek misiniz?
+6. Pazardaki konumunuzu 10 yıl sonra koruyabilecek misiniz?
+7. Başkalarının görmediği bir fırsat belirlediniz mi? 
+
+<br>
+
+# 24. Tarihsel Süreç İçinde Dünya Ekonomisi
+Mahfi Eğilmez, 2018
+
+Mahfi Hoca yine kalitesini konuşturmuş. Dünya siyasi ve ekonomik tarihine ilgi duyanlar için kaliteli bir başlangıç materyali. 
+
+> Taş çağının, ekonomi tarihi açısından dört önemli olgusu var. 1: Alet yapımı ve kullanımı. 2: Ateşin bulunuşu. 3: Yerleşik yaşama geçişle birlikte tarım ve hayvancılığın başlaması. 4: Yazının bulunuşu. 
+
+> Maden çağında ilerleme daha da hızlıdır. Yine ekonomi tarihi açısından dört önemli olgu var. 1: Kent devletlerinin kuruluşu. 2: Belirli standartlarda metallerin para olarak kullanımı. 3: Krallıklar arası ticaretin başlaması. 4: İmparatorlukların kuruluşu ve ticaretin yaygınlaşması.
+
+> Bugünkü bankalara benzer ilk banka 1609'da Hollanda'da Amsterdam Bankası adıyla kuruldu. Ardından 1637'de Venedik'te Venedik Bankası kuruldu. 1640 yılında İngiltere'de kralın, tüccarların Londra Kulesi'nde saklanan altın külçelerine el koyması sonucu devlete olan güveni sarsılınca, tüccarlar altınlarını 'goldsmith' denilen tüccarlara vermeye ve karşılığında belge almaya başladılar. Dünyadaki ilk merkez bankası 1668'de kurulan İsveç Merkez Bankası'dır. Bugün Nobel ekonomi ödülünü bu banka vermektedir. 
+
+<table style="width:100%">
+  <tr>
+    <th>Yıl</th>
+    <th>Dünya Nüfusu (Bin)</th>
+    <th>Dünya GSYH'si (Milyon USD)</th> 
+    <th>Kişi Başına Gelir (USD)</th>
+  </tr>
+  <tr>
+    <td><center>1</center></td>
+    <td><center>225.820</center></td>
+    <td><center>105.402</center></td> 
+    <td><center>467</center></td>
+  </tr>
+  <tr>
+    <td><center>1000</center></td>
+    <td><center>267.330</center></td>
+    <td><center>121.208</center></td> 
+    <td><center>453</center></td>
+  </tr>
+    <tr>
+    <td><center>1500</center></td>
+    <td><center>438.428</center></td>
+    <td><center>248.321</center></td> 
+    <td><center>566</center></td>
+  </tr>
+  <tr>
+    <td><center>1870</center></td>
+    <td><center>1.275.232</center></td>
+    <td><center>1.109.684</center></td> 
+    <td><center>870</center></td>
+  </tr>
+  <tr>
+    <td><center>1990</center></td>
+    <td><center>5.269.029</center></td>
+    <td><center>27.134.084</center></td> 
+    <td><center>5.150</center></td>
+  </tr>
+  <tr>
+    <td><center>2017</center></td>
+    <td><center>7.550.262</center></td>
+    <td><center>79.865.481</center></td> 
+    <td><center>10.578</center></td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+# Kapanış
+
+Her ne kadar kısa tutmaya çalışsam da yine epey kabarık bir yazı olmuş. 😄 Umarım yazıdan istifade eden birileri olur. Düzenli bir kitap okuma alışkanlığı kazanmak istiyorsanız 'Zinciri Kırma' kuralını deneyebilirsiniz. İlgilenenler 2019 takvimini içeren PDF'e [şuradan](burakekici.com/assets/images/2018/2019/calendar-2019.pdf) ulaşabilir. Kitap okuduğunuz her gün için ilgili kutucuğa kocaman bir işaret koyabilirsiniz. 
+
+Kitapsız gününüz geçmesin, hoşça kalın!
+
+<br>
+
