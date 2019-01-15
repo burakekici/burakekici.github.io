@@ -39,8 +39,8 @@ twitter: burakekici0
 linkedin: burakekici
 github: burakekici
 spotify: bekici
+medium: ekici
 email: contact.ekici@gmail.com
-# medium: ekici
 # google: burakekici0
 # instagram: burakekici0
 # pinterest: burakekici
@@ -80,7 +80,7 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
 related: true
