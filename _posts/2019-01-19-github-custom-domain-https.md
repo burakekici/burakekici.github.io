@@ -1,5 +1,5 @@
 ---
-title: "GitHub'da Barındırılan Özel Alan Adları için HTTPS Bağlantı Nasıl Sağlanır?"
+title: "GitHub'da Barındırılan Özel Alan Adları için HTTPS Desteği Nasıl Sağlanır?"
 layout: post
 date: 2019-01-19 09:00
 tag:
@@ -9,6 +9,8 @@ tag:
 - https
 - ssl
 - secure
+image: /assets/images/2019/github-https/http-vs-https.png
+headerImage: false
 category: blog
 author: ekici
 description: GitHub'da barındırılan özel alan adı için HTTPS bağlantı nasıl sağlanabileceğini anlattım.
@@ -44,7 +46,7 @@ Peki HTTPS bağlantı bize ne sağlıyor?
 
 ## Hangi işlemler yapılmalı?
 
-### 1. Alan adınızı satın aldığınız firmanın arayüzünden A Record'ları yeni GitHub IP'leriyle değiştirin.
+### 1. Alan adınızı satın aldığınız firmanın panelinden A Record'ları yeni GitHub IP'leriyle değiştirin.
 
 GitHub HTTPS bağlantı desteğini aşağıdaki IP'ler üzerinden sunuyor. 
 
