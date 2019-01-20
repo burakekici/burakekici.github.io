@@ -30,10 +30,6 @@ GitHub Pages, özel alan adları için 2018 Mayıs'ından itibaren HTTPS bağlan
 
 **SSL** (Secure Sockets Layer), Güvenli Giriş Katmanı olarak adlandırılan bir sertifikadır. Ziyaret eden kişi ile ziyaret edilen site arasındaki veri iletişimini uçtan uca şifreleyerek gizli ve güvenilir bir bağlantı sağlanmasını sağlar. 
 
-<p align="center">
-  <img src="../assets/images/2019/github-https/http-vs-https.png" alt="HTTP vs HTTPS"/>
-</p>
-
 **HTTPS** ise SSL sertifikasına sahip site ile kurulan bağlantı protokolü. Açılımı Hyper Text Transfer Protocol Secure şeklinde. 
 
 Peki HTTPS bağlantı bize ne sağlıyor? 
@@ -41,6 +37,10 @@ Peki HTTPS bağlantı bize ne sağlıyor?
 * Ziyaret edilen site ile güvenilir bir bağlantı kuruyor.
 * HTTP'ye göre daha hızlı.
 * Google sıralamasında daha üst sıralarda görünmesini sağlıyor.
+
+<p align="center">
+  <img src="../assets/images/2019/github-https/http-vs-https.png" alt="HTTP vs HTTPS"/>
+</p>
 
 <br>
 
