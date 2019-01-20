@@ -77,7 +77,7 @@ Custom domain alanında yazan yazıyı silin, kaydedin, sonra yeniden ekleyip ka
 
 ### 3. GitHub repository'de "Enforce HTTPS" kutucuğunu işaretleyin.
 
-Yukarıdaki işlemi yaptıktan bir süre sonra Enforce HTTPS kutucuğu işaretlenebilir hale gelecek. İşaretleyin, çekinmeyin. 
+Yukarıdaki işlemi yaptıktan bir süre sonra Enforce HTTPS kutucuğu işaretlenebilir hale gelecek. Bu kutucuğu aktifleştirin. 
 
 <p align="center">
   <img src="../assets/images/2019/github-https/enforce-https.JPEG" alt="Enforce HTTPS"/>
@@ -85,7 +85,7 @@ Yukarıdaki işlemi yaptıktan bir süre sonra Enforce HTTPS kutucuğu işaretle
 
 ### 4. Bekleyin.
 
-Bundan sonrası sizde değil. En geç 24 saat içerisinde her şey yoluna girmiş olmalı. 
+Bundan sonrasında size düşen beklemek. En geç 24 saat içerisinde her şey yoluna girmiş olmalı. 
 
 Bu süre zarfında aşağıdaki komut ile sitenizin hangi IP'lerde ayakta olduğunu görebilirsiniz. HTTPS desteği sunan yeni IP'leri görmeye başladığınızda işlem tamamlanmış demektir.
 
@@ -94,8 +94,8 @@ $ dig +noall +answer burakekici.com
 {% endhighlight %}
 
 Aşağıdaki bağlantılarla da test yapabilirsiniz.
-* [TestMySite - Google](https://testmysite.thinkwithgoogle.com)
 * [IsItDownRightNow](https://www.isitdownrightnow.com)
+* [TestMySite - Google](https://testmysite.thinkwithgoogle.com)
 
 <br>
 
