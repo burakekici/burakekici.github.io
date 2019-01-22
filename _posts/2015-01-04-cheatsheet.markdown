@@ -33,8 +33,8 @@ Yazı
 ## URL 
 
 * Markdown dosyasının altında yazarak [bağlantı][1].
-* Direkt yanına [bağlantı](http://burakekici.com)
-* Site ismiyle <http://burakekici.com>
+* Direkt yanına [bağlantı](https://burakekici.com)
+* Site ismiyle <https://burakekici.com>
 
 ---
 
@@ -94,4 +94,4 @@ YouTube videosunda sağ tıkla, copy embed'e bas.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/fRj34o4hN4I" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 
-[1]: http://burakekici.com
+[1]: https://burakekici.com

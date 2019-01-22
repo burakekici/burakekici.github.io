@@ -38,7 +38,7 @@ Wikipedia'da "The citizens of Freiburg are known in Germany for their love of cy
 
 2015 yılında Freiburg SC futbol takımı için yeni bir stadyum yapalım mı buna gerek var mı; yanıt evet ise nereye yapalım şeklinde bir **referandum** yapılmış. Sonuç olarak Freiburg havalimanının yanında inşa edilmesi kararı çıkmış. Halkın şehirdeki yapılaşmada nasıl söz sahibi olduğunu tahmin edebilirsiniz.
 
-Wikipedia'ya göre şehirdeki **nüfusun %85'i Fransızca konuşuyor**. Hakikaten tanıştığım kişilerin büyük çoğunluğu Almanca ve İngilizce'ye ek olarak Fransızca ve/veya İspanyolca konuşabiliyor. Buna **[bölüm 5](http://burakekici.com/erasmus-bolum-5)**'te değindim.
+Wikipedia'ya göre şehirdeki **nüfusun %85'i Fransızca konuşuyor**. Hakikaten tanıştığım kişilerin büyük çoğunluğu Almanca ve İngilizce'ye ek olarak Fransızca ve/veya İspanyolca konuşabiliyor. Buna **[bölüm 5](https://burakekici.com/erasmus-bolum-5)**'te değindim.
 
 Şehirde 2400 civarında Türk mevcut imiş. Bu sayı diğer Alman şehirlerindeki Türk oranına göre daha düşük. Bunun sebeplerinden biri bu eyalette fabrikaların nispeten daha az olması.
 
@@ -185,11 +185,11 @@ Bir de Interrail nedir bilmiyorsanız, hiç duymamışsanız hemen araştırman�
 
 ## Tüm seri
 
-- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](http://burakekici.com/erasmus-bolum-1)**
-- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](http://burakekici.com/erasmus-bolum-2)**
+- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](https://burakekici.com/erasmus-bolum-1)**
+- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](https://burakekici.com/erasmus-bolum-2)**
 - Erasmus Bölüm 3 – Freiburg ve Ulaşım
-- **[Erasmus Bölüm 4 – Dersler](http://burakekici.com/erasmus-bolum-4)**
-- **[Erasmus Bölüm 5 – Ekonomi](http://burakekici.com/erasmus-bolum-5)**
-- **[Erasmus Bölüm 6 – Dil](http://burakekici.com/erasmus-bolum-6)**
-- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**
+- **[Erasmus Bölüm 4 – Dersler](https://burakekici.com/erasmus-bolum-4)**
+- **[Erasmus Bölüm 5 – Ekonomi](https://burakekici.com/erasmus-bolum-5)**
+- **[Erasmus Bölüm 6 – Dil](https://burakekici.com/erasmus-bolum-6)**
+- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](https://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](https://burakekici.com/erasmus-bolum-8)**

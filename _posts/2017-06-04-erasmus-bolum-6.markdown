@@ -125,11 +125,11 @@ Anlayabildiğim üç beş kelime vardı, Münih’e gidince onları da anlayamaz
 
 ## Tüm seri
 
-- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](http://burakekici.com/erasmus-bolum-1)**
-- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](http://burakekici.com/erasmus-bolum-2)**
-- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](http://burakekici.com/erasmus-bolum-3)**
-- **[Erasmus Bölüm 4 – Dersler](http://burakekici.com/erasmus-bolum-4)**
-- **[Erasmus Bölüm 5 – Ekonomi](http://burakekici.com/erasmus-bolum-5)**
+- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](https://burakekici.com/erasmus-bolum-1)**
+- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](https://burakekici.com/erasmus-bolum-2)**
+- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](https://burakekici.com/erasmus-bolum-3)**
+- **[Erasmus Bölüm 4 – Dersler](https://burakekici.com/erasmus-bolum-4)**
+- **[Erasmus Bölüm 5 – Ekonomi](https://burakekici.com/erasmus-bolum-5)**
 - Erasmus Bölüm 6 – Dil
-- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**
+- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](https://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](https://burakekici.com/erasmus-bolum-8)**

@@ -49,7 +49,7 @@ Vize başvurusunda her ülkenin kabul ettiği vesikalık fotoğraf boyutları fa
 Abartılı olmadığı takdirde sakal problem olmuyor. Denendi, onaylandı.
 
 ## 2. Pasaport ve fotokopisi
-Halen pasaportunuz yoksa hemen çıkartın. Pasaportunuz olmadan vize başvurusu yapamazsınız. Gerekli işlemleri [şu yazıda](http://burakekici.com/pasaport-cikartmak) anlattım.
+Halen pasaportunuz yoksa hemen çıkartın. Pasaportunuz olmadan vize başvurusu yapamazsınız. Gerekli işlemleri [şu yazıda](https://burakekici.com/pasaport-cikartmak) anlattım.
 
 ## 5. İtalya Schengen vize başvuru formu
 Bu forma iData websitesinden ya da konsolosluk sitesinden erişebilirsiniz.

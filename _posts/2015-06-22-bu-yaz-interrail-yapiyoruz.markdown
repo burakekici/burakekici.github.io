@@ -22,7 +22,7 @@ Interrail, Avrupa’yı hesaplı bir şekilde ve özgürce gezebilmenin en güze
 Interrail yapmaya karar verdikten sonra izlemeniz gereken yol şöyle:
 
 ## 1. Pasaport Çıkartmak
-Pasaport çıkartma ile ilgili yazdığım yazıya **[buradan](http://burakekici.com/pasaport-cikartmak)** ulaşabilirsiniz.
+Pasaport çıkartma ile ilgili yazdığım yazıya **[buradan](https://burakekici.com/pasaport-cikartmak)** ulaşabilirsiniz.
 
 ## 2. Uçak Bileti Almak
 Uçak biletini ucuza getirmek için biraz erken davranmanızda fayda var. Birkaç ay öncesinden seyahat günlerinizi belirlerseniz hava yolu firmalarının çok güzel indirimleri ve çeşitli kampanyaları oluyor.
@@ -52,7 +52,7 @@ Bileti alabilmek için pasaportunuzu çıkartmış olmanız gerekli. Pasaport nu
 
 ## 4. Vize Başvurusu
 
-Başvuru sürecini ve sonucunu anlattığım yazıya ulaşmak için **[buraya](http://burakekici.com/schengen-vizesi)** tıklayınız.
+Başvuru sürecini ve sonucunu anlattığım yazıya ulaşmak için **[buraya](https://burakekici.com/schengen-vizesi)** tıklayınız.
 
 
 ## 5. Valiz Hazırlığı

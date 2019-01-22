@@ -13,7 +13,7 @@ description: Erasmus
 
 5-6 aylığına, hiç görmediğiniz, alışık olmadığınız, dilini bilmediğiniz bir şehirde yaşamak başta çok ürkütücü geliyor. Açıkçası şehre adımımı atana kadar gergindim. Ancak düzen kurulmaya başladıkça insan rahatlıyor.
 
-Vize alma ve evrak hazırlıkları hakkında [bir yazı yazmıştım](http://burakekici.com/erasmus-bolum-1/). Bu yazıda da sonraki süreç hakkında izlenimlerimi paylaşacağım.
+Vize alma ve evrak hazırlıkları hakkında [bir yazı yazmıştım](https://burakekici.com/erasmus-bolum-1/). Bu yazıda da sonraki süreç hakkında izlenimlerimi paylaşacağım.
 
 Vizeli pasaportumu **1 Ekim**‘de teslim almıştım. **6 Ekim**‘deki uçağa kadar Erasmus sözleşmesi, banka işlemleri ve valiz hazırlıklarıyla zaman geçirdim.
 
@@ -105,14 +105,14 @@ Aşağılarda bir yerde ülkemizin geri dönüşüm oranını görmek de mümkü
 
 ## Tüm seri
 
-- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](http://burakekici.com/erasmus-bolum-1)**
+- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](https://burakekici.com/erasmus-bolum-1)**
 - Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler
-- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](http://burakekici.com/erasmus-bolum-3)**
-- **[Erasmus Bölüm 4 – Dersler](http://burakekici.com/erasmus-bolum-4)**
-- **[Erasmus Bölüm 5 – Ekonomi](http://burakekici.com/erasmus-bolum-5)**
-- **[Erasmus Bölüm 6 – Dil](http://burakekici.com/erasmus-bolum-6)**
-- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**
+- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](https://burakekici.com/erasmus-bolum-3)**
+- **[Erasmus Bölüm 4 – Dersler](https://burakekici.com/erasmus-bolum-4)**
+- **[Erasmus Bölüm 5 – Ekonomi](https://burakekici.com/erasmus-bolum-5)**
+- **[Erasmus Bölüm 6 – Dil](https://burakekici.com/erasmus-bolum-6)**
+- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](https://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](https://burakekici.com/erasmus-bolum-8)**
 
 
 

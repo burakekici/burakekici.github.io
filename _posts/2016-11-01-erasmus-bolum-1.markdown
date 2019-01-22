@@ -52,7 +52,7 @@ Gerekli dokümanlara gelecek olursak, iData bana randevu başvurumun akabinde bi
 6. Yurt dışı sağlık sigortası (AT11)
 7. Maddi teminat gösteren belgeler (Taahhütname, Erasmus hibesi, maaş bordroları, banka hesap ekstreleri)
 
-Geçtiğimiz yıl Interrail için vize başvurusunda gerekli bazı belgelere değinmiştim, [şuradan](http://burakekici.com/schengen-vizesi) ulaşılabilir. Halen pasaportunuz yok ise [şu yazı](http://burakekici.com/pasaport-cikartmak) size yardımcı olabilir.
+Geçtiğimiz yıl Interrail için vize başvurusunda gerekli bazı belgelere değinmiştim, [şuradan](https://burakekici.com/schengen-vizesi) ulaşılabilir. Halen pasaportunuz yok ise [şu yazı](https://burakekici.com/pasaport-cikartmak) size yardımcı olabilir.
 
 ## 6. Yurt dışı sağlık sigortası
 Türkiye’de SGK’da sağlık güvenceniz varsa Almanya, Belçika ve Hollanda gibi ülkeler için yapılmış bazı anlaşmalardan faydalanarak mevcut sağlık güvencenizi gideceğiniz ülkede de kullanabiliyorsunuz.
@@ -123,15 +123,15 @@ Ve vize görüşmesine saat 15.50’de girdim. Yaklaşık 6 saat boyunca **telef
 
 - [Erasmus İşlemlerim](http://burakekici.com/wp-content/uploads/2017/01/Erasmus_Log.xlsx)
 - [iData](http://idata.com.tr/tr/)
-- [Hacettepe AB Koordinatörlüğü](http://www.abofisi.hacettepe.edu.tr/)
+- [Hacettepe AB Koordinatörlüğü](https://www.abofisi.hacettepe.edu.tr/)
 
 ## Tüm seri
 
 - Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci
-- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](http://burakekici.com/erasmus-bolum-2)**
-- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](http://burakekici.com/erasmus-bolum-3)**
-- **[Erasmus Bölüm 4 – Dersler](http://burakekici.com/erasmus-bolum-4)**
-- **[Erasmus Bölüm 5 – Ekonomi](http://burakekici.com/erasmus-bolum-5)**
-- **[Erasmus Bölüm 6 – Dil](http://burakekici.com/erasmus-bolum-6)**
-- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**
+- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](https://burakekici.com/erasmus-bolum-2)**
+- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](https://burakekici.com/erasmus-bolum-3)**
+- **[Erasmus Bölüm 4 – Dersler](https://burakekici.com/erasmus-bolum-4)**
+- **[Erasmus Bölüm 5 – Ekonomi](https://burakekici.com/erasmus-bolum-5)**
+- **[Erasmus Bölüm 6 – Dil](https://burakekici.com/erasmus-bolum-6)**
+- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](https://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus Bölüm 8 – Sonuç](https://burakekici.com/erasmus-bolum-8)**
