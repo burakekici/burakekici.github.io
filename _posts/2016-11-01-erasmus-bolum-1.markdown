@@ -73,7 +73,11 @@ Erasmus’u hibeli olarak kazandıysanız, Almanya için aylık **400 €** AB k
 
 En çok tercih edilen yol bu olsa gerek. Bu yolu izleyecek olursanız;
 
-- Size garantör olacak kişi ile notere gidip, garantör kişinin hangi tarih aralığında, masrafların ebeveyn tarafından nasıl karşılanacağını belirten bir taahhütname hazırlatmanız gerekli. Bu taahhütname eğitim amaçlı olduğu için çeşitli vergilerden muaf olacaksınız. 46 ₺ tutmuştu. Taahhütname örneğine ihtiyaç duyarsanız bana ulaşabilirsiniz.
+- Size garantör olacak kişi ile notere gidip, garantör kişinin hangi tarih aralığında, masrafların ebeveyn tarafından nasıl karşılanacağını belirten bir taahhütname hazırlatmanız gerekli. Bu taahhütname eğitim amaçlı olduğu için çeşitli vergilerden muaf olacaksınız. 46 ₺ tutmuştu. Taahhütname örneğine ihtiyaç duyarsanız <s>bana ulaşabilirsiniz</s> aşağıda mevcut.
+
+<p align="center">
+  <img src="../assets/images/2016/erasmus/taahhutname.jpg"/>
+</p>
 
 - Ardından bu taahhütnameyi Almanca’ya çevirtmelisiniz. Bu çeviri için de 30 ₺ ödedim.
 
@@ -88,7 +92,7 @@ Baktığı şeyler; maaş bordroları ve bankadaki Euro birikim hesabı.
 - Tüm bu belgeler hazır ise bu kısmı da tamamlamış oldunuz.
 
 
-### 7.2. Almanya’da bloke hesap
+### 7.2. Almanya'da bloke hesap
 
 Bu yolu seçmediğim için detaylı bilgi veremeyeceğim. Fakat bildiğim kadarıyla Almanya’da bloke hesap hizmeti veren bankalardan birisinde hesap açtırıp, bu hesaba 6 ay x 320 €’ya tekabül eden tutarı gönderip, bu işleme dair ilgili belgeleri konsolosluğa götürmeniz gerekli. Hesap açtırmak da bu hesaba parayı göndermek de pürüzlü olduğu için birinci yolu tercih ettim.
 

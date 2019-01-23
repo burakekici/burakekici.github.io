@@ -19,12 +19,12 @@ Merhaba,
 
 Bir süredir blogumu Wordpress'ten Jekyll'a taşımayı planlıyordum. Bu yazıda Jekyll hakkında bilgi sahibi olmak isteyenler için aşağıdaki başlıkları ele aldım.
 
-1. [Neden Jekyll?](#1-neden-jekyll)
-2. [Blogunuz için GitHub sayesinde nasıl ücretsiz hosting servisi sağlanır?](#2-blogunuz-için-github-ile-nasıl-ücretsiz-hosting-servisi-sağlanır)
-3. [Wordpress'ten Jekyll'a nasıl göç edilir?](#3-wordpressten-jekylla-nasıl-göç-edilir)
-4. [Custom domainler bu bloga nasıl yönlendilir?](#4-custom-domainler-githubda-barındırılan-siteye-nasıl-yönlendirilir)
-5. [Jekyll'da yazı ekleme ve lokalde deneme rutinim](#5-jekyllda-yeni-yazı-hazırlama-ve-lokalde-deneme-rutinim)
-6. [Jekyll'da hazır yazı nasıl canlıya aktarılır?](#6-jekyllda-hazır-yazı-nasıl-canlıya-aktarılır)
+- [1. Neden Jekyll?](#1-neden-jekyll)
+- [2. Blogunuz için GitHub ile nasıl ücretsiz hosting servisi sağlanır?](#2-blogunuz-i%C3%A7in-github-ile-nas%C4%B1l-%C3%BCcretsiz-hosting-servisi-sa%C4%9Flan%C4%B1r)
+- [3. Wordpress'ten Jekyll'a nasıl göç edilir?](#3-wordpressten-jekylla-nas%C4%B1l-g%C3%B6%C3%A7-edilir)
+- [4. Custom domainler GitHub'da barındırılan siteye nasıl yönlendirilir?](#4-custom-domainler-githubda-bar%C4%B1nd%C4%B1r%C4%B1lan-siteye-nas%C4%B1l-y%C3%B6nlendirilir)
+- [5. Jekyll'da yeni yazı hazırlama ve lokalde deneme rutinim](#5-jekyllda-yeni-yaz%C4%B1-haz%C4%B1rlama-ve-lokalde-deneme-rutinim)
+- [6. Jekyll'da hazır yazı nasıl canlıya aktarılır?](#6-jekyllda-haz%C4%B1r-yaz%C4%B1-nas%C4%B1l-canl%C4%B1ya-aktar%C4%B1l%C4%B1r)
 
 ---
 
@@ -33,10 +33,15 @@ Bir süredir blogumu Wordpress'ten Jekyll'a taşımayı planlıyordum. Bu yazıd
 Yaklaşık iki yıldır sunucu hizmeti aldığım firmanın olmayan bir iptal talebini işleme koyarak tüm siteyi uçurmasıyla birlikte Jekyll'a bir şans vermek istedim. Sebeplerim;
 
 * Senede 5-10 adet yazı paylaşıyorum, 
+
 * Jekyll statik HTML dosyalarından oluştuğu için performans açısından daha iyi,
+
 * Yeni yazı hazırlayıp göndermesi daha hızlı, 
+
 * Jekyll'da veri tabanı yok, tüm yazılar markdown dosyalarından oluşuyor, bu da taşınabilirliği ve güvenliği artırıyor,
+
 * Yedek almak, yeni bir tema denemek ya da Jekyll benzeri başka platformlar (ör: Hugo) denemek kolay,
+
 * Ayrıca GitHub ya da Gitlab Pages servisleri sayesinde site **ücretsiz** olarak yayınlanabiliyor.
 
 Jekyll'a dair aklıma gelen tek eksiklik, Wordpress'in eklentiler yönünden bir hayli avantajlı olması. İhtiyaç duymadığımdan benim için bir problem oluşturmuyor.
@@ -126,3 +131,11 @@ Yeni bir yazı oluşturmak için *posts* klasöründe bir dosya oluşturuyorum. 
 
 ## 6. Jekyll'da hazır yazı nasıl canlıya aktarılır?
 Yeni yazınızı yazdınız ve uzak sunucuya göndermek istiyorsunuz. Bunun için terminal de kullanabilirsiniz ancak ben kolayıma geldiği için GitHub Desktop uygulamasını kullanıyorum. Commit ve push ettikten sonra artık yazınız yayında. Bu kadar pratik.
+
+<br>
+
+--- 
+
+<br>
+
+GitHub'da barındırılan siteye HTTPS desteğinin nasıl eklendiğini [şu yazıda](https://burakekici.com/github-custom-domain-https) anlattım.
