@@ -8,27 +8,41 @@ layout: page
 
 Know me in 1 minute:
 
+## General
+
+💻 A software engineer 
+<br>
+📍 Based in Ankara, Turkey
+<br>
+🎂 24 years old
+<br>
+💡 I describe myself as a **minimalist**, a **booklover** and a **lifelong learner**.
+
+--- 
+
 ## Work
+
 * I work as a mobile developer at [APPS Mobile][3]. 
-* I develop games on Unity3D and develop iOS native apps.
+* I develop mobile games on Unity3D and also develop iOS native apps.
+* Some projects I worked on:
+  * BiletAll on [App Store](https://itunes.apple.com/tr/app//id873069066) 
+  * Runflux on [App Store](https://itunes.apple.com/us/app/runflux/id1383179327)
+  * Multi Kelime
+  * Hexart on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and App Store soon.
+
+You can check my [résumé](../assets/resume.pdf) for more information.
 
 ---
 
 ## Education
+
 * Got my BSc degree of computer science  at [Hacettepe University][1], Ankara. 
 * An ex Erasmus+ exchange student at [Albert-Ludwigs University][2], Freiburg.
 
 ---
 
-## General
-* I am 24 years old.
-* I currently live in Ankara, Turkey.
-* I lived in Freiburg, Germany for 5 months and Kaunas, Lithuania for 1.5 months.
-* I describe myself as a _minimalist_, a _booklover_ and a _lifelong learner_.
-
---- 
-
 ## Links
+
 Some links to know me better:
 
 * Music: [Spotify][4]
