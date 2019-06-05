@@ -27,6 +27,7 @@ layout: page
   * Runflux on [App Store](https://itunes.apple.com/us/app/runflux/id1383179327)
   * Multi Kelime on [Play Store](https://play.google.com/store/apps/details?id=com.bif.multikelime)
   * Hexart on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and [App Store](https://itunes.apple.com/tr/app/hexart/id1455322595)
+  * Kelime Kutusu on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.kk) and [App Store](https://itunes.apple.com/tr/app/kelimekutusu/id1464140890)
 
 You can check my [résumé](../assets/resume.pdf) for more information.
 
@@ -60,6 +61,14 @@ Some quotes I like:
 > The world is not interested in the storms you encountered, but did you bring in the ship?
 
 > Life is 10% what happens to you and 90% how you react to it.
+
+---
+
+## Myers-Briggs Personality Type
+
+* [IFNJ-T](https://www.16personalities.com/profiles/19ea956f7d530) 
+
+
 
 [1]: https://cs.hacettepe.edu.tr
 [2]: https://informatik.uni-freiburg.de
