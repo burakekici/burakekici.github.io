@@ -6,15 +6,13 @@ layout: page
 
 # Hey! I am Burak!
 
-Know me in 1 minute:
-
-## General
+## Summary
 
 💻 A software engineer 
 <br>
 📍 Based in Ankara, Turkey
 <br>
-🎂 24 years old
+🎂 25 years old
 <br>
 💡 I describe myself as a **minimalist**, a **booklover** and a **lifelong learner**.
 
@@ -27,8 +25,8 @@ Know me in 1 minute:
 * Some projects I worked on:
   * BiletAll on [App Store](https://itunes.apple.com/tr/app//id873069066) 
   * Runflux on [App Store](https://itunes.apple.com/us/app/runflux/id1383179327)
-  * Multi Kelime
-  * Hexart on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and App Store soon.
+  * Multi Kelime on [Play Store](https://play.google.com/store/apps/details?id=com.bif.multikelime)
+  * Hexart on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and [App Store](https://itunes.apple.com/tr/app/hexart/id1455322595)
 
 You can check my [résumé](../assets/resume.pdf) for more information.
 
