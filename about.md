@@ -54,7 +54,7 @@ Some links to know me better:
 
 ## Myers-Briggs Personality Type
 
-* [IFNJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
+* [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
 
 ---
 

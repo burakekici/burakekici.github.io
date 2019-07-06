@@ -2,6 +2,8 @@
 title: "Clean Code Kısa Kitap Özeti"
 layout: post
 date: 2019-07-06 10:00
+image: /assets/images/2019/clean-code/cover.jpg
+headerImage: true
 tag:
 - clean code
 - temiz kod
@@ -13,7 +15,6 @@ tag:
 - özet
 - uncle bob
 - robert martin
-headerImage: false
 category: blog
 author: ekici
 description: Temiz Kod (Clean Code) kitabından aldığım notlar.
