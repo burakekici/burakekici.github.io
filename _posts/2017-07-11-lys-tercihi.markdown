@@ -13,6 +13,8 @@ tag:
 - ygs
 - lys
 - tercih
+- yks
+- ayt
 star: true
 category: blog
 author: ekici

@@ -6,7 +6,7 @@ layout: page
 
 # Hey! I am Burak!
 
-## Summary
+## In a nutshell
 
 💻 A software engineer 
 <br>
