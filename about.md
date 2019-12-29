@@ -14,14 +14,16 @@ layout: page
 <br>
 🎂 25 years old
 <br>
-💡 I describe myself as a **minimalist**, a **booklover** and a **lifelong learner**.
+💡 Minimalist, booklover, lifelong learner
+<br>
+ℹ️ Personality type: [**INFJ-T**](https://www.16personalities.com/profiles/19ea956f7d530)
 
 --- 
 
 ## Work
 
-* I work as a **mobile developer** for [APPS Mobile][3]. 
-* **KEYWORDS:** Unity3D, C#, iOS, Swift, Game Design, User Experience 
+* I work as a **mobile game developer** for [APPS Mobile][3]. 
+* **KEYWORDS:** Unity3D, C#, iOS, Swift, Game Development, Software Architecture, Game Design, User Experience 
 
 
 * Some projects I worked on:
@@ -38,6 +40,7 @@ You can check my [résumé](../assets/resume.pdf) for more information.
 ## Education
 
 * I got my **BSc** degree of **computer science**  at [Hacettepe University][1], Ankara. 
+
 * I am an ex **Erasmus+ exchange student** at [Albert-Ludwigs University][2], Freiburg.
 
 ---
@@ -49,12 +52,6 @@ Some links to know me better:
 | Musics                        || [Spotify][4] |
 | Books                         || [GoodReads][5] |
 | Movies & TV Series   || [IMDb][6] |
-
----
-
-## Myers-Briggs Personality Type
-
-* [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
 
 ---
 
