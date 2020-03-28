@@ -8,11 +8,11 @@ layout: page
 
 ## In a nutshell
 
-💻 A software engineer 
+💻 Software engineer 
 <br>
 📍 Based in Ankara, Turkey
 <br>
-🎂 25 years old
+🎂 26 years old
 <br>
 💡 Minimalist, booklover, lifelong learner
 <br>
@@ -22,11 +22,12 @@ layout: page
 
 ## Work
 
-* I work as a **mobile game developer** for [APPS Mobile][3]. 
-* **KEYWORDS:** Unity3D, C#, iOS, Swift, Game Development, Software Architecture, Game Design, User Experience 
-
+💻 Lead Game Developer at [APPS Mobile][3]. 
+<br>
+🔑 Unity, C#, Game Development, Software Architecture, User Experience, iOS, Swift, Game Design
 
 * Some projects I worked on:
+  * Detective & Puzzles [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery) and [App Store](https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053)
   * Kelime Kutusu on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.kk) and [App Store](https://itunes.apple.com/tr/app/kelimekutusu/id1464140890)
   * Hexart on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and [App Store](https://itunes.apple.com/tr/app/hexart/id1455322595)
   * Multi Kelime on [Play Store](https://play.google.com/store/apps/details?id=com.bif.multikelime)
@@ -39,19 +40,19 @@ You can check my [résumé](../assets/resume.pdf) for more information.
 
 ## Education
 
-* I got my **BSc** degree of **computer science**  at [Hacettepe University][1], Ankara. 
-
-* I am an ex **Erasmus+ exchange student** at [Albert-Ludwigs University][2], Freiburg.
+👨🏻‍🎓 **BSc** degree of **computer science**  at [Hacettepe University][1], Ankara. 
+<br>
+🌍 Ex **Erasmus+ exchange student** at [Albert-Ludwigs University][2], Freiburg.
 
 ---
 
 ## Links
 
-Some links to know me better:
-
-| Musics                        || [Spotify][4] |
-| Books                         || [GoodReads][5] |
-| Movies & TV Series   || [IMDb][6] |
+🎵 [Spotify][4]
+<br>
+📚 [GoodReads][5]
+<br>
+🎥 [IMDb][6]
 
 ---
 
