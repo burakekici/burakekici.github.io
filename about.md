@@ -27,12 +27,12 @@ layout: page
 🔑 Unity, C#, Game Development, Software Architecture, User Experience, iOS, Swift, Game Design
 
 * Some projects I worked on:
-  * Detective & Puzzles [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery) and [App Store](https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053)
-  * Kelime Kutusu on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.kk) and [App Store](https://itunes.apple.com/tr/app/kelimekutusu/id1464140890)
-  * Hexart on [Play Store](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and [App Store](https://itunes.apple.com/tr/app/hexart/id1455322595)
-  * Multi Kelime on [Play Store](https://play.google.com/store/apps/details?id=com.bif.multikelime)
-  * Runflux on [App Store](https://itunes.apple.com/us/app/runflux/id1383179327)
-  * BiletAll on [App Store](https://itunes.apple.com/tr/app//id873069066) 
+  * Detective & Puzzles on [Android](https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery) and [iOS](https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053)
+  * Kelime Kutusu on [Android](https://play.google.com/store/apps/details?id=tr.com.apps.kk) and [iOS](https://itunes.apple.com/tr/app/kelimekutusu/id1464140890)
+  * Hexart on [Android](https://play.google.com/store/apps/details?id=tr.com.apps.hexart) and [iOS](https://itunes.apple.com/tr/app/hexart/id1455322595)
+  * Multi Kelime on [Android](https://play.google.com/store/apps/details?id=com.bif.multikelime)
+  * Runflux on [iOS](https://itunes.apple.com/us/app/runflux/id1383179327)
+  * BiletAll on [iOS](https://itunes.apple.com/tr/app//id873069066) 
 
 You can check my [résumé](../assets/resume.pdf) for more information.
 
