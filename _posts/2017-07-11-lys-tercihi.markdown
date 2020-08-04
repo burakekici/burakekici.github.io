@@ -1,5 +1,5 @@
 ---
-title: "LYS Tercihi Yapacaklara Tavsiyeler: Bilgisayar Mühendisliği ve Hacettepe Üniversitesi"
+title: "Tercih Yapacaklara Tavsiyeler: Bilgisayar Mühendisliği ve Hacettepe Üniversitesi"
 layout: post
 date: 2017-07-11 20:00
 tag:
@@ -15,7 +15,8 @@ tag:
 - tercih
 - yks
 - ayt
-star: true
+- tyt
+star: false
 category: blog
 author: ekici
 description: LYS tercihi ve bilgisayar mühendisliği
@@ -210,7 +211,7 @@ Hacettepe Üniversitesi yemek konusunda yine öğrencilerin yüzünü güldürü
 
 &nbsp;
 
-Accık görsel ekleyeyim de bir görün 🙂
+Biraz da görsel ekleyeyim 🙂
 
 <p align="center">
   <img src="../assets/images/2017/lys-tercihi/beytepe.jpg" alt="Beytepe"/>
@@ -260,13 +261,11 @@ Kesinlikle uygun. Bir kere mühendis kelimesine takılmayalım. Yazılım geliş
 
 &nbsp;
 
-**Bir tavsiye;**
+**Tavsiye;**
 
 Ailenizin, akrabalarınızın tavsiyelerine **kulak asmayın**; içinize sineni  ve **gönlünüzden geçeni yazın**. Pişman olacaksanız da kendi tercihleriniz sonucunda pişman olun.
 
 &nbsp;
-
-**Bir tavsiye daha;**
 
 Eğer ilginiz yoksa lütfen bu bölümü yazmayın. Hem hayatı kendinize zindan etmeyin hem de daha düşük sıralamaya sahip ama istekli insanların hayatını etkilemeyin.
 

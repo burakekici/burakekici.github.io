@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 1 - Karar ve Vize Alma Süreci"
+title: "Erasmus #1: Karar ve Vize Alma Süreci"
 layout: post
 date: 2016-11-01 20:00
 tag:

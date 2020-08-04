@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 5 - Ekonomi"
+title: "Erasmus #5: Ekonomi"
 layout: post
 date: 2017-02-01 20:00
 tag:

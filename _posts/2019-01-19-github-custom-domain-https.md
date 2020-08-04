@@ -1,5 +1,5 @@
 ---
-title: "GitHub'da Barındırılan Özel Alan Adları için HTTPS Desteği Nasıl Sağlanır?"
+title: "GitHub'daki Özel Alan Adlarına HTTPS Desteği Sağlamak"
 layout: post
 date: 2019-01-19 09:00
 tag:

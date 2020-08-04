@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 8 - Sonuç"
+title: "Erasmus #8: Sonuç"
 layout: post
 date: 2017-06-18 20:00
 tag:

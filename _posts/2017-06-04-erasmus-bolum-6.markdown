@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 6 - Dil"
+title: "Erasmus #6: Dil"
 layout: post
 date: 2017-06-04 20:00
 tag:

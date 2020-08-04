@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 3 - Freiburg Şehri ve Ulaşım"
+title: "Erasmus #3: Freiburg Şehri ve Ulaşım"
 layout: post
 date: 2016-12-01 20:00
 tag:

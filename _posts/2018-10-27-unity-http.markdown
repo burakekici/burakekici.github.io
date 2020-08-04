@@ -1,5 +1,5 @@
 ---
-title: "Unity3D'de HTTP İstekleri Nasıl Yönetilir?"
+title: "Unity'de HTTP İstekleri Nasıl Yönetilir?"
 layout: post
 date: 2018-10-27 10:00
 tag:

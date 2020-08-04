@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 2 - Freiburg ve İlk İzlenimler"
+title: "Erasmus #2: Freiburg ve İlk İzlenimler"
 layout: post
 date: 2016-11-15 20:00
 tag:

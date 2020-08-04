@@ -5,7 +5,7 @@ date: 2017-09-17 20:00
 tag:
 - kitap
 - okumak
-star: true
+star: false
 category: blog
 author: ekici
 description: Kitap okuma alışkanlığı kazanmak

@@ -1,5 +1,5 @@
 ---
-title: "Dik Durmak ya da Durmamak"
+title: "Dik Durmak"
 layout: post
 date: 2016-05-08 20:00
 tag:

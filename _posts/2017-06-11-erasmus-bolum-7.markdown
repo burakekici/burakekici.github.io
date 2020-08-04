@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 7 - Freiburg'da Yaşam"
+title: "Erasmus #7: Freiburg'da Yaşam"
 layout: post
 date: 2017-06-11 20:00
 tag:

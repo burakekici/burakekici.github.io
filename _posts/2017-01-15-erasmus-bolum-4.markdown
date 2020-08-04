@@ -1,5 +1,5 @@
 ---
-title: "Erasmus Bölüm 4 - Dersler"
+title: "Erasmus #4: Dersler"
 layout: post
 date: 2017-01-15 20:00
 tag:

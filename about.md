@@ -16,7 +16,7 @@ layout: page
 <br>
 💡 Minimalist, booklover, lifelong learner
 <br>
-ℹ️ Personality type: [**INFJ-T**](https://www.16personalities.com/profiles/19ea956f7d530)
+ℹ️ Personality type: [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
 
 --- 
 
