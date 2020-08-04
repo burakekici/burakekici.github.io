@@ -4,7 +4,7 @@ layout: post
 date: 2017-12-30 00:00
 tag:
 - yeni yıl
-hidden: false
+hidden: true
 category: blog
 author: ekici
 description: 2017 değerlendirmeleri, 2018 hedefleri.

@@ -22,7 +22,7 @@ layout: page
 
 ## Work
 
-💻 Lead Game Developer at [APPS Mobile][3]. 
+💻 Game Developer at [APPS Mobile][3]. 
 <br>
 🔑 Unity, C#, Game Development, Software Architecture, User Experience, iOS, Swift, Game Design
 

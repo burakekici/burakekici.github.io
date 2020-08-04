@@ -5,6 +5,7 @@ date: 2017-01-20 20:00
 tag:
 - hedef
 - yeni yıl
+hidden: true
 category: blog
 author: ekici
 description: 2017 hedefleri
