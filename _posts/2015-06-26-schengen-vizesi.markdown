@@ -1,5 +1,5 @@
 ---
-title: "Interrail için Schengen Vizesi Başvuru Süreci"
+title: "Interrail için Schengen Vizesi Başvurusu"
 layout: post
 date: 2015-06-26 20:00
 tag:

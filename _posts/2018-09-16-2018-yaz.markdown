@@ -1,5 +1,5 @@
 ---
-title: "2018 Yaz Tatilinden Geride Kalanlar (Yamaç Paraşütü, Tüplü Dalış)"
+title: "2018 Yaz Tatili: Yamaç Paraşütü, Tüplü Dalış"
 layout: post
 date: 2018-09-16 10:00
 tag:

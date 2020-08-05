@@ -131,11 +131,11 @@ Ve vize görüşmesine saat 15.50’de girdim. Yaklaşık 6 saat boyunca **telef
 
 ## Tüm seri
 
-- Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci
-- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](https://burakekici.com/erasmus-bolum-2)**
-- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](https://burakekici.com/erasmus-bolum-3)**
-- **[Erasmus Bölüm 4 – Dersler](https://burakekici.com/erasmus-bolum-4)**
-- **[Erasmus Bölüm 5 – Ekonomi](https://burakekici.com/erasmus-bolum-5)**
-- **[Erasmus Bölüm 6 – Dil](https://burakekici.com/erasmus-bolum-6)**
-- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](https://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](https://burakekici.com/erasmus-bolum-8)**
+- Erasmus #1: Karar, Hazırlık ve Vize Alma Süreci
+- **[Erasmus #2: Freiburg ve İlk İzlenimler](https://burakekici.com/erasmus-bolum-2)**
+- **[Erasmus #3: Freiburg ve Ulaşım](https://burakekici.com/erasmus-bolum-3)**
+- **[Erasmus #4: Dersler](https://burakekici.com/erasmus-bolum-4)**
+- **[Erasmus #5: Ekonomi](https://burakekici.com/erasmus-bolum-5)**
+- **[Erasmus #6: Dil](https://burakekici.com/erasmus-bolum-6)**
+- **[Erasmus #7: Freiburg’da Yaşam](https://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus #8: Sonuç](https://burakekici.com/erasmus-bolum-8)**

@@ -1,5 +1,5 @@
 ---
-title: "\"Okumak Zekayı Kibarlaştırır\""
+title: "Okumak Zekayı Kibarlaştırır"
 layout: post
 date: 2017-09-17 20:00
 tag:

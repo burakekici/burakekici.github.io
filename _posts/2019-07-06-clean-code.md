@@ -1,5 +1,5 @@
 ---
-title: "Clean Code Kısa Kitap Özeti"
+title: "Clean Code Kitap Özeti"
 layout: post
 date: 2019-07-06 10:00
 image: /assets/images/2019/clean-code/cover.jpg

@@ -262,11 +262,11 @@ Okulun yemekhanesinde yemek ücreti yaklaşık 3-3.5 € civarında. Kaldığım
 
 ## Tüm seri
 
-- **[Erasmus Bölüm 1 – Karar, Hazırlık ve Vize Alma Süreci](http://burakekici.com/erasmus-bolum-1)**
-- **[Erasmus Bölüm 2 – Freiburg ve İlk İzlenimler](http://burakekici.com/erasmus-bolum-2)**
-- **[Erasmus Bölüm 3 – Freiburg ve Ulaşım](http://burakekici.com/erasmus-bolum-3)**
-- **[Erasmus Bölüm 4 – Dersler](http://burakekici.com/erasmus-bolum-4)**
-- Erasmus Bölüm 5 – Ekonomi
-- **[Erasmus Bölüm 6 – Dil](http://burakekici.com/erasmus-bolum-6)**
-- **[Erasmus Bölüm 7 – Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
-- **[Erasmus Bölüm 8 – Sonuç](http://burakekici.com/erasmus-bolum-8)**
+- **[Erasmus #1: Karar, Hazırlık ve Vize Alma Süreci](http://burakekici.com/erasmus-bolum-1)**
+- **[Erasmus #2: Freiburg ve İlk İzlenimler](http://burakekici.com/erasmus-bolum-2)**
+- **[Erasmus #3: Freiburg ve Ulaşım](http://burakekici.com/erasmus-bolum-3)**
+- **[Erasmus #4: Dersler](http://burakekici.com/erasmus-bolum-4)**
+- Erasmus #5: Ekonomi
+- **[Erasmus #6: Dil](http://burakekici.com/erasmus-bolum-6)**
+- **[Erasmus #7: Freiburg’da Yaşam](http://burakekici.com/erasmus-bolum-7)**
+- **[Erasmus #8: Sonuç](http://burakekici.com/erasmus-bolum-8)**
