@@ -17,6 +17,7 @@ html {
 
 body {
   margin: 0;
+  background-color: $backgroundColor;//#181818;
 }
 
 /* HTML5 display: definitions
@@ -102,6 +103,7 @@ a {
 a:active,
 a:hover {
   outline-width: 0;
+  color: $linkHoverColor; 
 }
 
 /* Text-level semantics

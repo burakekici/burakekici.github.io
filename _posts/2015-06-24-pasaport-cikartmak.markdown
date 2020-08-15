@@ -14,7 +14,7 @@ description: Test
 Bir yurt dışı seyahatine niyetlendiniz ancak elinizde bir pasaportunuz yok. Yapmanız gereken işlemler arasında en kolay olanlardan biri pasaport çıkartmak. 
 
 <p align="center">
-  <img src="../assets/images/2015/interrail/pasaport1.png" alt="Pasaport"/>
+  <img src="../assets/images/2015/interrail/pasaport1.jpg" alt="Pasaport"/>
 </p>
 
 Bunun için ihtiyacınız olan şeyler:

@@ -15,4 +15,5 @@ description: Test
 Uzun süredir planlayıp da bir türlü hayata geçiremediğim blog yazma konusunda bu kez kararlıyım. Bugün itibarıyla hoşuma giden, paylaşılmaya değer gördüğüm şeyleri blogumda paylaşmaya çalışacağım.
 
 Hoşça kalın,
+
 Burak
