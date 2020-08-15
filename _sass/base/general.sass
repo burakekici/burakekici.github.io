@@ -43,9 +43,16 @@ p
 		letter-spacing: 0.2px
 
 strong
-	font-family: $fontSansBold
 	font-weight: 500
 	color: #alpha
+
+p
+	strong 
+		font-family: $fontSansBold
+
+p
+	em
+		font-family: $fontSansItalic
 
 ul,
 ol
@@ -87,6 +94,12 @@ blockquote
 	color: #delta
 	padding-left: 8px
 	border-left: 4px solid #ccc
+
+blockquote
+	strong 
+		font-family: $fontQuote
+		font-weight: 500
+		color: #beta
 
 hr
 	border: none
