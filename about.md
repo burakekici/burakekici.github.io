@@ -70,7 +70,7 @@ Some quotes I like:
 
 
 [1]: https://cs.hacettepe.edu.tr
-[2]: https://informatik.uni-freiburg.de
+[2]: https://www.informatik.uni-freiburg.de
 [3]: https://apps.com.tr
 [4]: https://open.spotify.com/user/bekici 
 [5]: https://www.goodreads.com/burakekici 
