@@ -16,15 +16,17 @@ layout: page
 <br>
 💡 Minimalist, booklover, lifelong learner
 <br>
+🎹 Piano learner
+<br>
 ℹ️ Personality type: [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
 
 --- 
 
 ## Work
 
-💻 Game Developer at [APPS Mobile][3]. 
+💻 Game Developer at [APPS Mobile][apps]. 
 <br>
-🔑 Unity, C#, Game Development, Software Architecture, User Experience, iOS, Swift, Game Design
+🔑 Unity, C#, Game Development, Software Architecture, User Experience
 
 * Some projects I worked on:
   * Detective & Puzzles on [Android](https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery) and [iOS](https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053)
@@ -34,31 +36,30 @@ layout: page
   * Runflux on [iOS](https://itunes.apple.com/us/app/runflux/id1383179327)
   * BiletAll on [iOS](https://itunes.apple.com/tr/app//id873069066) 
 
-You can check my [résumé](../assets/resume.pdf) for more information.
+You can check my [résumé](../assets/resume.pdf) and [LinkedIn][linkedin].
 
 ---
 
 ## Education
 
-👨🏻‍🎓 **BSc** degree of **computer science**  at [Hacettepe University][1], Ankara. 
+👨🏻‍🎓 **BSc** degree of **computer science**  at [Hacettepe University][hacettepe], Ankara. 
 <br>
-🌍 Ex **Erasmus+ exchange student** at [Albert-Ludwigs University][2], Freiburg.
+🌍 Ex **Erasmus+ exchange student** at [Albert-Ludwigs University][freiburg], Freiburg.
 
 ---
 
-## Links
+## More about me
 
-🎵 [Spotify][4]
-<br>
-📚 [GoodReads][5]
-<br>
-🎥 [IMDb][6]
+🎵 [Spotify][spotify]
 
----
 
-## Quotes
+📚 [GoodReads][goodreads]
 
-Some quotes I like: 
+
+🎥 [IMDb][imdb]
+
+
+❝ Some quotes I like 
 
 > Less is more.
 
@@ -69,9 +70,10 @@ Some quotes I like:
 > Life is 10% what happens to you and 90% how you react to it.
 
 
-[1]: https://cs.hacettepe.edu.tr
-[2]: https://www.informatik.uni-freiburg.de
-[3]: https://apps.com.tr
-[4]: https://open.spotify.com/user/bekici 
-[5]: https://www.goodreads.com/burakekici 
-[6]: https://www.imdb.com/user/ur41656845 
+[linkedin]: https://www.linkedin.com/in/burakekici
+[hacettepe]: https://cs.hacettepe.edu.tr
+[freiburg]: https://www.informatik.uni-freiburg.de
+[apps]: https://apps.com.tr
+[spotify]: https://open.spotify.com/user/bekici 
+[goodreads]: https://www.goodreads.com/burakekici 
+[imdb]: https://www.imdb.com/user/ur41656845 
