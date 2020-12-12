@@ -59,7 +59,7 @@ Bu yaz iki adet (benim açımdan) çılgınlığa imza attım: yamaç paraşüt�
 Spotify'da 64 bin dakika müzik dinlemişim. Kabaca bir hesap yapınca günde 3 saat yapıyor. 😀 İstanbul Arabesque Project her yıl olduğu gibi yine yerini almış.  Bu yıl en favori şarkım _5 Quartet - Unutama Beni_ olmuş. Çok fena şarkıdır, dikkatli dinlemek lazım. 🔪 😄 
 Bir de dinlediğim şarkıların yaklaşık %30-40'ı yabancı şarkılardan oluşmasına rağmen ne Haftalık Keşif'te ne de diğer çalma listelerinde hiç yabancı şarkılar yer almıyor. Spotify'ın öneri sistemi bir tuhaf. 
 <p align="center">
-  <img src="../assets/images/2018/2019/spotify-stats.jpg" alt="2018 Spotify İstatistikleri" width="400"/>
+  <img src="../assets/images/2018/2018/spotify-stats.jpg" alt="2018 Spotify İstatistikleri" width="400"/>
 </p>
 
 <br>
@@ -78,7 +78,7 @@ Oyun sektörü öyle bir noktaya gelmiş ki müptelası olmamak elde değil. The
 
 Son yıllık yazımda Barış Özcan'ın Zinciri Kırma önerisinden bahsetmiştim. Epey faydasını gördüm diyebilirim. Hemen aşağıda 2018'deki durumu görebilirsiniz. 
 <p align="center">
-  <img src="../assets/images/2018/2019/books-2018.JPG" alt="2018 Kitaplar" width="600"/>
+  <img src="../assets/images/2018/2018/books-2018.JPG" alt="2018 Kitaplar" width="600"/>
 </p>
 
 Barış Abinin yeni videosunu [şu adresten](https://youtu.be/5uIl38UFVh0) izleyebilir, 2019 takvimini de video açıklamasından indirebilirsiniz. 

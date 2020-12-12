@@ -1,5 +1,5 @@
 ---
-title: "Gel Bakalım 2018"
+title: "Z Raporu: 2017"
 layout: post
 date: 2017-12-30 00:00
 tag:
@@ -71,7 +71,7 @@ Bir de 12 saat yok oluyor dedim ama bu sadece dışarıdan bakınca böyle. Eğe
 • Bu yıl yaptığım iyi yatırımlardan birisi de bu manyetik beyaz yazı tahtasını almaktı. Hepi topu 100 ₺'lik masraf yaptım ama böylece hem aklımdaki şeyleri hızlıca not edebiliyorum, hem ağaç israfını bir nebze olsun önlemiş oluyorum. 
 
 <p align="center">
-  <img src="../assets/images/2017/2018/whiteboard.jpg" alt="Whiteboard"/>
+  <img src="../assets/images/2017/2017/whiteboard.jpg" alt="Whiteboard"/>
 </p>
 
 <br>
