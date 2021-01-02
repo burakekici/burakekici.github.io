@@ -74,9 +74,9 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
-dev: true
-mix: true
+blog: false
+dev: false
+mix: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
