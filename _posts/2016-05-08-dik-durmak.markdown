@@ -7,6 +7,8 @@ tag:
 - dik durmak
 - postür
 category: blog
+categories: 
+- mix
 author: ekici
 description: Test
 ---

@@ -6,6 +6,8 @@ tag:
 - yeni yıl
 hidden: true
 category: blog
+categories: 
+- mix
 author: ekici
 description: 2017 değerlendirmeleri, 2018 hedefleri.
 ---

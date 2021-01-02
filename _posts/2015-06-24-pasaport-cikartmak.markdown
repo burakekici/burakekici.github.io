@@ -7,6 +7,8 @@ tag:
 - seyahat
 - interrail
 category: blog
+categories: 
+- mix
 author: ekici
 description: Test
 ---

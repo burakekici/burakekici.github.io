@@ -8,6 +8,8 @@ tag:
 - freiburg
 - ders
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---

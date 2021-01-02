@@ -11,6 +11,8 @@ tag:
 hidden: false
 star: false
 category: blog
+categories: 
+- mix
 author: ekici
 description: Spotify'ın az bilinen özellikleri.
 ---

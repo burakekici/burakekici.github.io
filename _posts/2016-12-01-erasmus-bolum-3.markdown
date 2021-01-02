@@ -8,6 +8,8 @@ tag:
 - freiburg
 - ulaşım
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---

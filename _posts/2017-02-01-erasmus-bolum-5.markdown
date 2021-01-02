@@ -8,6 +8,8 @@ tag:
 - freiburg
 - ekonomi
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---

@@ -11,6 +11,8 @@ tag:
 - hosting
 hidden: false
 category: blog
+categories: 
+- dev
 author: ekici
 description: Jekyll blogu GitHub Pages'te barındırma, Wordpress'ten Jekyll'a geçiş, custom domaini GitHub Pages'te kullanma, Jekyll kullanımı
 ---

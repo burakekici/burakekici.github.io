@@ -7,6 +7,8 @@ tag:
 - okumak
 star: false
 category: blog
+categories: 
+- mix
 author: ekici
 description: Kitap okuma alışkanlığı kazanmak
 ---

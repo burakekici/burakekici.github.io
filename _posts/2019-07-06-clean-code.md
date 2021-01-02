@@ -16,6 +16,9 @@ tag:
 - uncle bob
 - robert martin
 category: blog
+categories: 
+- dev
+- mix
 author: ekici
 description: Temiz Kod (Clean Code) kitabından aldığım notlar.
 ---
