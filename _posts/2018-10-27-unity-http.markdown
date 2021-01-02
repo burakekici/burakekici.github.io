@@ -10,7 +10,7 @@ tag:
 - multiplayer
 hidden: false
 star: false
-category: blog
+category: dev
 author: ekici
 description: Unity3D'de HTTP ve Websocket işlemleri nasıl yürütülür.
 ---
