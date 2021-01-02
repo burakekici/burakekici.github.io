@@ -10,6 +10,8 @@ tag:
 hidden: false
 star: false
 category: blog
+categories: 
+- mix
 author: ekici
 description: 2018 yılında okuduğum kitaplar.
 ---

@@ -11,6 +11,8 @@ tag:
 hidden: false
 star: false
 category: blog
+categories: 
+- mix
 author: ekici
 description: 2017 yılında okumuş olduğum kitaplara ait bazı alıntılar ve yorumlar barındırır.
 ---

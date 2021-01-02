@@ -18,6 +18,8 @@ tag:
 - tyt
 star: false
 category: blog
+categories: 
+- mix
 author: ekici
 description: LYS tercihi ve bilgisayar mühendisliği
 ---

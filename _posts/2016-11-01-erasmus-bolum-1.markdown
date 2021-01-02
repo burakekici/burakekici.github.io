@@ -8,6 +8,8 @@ tag:
 - freiburg
 - vize alma
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---

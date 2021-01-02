@@ -2,7 +2,7 @@
 # dev page must be named index.html and in its own folder to support pagination
 # https://jekyllrb.com/docs/pagination/
 layout: page
-title: Developer Blog
+title: Mix Blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
@@ -11,7 +11,7 @@ title: Developer Blog
 		{% for post in paginator.posts %}
 			{% if post.hidden != true %}
 				{% for cat in post.categories %}
-  					{% if cat == 'dev' %}
+  					{% if cat == 'mix' %}
 						{% include blog-post.html %}
 					{% endif %}
 				{% endfor %} 
@@ -23,7 +23,7 @@ title: Developer Blog
 		{% for post in site.posts %}
 			{% if post.hidden != true %}
 				{% for cat in post.categories %}
-  					{% if cat == 'dev' %}
+  					{% if cat == 'mix' %}
 						{% include blog-post.html %}
 					{% endif %}
 				{% endfor %} 

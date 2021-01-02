@@ -11,7 +11,9 @@ tag:
 - secure
 image: /assets/images/2019/github-https/http-vs-https.png
 headerImage: false
-category: dev
+category: blog
+categories: 
+- dev
 author: ekici
 description: GitHub'da barındırılan özel alan adı için HTTPS bağlantı nasıl sağlanabileceğini anlattım.
 ---

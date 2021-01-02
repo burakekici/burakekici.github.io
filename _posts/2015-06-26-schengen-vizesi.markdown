@@ -7,6 +7,8 @@ tag:
 - schengen
 - vize alma
 category: blog
+categories: 
+- mix
 author: ekici
 description: Test
 ---

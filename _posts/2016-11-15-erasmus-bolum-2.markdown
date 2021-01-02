@@ -7,6 +7,8 @@ tag:
 - almanya
 - freiburg
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---

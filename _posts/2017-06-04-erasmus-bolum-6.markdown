@@ -9,6 +9,8 @@ tag:
 - almanca
 - dil öğrenmek
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---

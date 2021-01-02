@@ -6,6 +6,8 @@ tag:
 - ilk yazı
 star: false
 category: blog
+categories: 
+- mix
 author: ekici
 description: Test
 ---

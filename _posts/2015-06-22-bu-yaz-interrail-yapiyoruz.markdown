@@ -7,6 +7,8 @@ tag:
 - avrupa
 - seyahat
 category: blog
+categories: 
+- mix
 author: ekici
 description: Test
 ---

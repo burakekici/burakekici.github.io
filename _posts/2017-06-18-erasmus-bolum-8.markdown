@@ -8,6 +8,8 @@ tag:
 - freiburg
 - sonuç
 category: blog
+categories: 
+- mix
 author: ekici
 description: Erasmus
 ---
