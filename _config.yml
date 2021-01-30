@@ -96,9 +96,6 @@ show-author: true
 # do you want some animations?
 animation: true
 
-# ads?
-show-ads: true
-
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
