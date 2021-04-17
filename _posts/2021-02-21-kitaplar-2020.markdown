@@ -1,0 +1,195 @@
+---
+title: "2020'de Okuduğum Kitaplar"
+layout: post
+date: 2021-02-21 10:00
+tag:
+- kitap
+- okumak
+- alıntı
+- özet
+- notlar
+star: false
+category: blog
+categories: 
+- mix
+author: ekici
+description: 2020 yılında okuduğum kitaplar
+---
+
+![Markdown Image][cover]{: class="bigger-image" }
+
+Merhaba,
+
+Bu yazıda 2020 yılında okuduğum kitaplara dair birkaç alıntı ve notlarımı paylaştım. 
+
+<br>
+
+# 1. Beyin
+David Eagleman, 2015
+
+> Kimliğimiz, beynin çapraşık elektrokimyasal ateşlenme örüntülerinde saklıdır.
+
+> Yaşamın ilk 2 yılında nöronlar hızlıca bağlantı kurmaya başlarlar; bebeğin beyninde saniyede yaklaşık 2 milyon yeni bağlantı, yani sinaps oluşur. İki yılın sonunda bebeklteki sinapsların sayısı 100 trilyonu aşarak, bir yetişkindeki sinaps sayısının iki katına ulaşır.
+
+> Ter bezleriniz ne kadar salgı yaparsa, deri iletkenliğiniz o kadar fazla olacaktır. Bu yalan makinesi ya da poligraf testinde de kullanılan tekniktir.
+
+> Kırmızı kan hücreleriniz her 4 ayda bir tümüyle yenilenirler ve yer değiştirirken, deri hücreleriniz de birkaç haftada bir yenilenir. Yaklaşık 7 yıl içinde, vücudunuzdaki her bir atomun yerini başka atomlar almış olur.
+
+> Sınırlı sayıda nörona sahipsinizdir ve hepsinin de birden fazla görevi yerine getirmesi beklenir. Bu nöronlar, sürekli değişim halindeki ilişkilerden oluşan dinamik bir matris içinde çalışırlar; bu nedenle diğer nöronlara bağlanmak konusunda üzerlerinde ağır bir baskı vardır. Doğum günü yemeğiyle ilgili anılarınızın bulanık hale gelmesinin nedeni de, “doğum günü” nöronlarının diğer bellek ağlarına katılmaya zorlanmasıdır. Anıların düşmanı zaman değil, diğer anılardır. Özetle, tek bir olayı, yaşamınızın farklı dönemlerinde farklı biçimlerde hatırlarsınız. 
+
+> Beynimizi bilişsel yönden ne kadar zinde tutarsak bir noktadan diğerine ulaşmayı sağlayacak yeni yolların inşasına katılan nöral ağlar da o kadar çok olur. 
+
+> Renk diye bir şey yoktur aslında. Elektromanyetik ışınım bir nesneye çarptığında, bir kısmı nesneden seker ve gözlerimiz tarafından yakalanır. Dalgaboyu kombinasyonlarından milyonlarcasını ayırt edebiliriz; ama bunların renge dönüştüğü tek yer, kafamızın içidir. 
+
+> Bellek, zaten bunun için vardır: Önemli olayların kaydını tutarak, benzeri bir duruma düştüğünüzde hayatta kalmanız için beyne fazladan bilgi sağlar. 
+
+> Kötü kokulu bir ortamdayken, daha katı ahlaki yargılarda bulunur; sözgelimi, bir başka kişinin sıradan olmayan davranışlarını ahlak dışı olarak değerlendirebilirsiniz. Bir çalışmada, insanların sert biz sandalyede otururken daha sıkı pazarlık edebildikleri, yumuşak bir sandalyede ise teslim olmaya daha yatkın oldukları gösterilmiştir.
+
+> Bilinç, beklenmeyen bir şey olduğunda, bir sonraki adımımızı hesaplamaya ihtiyaç duyduğumuzda devreye girer. Beyin, işleri mümkün olduğunca otomatik pilot üzerinden yürütmeye çalışsa da, sürekli falsolu topların geldiği bir dünyada bu her zaman mümkün olmayabilir.
+
+> Yerleşik nöral düzeneklerimiz, bizi başkalarıyla bağ kurmaya ve gruplar oluşturmaya iter. Bir gruba dahil olmak bize huzur ve rahatlık verir. 
+
+> İnsan vücudu, karmaşıklık ve güzelliğiyle bir başyapıt; birbiriyle uyum içinde çalışan 40 trilyon hücrenin hayat verdiği bir senfonidir. 
+
+> Normal bir beyinde, her biri 10.000 kadar bağlantı kurmuş yaklaşık 86 milyar nöron vardır. 
+
+<br>
+
+# 2. Cesur Yeni Dünya
+Aldous Huxley, 1932
+
+> Her şeyin ulaşılabilir olduğu bir dünyada hiçbir şeyin anlamı yoktur.
+
+> Ne sebeple olursa olsun hatanızın üzerinde kara kara düşünmeyin. Temizlenmenin yolu çamurda yuvarlanmak değildir. 
+
+> (Şartlandırma Merkezi) Hoparlörden gelen anons: “Ben Delta çocuklarıyla oyun oynamak istemiyorum. Epsilonlar daha da kötüler. Beta olduğum için öyle mutluyum ki. Alfa çocukları gri giyerler. Bizden çok daha sıkı çalışırlar, çünkü korkulacak kadar zekidirler.” 
+
+> Vahşi: “Niye yaptınız onları? O şişelerden her istediğnizi elde etmeniz mümkün. Bu aşamadayken niye herkesi Alfa-Çift-Artı yapmıyorsunuz? 
+Batı Avrupa Dünya Denetçisi Mustafa Mond güldü. “Gırtlağımız kesilsin istemiyoruz da ondan” dedi. “Mutluluğa ve istikrara inanıyoruz. Alfalardan oluşan bir toplum, eninde sonunda istikrarsız ve sefil olmaya mahkumdur. Çalışanları sadece Alfaların oluşturduğu bir fabrikayı düşünün, yani ayrı olan ve akrabalık bağları olmayan, iyi bir mirasa sahip, özgür (sınırlar dahilinde) iradesiyle seçim yapabilecek ve sorumluluk alabilecek bireylerden oluşsun. Bir düşünün!” diye tekrarladı. 
+
+<br>
+
+# 3. Aklında Kalsın
+Peter Brown & Mark McDaniel, Henry Roediger, 2014
+
+> Çözümü size verilmeden önce bir problemi çözmeye çalışmak hatalar yapılsa bile daha iyi öğrenmeye neden olur. 
+
+> Öğrenme ne kadar zorsa o kadar güçlü ve kalıcıdır. 
+
+> Yeni bilgi veya beceriyi bellekten geri çağırma çalışması öğrenme ve kalıcı akılda tutma için güçlü bir araçtır. Bu beynin hatırlaması ve gelecekte yeniden çağırması beklenen -gerçekler, karmaşık kavramlar, problem çözme teknikleri ve motor beceriler- her şey için doğrudur. Blok çalışmada öğrenilenler daha çabuk unutulur. Derse sadece bir sınav eklemek, final sınavında büyük gelişmeye neden olur, sınav sıklığı arttıkça bu devam eder. Sınavlardan sonra düzeltici geri bildirim yanlış anlaşılan materyallerin daha iyi öğrenilmesini ve akılda tutulmasını sağlar. 
+
+> Beynimizin bir orman gibi olduğunu ve bilginin orada bir yerde olduğunu söylüyorum. Siz buradasınız ve o bilgi orada bir yerde. O bilgiye ne kadar çok giderseniz, patika o kadar belirgin olur ve böylece bilgiye bir daha ihtiyaç duyduğunuzda bulması daha kolay olur. 
+
+<br>
+
+# 4. Küçük Prens
+Antoine de Saint-Exupery, 1943
+
+> Büyükler sayılara bayılırlar. Onlara yeni edindiğiniz bir arkadaştan söz açtınız, asıl sorulacak şeyleri sormazlar. Sesi nasılmış, hangi oyunları severmiş, kelebek biriktirir miymiş, sormazlar bile. “Kaç yaşında?” derler, “Kaç kardeşi var? Kaç kilo? Babası kaç para kazanıyor” Bu tür bilgilerle onu tanıdıklarını sanırlar. 
+
+> “Sizin Dünya’da insanlar” dedi Küçük Prens, “Bir bahçede beş bin gül yetiştiriyorlar; yine de aradıklarını bulamıyorlar. Oysa aradıkları tek bir gülde, bir damla suda bulunabilir. Ama gözler kördür. İnsan ancak yüreğiyle baktığı zaman gerçeği görebilir...”
+
+<br>
+
+# 5. Niçin Uyuruz?
+Matthew Walker, 2017
+
+Bu kitaba dair notlarımı [şu bağlantıda](../uyku) paylaşmıştım. 
+
+<br>
+
+# 6. Bunu Herkes Bilir
+Emrah Safa Gürkan, 2020
+
+> Alman Sosyolog Prusyalı Max Weber’e göre, Avrupa’nın bu plansız ve tesadüfi yükselişi, “Protestan Ahlakı”nın (Alm. Die protestanische Ethik) bir sonucudur. Fakirliği öven Katolik dünya görüşünün aksine zenginlikle bir problemi olmayan Protestanlık, mensuplarının dünya işleriyle meşgul olmasına ve ticaret yapmasına karşı çıkmamış; toplumun yararına sayarak en niteliksiz işe bile büyük önem vermişti. Sonuçta ortaya çıkan hamarat ve disiplinli, yani kapitalizmin geist’ına (ruh) uygun bir toplumdu. Ekonomik faydanın rasyonel bir şekilde kovalanması olarak özetlenebilecek bu ruhun gerektirdiği motive olmuş, çalışkan toplumları yaratan “İş Ahlakı”, Protestan ülkelerin kapitalistleşmesinin yegane sebebiydi. 
+
+> Barut Çin’de bulunmuş olabilir, ancak top ve tüfek teknolojisinin gelişmesi Avrupa’da gerçekleşmiştir. Bunun nedeni, Konfüçyüsçü ilkelerin ışığında bürokratik bir elitin yönettiği ve merkezi bir idare kurmayı başarmış Çin’in aksine, Avrupa’Nın bölünmüş siyasi yapısı ve savaşçı ortamının, yüzyıllar boyu askeri teknolojiye yatırım yapılmasını meşrulaştırmış olmasıdır. 14.yy ortalarında kullanılmaya başlayan dıştan ateşlemeli ve kundaksız ilk tüfeklerden (hand Cannon) artık muharebelerin sonucunu değiştirebilecek tetikli arkebüzlere geçilmesi 200 yıl sürecektir; ekonomik bir mantısı olmadan böyle uzun süreli yatırıma girişilmesi olacak iş değildir. 
+
+> Sabri Ülgener’e göre, “ağalık ve efendilik bilinci”bin hakim olduğu Osmanlı toplumu iktisadi saiklerle yaşamamaktadır ve parayı bir ihtişam aracı olarak gördüğü için yatırımlardan çok lüks tüketime yönelmiştir. 
+
+> Osmanlı toplumunda zengin olmak takdir edilen bir şey değildir ve bu da kapitalist bir sınıfın oluşması için gerekli olan sermaye birikimini önlemektedir. 
+
+> Bir tarafta ticaret kumpanyaları kurarak ekonomik olarak daha verimli olan sınıfların çıkarlarını korumayı şiar edinmiş İngiltere, Hollanda ve Fransa gibi ülkeler varken; öteki tarafta zenginliğin ve artı değerin rantçı bürokrat ve yöneticilerin elinde olduğu bir Osmanlı olması tam da bu zihniyetin bir sonucudur. 
+
+> Kapitalizmin temel kurumlarını geliştirenler, zayıf üretim kapasiteleri, aşırı devlet harcamaları ve daha statik toplumlarıyla Katolik İspanyollar değil, merkantilist politikaları ve gelişmiş finansal altyapılarıyla ticarete daha yatkın İngiliz ve Hollandalılar olacaktı; Weber’i yüzyıllar sonra kapitalizmin kökenini Protestanlıkta aramaya iten de işte tam bu başarıydı. 
+
+<br>
+
+# 7. İnsanın Anlam Arayışı
+Viktor Frankl, 1946
+
+> Ortalama olarak, sadece yıllar boyunca o kamptan bu kampa taşınan, varoluş mücadelesinde bütün ahlak değerlerini kaybeden tutuklular yaşayabiliyordu. Bu tutuklular, kendilerini kurtarmak için dürüst olsun olmasın her yola, her türlü acımasız güce, hırsızlığa, dostlarına ihanete başvurmaya hazırlardı. En iyilerimiz dönmedi.
+
+> Günlük tayınımız, günde bir kere verilen, su gibi bir tas çorbadan ve her zamanki gibi küçük bir parça ekmekten oluşuyordu. “Ekstra tayın” denilen ve gününe göre 25 gram margarinden, kalitesiz bir dilim sosisten, bir parça peynirden ve bir parça sentetik baldan ya da bir kaşık reçelden oluşan bir tayın veriyorlardı. Özellikle kas gücü isteyen ağır işler ve yetersiz giysisiyle sürekli maruz kaldığımız soğuk açısından bu diyet kesinlikle yetersizdi. 
+
+> Gözyaşlarından utanmamız gerekmiyordu, çünkü gözyaşları, bir insanın, cesaretlerin en büyüğüne, acı çekme cesaretine sahip olduğuna tanıklık ediyordu. 
+
+<br>
+
+# 8. Şeker Portakalı
+Jose Mauro de Vasconcelos, 1968
+
+<br>
+
+# 9. Ezberbozanlar
+Peter Fisk, 2017
+
+> Satın alma deneyimlerinin %70'i kişilerin nasıl hissettiğine bağlıdır. Sadık müşteriler genellikle ilk satın almalarının 10 katı değerindedir. 
+
+> Müşterileri elde tutmaya oranla müşteriyi kazanmak için 7 kat daha fazla hizmet gideri bulunmaktadır. Çözülmemiş bir negatif deneyimi telafi etmek, 12 olumlu deneyim değerindedir. 
+
+> Coca-Cola, amacını daha işlevsel olan 'ferahlık'tan 'mutluluk'a çevirince, insanları daha derinden etkilemeyi başarabildi. 
+
+> "İşletmenin sosyal sorumluluğu kârlılığını yükseltmektir." Milton Friedman
+
+> Fikirler kazayla yayılmaz. En güçlü konseptler, en akılda kalıcı şarkılar çünkü onlar memler ve beyin tarafından kolayca yakalanabilir, kodlanabilir, iletilebilir kalıplardır. 
+
+> Liderliğin en güzel tanımlarından biri; "başkalarındaki potansiyeli artırmaktır".
+
+<br>
+
+# 10. Bir Ömür Nasıl Yaşanır?
+İlber Ortaylı, 2019
+
+> Batı ve Doğu medeniyetleri birçok insanın 12-25 yaşları arasında yaptığı işler, verdiği eserler neticesinde oluşmuştur.
+
+> Esas olan 25’ine kadar öğrendiklerinizdir. O yaşa dek okuduğunuz kitaplar, seyrettiğiniz filmler, gördükleriniz hayatınız boyunca sizinle kalır. Belli yaşlardan sonra öğrendiklerinizi aynı hızla unutuyorsunuz. 
+
+> Entelektüel olmak için işinle, aşınla, mesleğinle ilgili konuların dışında kalan şeylere ilgi duyarsın; onlara da zaman ve para ayırırsın, farklı şeyler öğrenirsin. 
+
+> Selanik, imparatorluğun en Batılı şehridir. Avrupalı kadının biri Selanik’in çarşısında peynirli sandviç yer, bira içer. Beyrut’ta İzmir’de görülebilir bir şey değildi. Selanik’te tam da bu ayrıntılara uygun; kadınlı-erkekli, cemiyetli, sendikalı bir hayat yaşanıyordu. Genç Mustafa Kemal bunları görmüş, çağdaş bir subay olarak yetişmişti. Konuştukları, görüştükleri, bu fikirlere göre insanlardı; giyimi kuşamı, kadınlarla ilişkileri, cemiyet hayatındaki duruşu yine bu fikirlere uygundu.
+
+> Atatürk yurt dışına hemen her alanda talebe göndermiştir. Sadece en acil görünen teknik dallar değil; arkeoloji, filoloji öğrencileri de yurt dışına gitti. 
+
+> Yalnız kalmayı öğrenirseniz, düşünmeyi de öğrenirsiniz. 
+
+> “Döviz çıktı mı, indi mi?” Diye kafasına takan bir insanın, sağlıklı düşünce üretmesi güçtür. 
+
+> Eğitimin iyisi, müzikle, matematik ve filolojiyle, bir de sporla olur. 
+
+> Eğitim doğrudan doğruya elitist olmak zorundadır. Elit olmaktan korkmayın. Elitist olmayan, elitlerini iyi değerlendirmeyen bir toplum dekadansa (inhilal) mahkumdur. Elitlik, işini iyi yapan insanların toplumda dikeyine sınıflandırılmasıdır. 
+
+<br>
+
+# 11. Tüfek, Mikrop ve Çelik
+Jared Diamond, 1997
+
+> Tarım sayesinde oluşan yiyeek fazlalığının en önemli sonuçlarından biri de metal aletlerin yapımı, şef ve krallar, hemen sonrasında da yazının icadıydı. 
+
+> Pizarro'nun Peru'daki İnka İmparatorluğu karşısında 168 kişiyle elde ettiği başarısında etkili olan nedenler arasında tüfeklere, çelik silahlara ve atlara dayanan askeri teknoloji vardır, Avrasya'da her zaman görülen bulaşıcı hastalıklar vardır, Avrupa'nın denizcilik teknolojisi vardır, Avrupa'daki devletlerin merkezi siyasal örgütü vardır, yazı vardır.
+
+> Çağdaş dünyadaki bütün tarım ürünlerinin yıllık hacminin %80'ini topu topu bir düzine tür oluşturur. Tahıllardan buğday, mısır, pirinç, arpa, süpürgedarısı; baklagillerden soya fasulyesi; kök veya yumrulardan patates, manyok, tatlı patates; şeker kaynağı olarak şekerkamışı ve şekerpancarı; meyvelerden muz. 
+
+> Merkezi yönetim ile örgütlü bir din sahibi olmayı en erken başaran toplumların torunları sonunda çağdaş dünyanın hâkimi oldular.
+
+> Kıtalar arasındaki farklılıkların temel sebepleri şunlardır. 1. Yabani hayvan ve bitki türleri arasındaki farklardır. 2. Kıtalar arasında büyük farklılık gösteren yayılma ve göç hızını etkileyen nedenler vadır. Avrasya'nın ana ekseni doğu-batı doğrultusunda olduğu, çevresel ve coğrafi engeller göreli olarak pek abartılı olmadığı için Avrasya'da yayılma da göç de hızlı oldu. 3. Kıtalar arasındaki yayılmayı etkileyen nedenler ile evcil hayvan ve teknoloji yayılımı değişiklik gösterdi. 4. Yüzölçümleri ve toplam nüfus hacimleri arasındaki farklılıklar. Kalabalık nüfus demek, mucitlerin, birbiriyle yarışan toplumların, benimsenecek mevcut yeniliklerinin sayısının daha fazla olması demektir. Yenilikleri benimseme baskısı da artar çünkü bunu yapamayan toplumlar diğerleri tarafından elenir. 
+
+<br>
+
+# 12. Denizler Altında 20 Bin Fersah
+Jules Verne, 1870
+
+<br>
+<br>
+
+[cover]: ../assets/images/2021/kitaplar-2020/cover.JPG
