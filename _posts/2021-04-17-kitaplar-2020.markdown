@@ -72,7 +72,7 @@ Batı Avrupa Dünya Denetçisi Mustafa Mond güldü. “Gırtlağımız kesilsin
 <br>
 
 # 3. Aklında Kalsın
-Peter Brown & Mark McDaniel, Henry Roediger, 2014
+Peter Brown, Mark McDaniel, Henry Roediger, 2014
 
 > Çözümü size verilmeden önce bir problemi çözmeye çalışmak hatalar yapılsa bile daha iyi öğrenmeye neden olur. 
 
@@ -89,7 +89,7 @@ Antoine de Saint-Exupery, 1943
 
 > Büyükler sayılara bayılırlar. Onlara yeni edindiğiniz bir arkadaştan söz açtınız, asıl sorulacak şeyleri sormazlar. Sesi nasılmış, hangi oyunları severmiş, kelebek biriktirir miymiş, sormazlar bile. “Kaç yaşında?” derler, “Kaç kardeşi var? Kaç kilo? Babası kaç para kazanıyor” Bu tür bilgilerle onu tanıdıklarını sanırlar. 
 
-> “Sizin Dünya’da insanlar” dedi Küçük Prens, “Bir bahçede beş bin gül yetiştiriyorlar; yine de aradıklarını bulamıyorlar. Oysa aradıkları tek bir gülde, bir damla suda bulunabilir. Ama gözler kördür. İnsan ancak yüreğiyle baktığı zaman gerçeği görebilir...”
+> “Sizin Dünya’da insanlar” dedi Küçük Prens, “Bir bahçede beş bin gül yetiştiriyorlar; yine de aradıklarını bulamıyorlar. Oysa aradıkları tek bir gülde, bir damla suda bulunabilir. Ama gözler kördür. İnsan ancak yüreğiyle baktığı zaman gerçeği görebilir.”
 
 <br>
 
@@ -103,9 +103,9 @@ Bu kitaba dair notlarımı [şu bağlantıda](../uyku) paylaşmıştım.
 # 6. Bunu Herkes Bilir
 Emrah Safa Gürkan, 2020
 
-> Alman Sosyolog Prusyalı Max Weber’e göre, Avrupa’nın bu plansız ve tesadüfi yükselişi, “Protestan Ahlakı”nın (Alm. Die protestanische Ethik) bir sonucudur. Fakirliği öven Katolik dünya görüşünün aksine zenginlikle bir problemi olmayan Protestanlık, mensuplarının dünya işleriyle meşgul olmasına ve ticaret yapmasına karşı çıkmamış; toplumun yararına sayarak en niteliksiz işe bile büyük önem vermişti. Sonuçta ortaya çıkan hamarat ve disiplinli, yani kapitalizmin geist’ına (ruh) uygun bir toplumdu. Ekonomik faydanın rasyonel bir şekilde kovalanması olarak özetlenebilecek bu ruhun gerektirdiği motive olmuş, çalışkan toplumları yaratan “İş Ahlakı”, Protestan ülkelerin kapitalistleşmesinin yegane sebebiydi. 
+> Alman Sosyolog Prusyalı Max Weber’e göre, Avrupa’nın bu plansız ve tesadüfi yükselişi, “Protestan Ahlakı”nın (Alm. Die protestanische Ethik) bir sonucudur. Fakirliği öven Katolik dünya görüşünün aksine zenginlikle bir problemi olmayan Protestanlık, mensuplarının dünya işleriyle meşgul olmasına ve ticaret yapmasına karşı çıkmamış; toplumun yararına sayarak en niteliksiz işe bile büyük önem vermişti. Sonuçta ortaya çıkan hamarat ve disiplinli, yani kapitalizmin geist’ına (ruh) uygun bir toplumdu. Ekonomik faydanın rasyonel bir şekilde kovalanması olarak özetlenebilecek bu ruhun gerektirdiği motive olmuş, çalışkan toplumları yaratan “İş Ahlakı”, Protestan ülkelerin kapitalistleşmesinin yegâne sebebiydi. 
 
-> Barut Çin’de bulunmuş olabilir, ancak top ve tüfek teknolojisinin gelişmesi Avrupa’da gerçekleşmiştir. Bunun nedeni, Konfüçyüsçü ilkelerin ışığında bürokratik bir elitin yönettiği ve merkezi bir idare kurmayı başarmış Çin’in aksine, Avrupa’Nın bölünmüş siyasi yapısı ve savaşçı ortamının, yüzyıllar boyu askeri teknolojiye yatırım yapılmasını meşrulaştırmış olmasıdır. 14.yy ortalarında kullanılmaya başlayan dıştan ateşlemeli ve kundaksız ilk tüfeklerden (hand Cannon) artık muharebelerin sonucunu değiştirebilecek tetikli arkebüzlere geçilmesi 200 yıl sürecektir; ekonomik bir mantısı olmadan böyle uzun süreli yatırıma girişilmesi olacak iş değildir. 
+> Barut Çin’de bulunmuş olabilir, ancak top ve tüfek teknolojisinin gelişmesi Avrupa’da gerçekleşmiştir. Bunun nedeni, Konfüçyüsçü ilkelerin ışığında bürokratik bir elitin yönettiği ve merkezi bir idare kurmayı başarmış Çin’in aksine, Avrupa’nın bölünmüş siyasi yapısı ve savaşçı ortamının, yüzyıllar boyu askeri teknolojiye yatırım yapılmasını meşrulaştırmış olmasıdır. 14.yy ortalarında kullanılmaya başlayan dıştan ateşlemeli ve kundaksız ilk tüfeklerden (Hand Cannon) artık muharebelerin sonucunu değiştirebilecek tetikli arkebüzlere geçilmesi 200 yıl sürecektir; ekonomik bir artısı olmadan böyle uzun süreli yatırıma girişilmesi olacak iş değildir. 
 
 > Sabri Ülgener’e göre, “ağalık ve efendilik bilinci”bin hakim olduğu Osmanlı toplumu iktisadi saiklerle yaşamamaktadır ve parayı bir ihtişam aracı olarak gördüğü için yatırımlardan çok lüks tüketime yönelmiştir. 
 
@@ -165,7 +165,7 @@ Peter Fisk, 2017
 
 > Yalnız kalmayı öğrenirseniz, düşünmeyi de öğrenirsiniz. 
 
-> “Döviz çıktı mı, indi mi?” Diye kafasına takan bir insanın, sağlıklı düşünce üretmesi güçtür. 
+> “Döviz çıktı mı, indi mi?” diye kafasına takan bir insanın, sağlıklı düşünce üretmesi güçtür. 
 
 > Eğitimin iyisi, müzikle, matematik ve filolojiyle, bir de sporla olur. 
 
