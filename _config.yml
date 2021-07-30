@@ -3,7 +3,7 @@ name: Burak Ekici
 bio: Software Engineer
 
 # twitter summary info
-description: Personal blog and portfolio page 
+description: Personal blog and portfolio page
 
 # if it's an external image, update below for true
 # better with square images
@@ -71,12 +71,13 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 #projects: true
+portfolio: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
-dev: false
-mix: false
+blog: false
+dev: true
+life: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
