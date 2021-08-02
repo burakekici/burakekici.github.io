@@ -28,7 +28,7 @@ layout: page
 <br>
 🔑 Unity, C#, Game Development, Software Architecture, User Experience
 
-You can check my [portfolio](../projects.md), [résumé](../assets/resume.pdf) and [LinkedIn][linkedin].
+You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and [LinkedIn][linkedin].
 
 ---
 
