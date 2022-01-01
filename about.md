@@ -16,21 +16,23 @@ layout: page
 <br>
 💡 Minimalist, booklover, lifelong learner
 <br>
+🏋🏻‍♀️ Fitness enthusiast
+<br>
 🎹 Piano learner
 <br>
 ℹ️ Personality type: [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
 
----
+<br>
 
 ## Work
 
 💻 Lead Game Developer at [APPS Mobile][apps].
 <br>
-🔑 Unity, C#, Game Development, Software Architecture, User Experience
+🔑 Unity, C#, Game Development, Software Architecture, UX
 
 You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and [LinkedIn][linkedin].
 
----
+<br>
 
 ## Education
 
@@ -38,16 +40,14 @@ You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and
 <br>
 🌍 Ex **Erasmus+ exchange student** at [Albert-Ludwigs University][freiburg], Freiburg.
 
----
+<br>
 
 ## More about me
 
 🎵 [Spotify][spotify]
-
-
+<br>
 📚 [GoodReads][goodreads]
-
-
+<br>
 🎥 [IMDb][imdb]
 
 
