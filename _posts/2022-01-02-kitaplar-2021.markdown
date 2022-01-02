@@ -1,0 +1,186 @@
+---
+title: "2021'de Okuduğum Kitaplar"
+layout: post
+date: 2022-01-02 10:00
+image: /assets/images/2022/kitaplar-2021/cover.JPG
+headerImage: false
+tag:
+- kitap
+- okumak
+- alıntı
+- özet
+- notlar
+star: false
+category: blog
+categories: 
+- mix
+author: ekici
+description: 2021 yılında okuduğum kitaplar
+---
+
+![Markdown Image][cover]{: class="bigger-image" }
+
+Merhaba,
+
+Bu yazıda 2021 yılında okuduğum kitaplara dair alıntı ve notlarımı paylaştım. 
+
+<br>
+
+# 1. Hayvan Çiftliği 
+George Orwell, 1945 
+
+> İçimizde, bütün hayvanların eşit olduğuna en çok inanan, Napoleon Yoldaş'tır.
+
+> Napoleon, pazarları öğleden sonra da çalışılacağını açıkladı. Bu kesinlikle gönüllü bir çalışma olacak, ama işe gelmeyen her hayvanın tayını yarıya indirilecekti.
+
+> Squealer, hiçbir zaman "kısıntı" sözcüğünü kullanmıyor, "yeniden ayarlama" demeyi yeğliyordu.
+
+<br>
+
+# 2. Hızlı ve Yavaş Düşünme 
+Daniel Kahneman, 2011 
+
+Bu kitapta beynin aslında 2 farklı sisteme sahip olduğunu ve çoğunlukla çeşitli sebeplerden ötürü 1. sistem kullanarak yanıtlar ve tepkiler verdiğimiz anlatılıyor. Bu sebepleri, iki sistem arasındaki farklılıkları Kahneman detaylı bir şekilde açıklıyor. 
+
+> Çerçeveleme etkileri: Aynı enformasyonu sunmanın farklı biçimleri, çoğu kez farklı duygular uyandırır. “Ameliyattan bir ay sonra hayatta kalma ihtimali %90’dır” cümlesi, onun dengi olan “ameliyattan itiaren bir ay içinde ölüm oranı %10’dur” cümlesinden daha rahatlatıcıdır. 
+
+> Bir gruptan enformasyon almanın uygun yolu, aleni bir tartışmayla başlamak değil, gizlilik içinde herkesin görüşünü toplamaktır. 
+
+> İyimser bireyler hayatımızı biçimlendirmekte orantısız bir rol oynarlar. Kararları bir fark yaratır; onlar ortalama insanlar değil, mucit, girişimci, siyasi ve askeri liderlerdir.
+
+> ABD’de küçük bir işletmenin 5 yıl ayakta kalma olasılığı yaklaşık %35’tir.
+
+<br>
+
+# 3. Huzursuzluk 
+Zülfü Livaneli, 2017 
+
+> Dünyanın her köşesinde inançlar var, niye Ortadoğu’dan çıkanlar dünyayı kaplamış, diye bir soru soruyorum. En çok biz mi günah işlemişiz, en çok bizim mi düzeltilmeye ihtiyacımız varmış?  
+> Kır bıyıklarının altından hafif bir gülümseme yakalıyorum. Bunun cevabı kelamdır diyor, sözdür. Bu dünyada hiçbir şey insanları söz kadar etkileyemez. Ortaşark da sözün zirveye vurduğu yerdir, hiçbir bölgenin şiiri, menkıbesi, masalı bu kadar kuvvetli, insanın yüreğine işleyen kudrette değildir. İşte bu yüzden bizim buralarda şairler büyücü sınıfına girer. İnsanları güzel sözlerle büyüledikleri için.
+
+<br>
+
+# 4. Atomik Alışkanlıklar
+James Clear, 2018
+
+> Başlangıçta küçük ve önemsiz görünen değişiklikler, sizin onlara yıllarca sadık kalmanız durumunda bir araya gelerek hatırı sayılır sonuçlar yaratıyor.
+
+> Naval Ravikant, “Harika bir kitap yazmak için önce kendiniz kitaba dönüşmelisiniz.”
+
+> İyi alışkanlıkların değeri ve kötü alışkanlıkların maliyeti ancak iki, beş ya da on yıl sonra geriye dönüp baktığınızda çarpıcı şekilde belirginleşir. 
+
+> Beynin geçmişi hatırlamasının başlıca nedeni gelecekte neyin işe yarayacağını daha iyi öngörebilmektir. 
+
+> 1970’lerin enerji krizi ve petrol ambargosu sırasında Hollandalı araştırmacılar, evleri aynı boyutta olmasına rağmen bazı ev sahiplerinin komşularından %30 daha az enerji harcadığını saptadılar. Buradaki tek farkın elektrik saatlerinin bir grupta bodrumda, diğer grupta üst katta koridorda olmasıydı. Enerji kullanım miktarı görünür ve takibi kolay olduğunda insanlar davranışlarını değiştiriyorlardı. 
+
+> “Disiplinli” insanlar hayatlarını kahramanca irade ve öz kontrol gücü gerektirmeyecek şekilde yapılandırmak konusunda daha iyiler. Başka bir deyişle, baştan çıkarıcı durumlarda daha az zaman geçiriyorlar. En iyi öz kontrole sahip olan insanlar tipik olarak onu en az kullanması gerekenler oluyor. Dayanıklılık, azim ve irade başarı için gereklidir ama bu özellikleri iyileştirmenin yolu daha disiplinli bir insan olmayı dilemekten değil, daha disiplinli bir ortam yaratmaktan geçer. 
+
+> Alışkanlıklarımızı cazip kılmalıyız çünkü bizi ilk başta eyleme geçmeye motive eden şey, ödüllendirici bir tecrübenin yarattığı beklentidir. 
+
+> Zahmet ne kadar büyükse alışkanlığı tekrarlama ihtimali de o kadar azalacaktır. 
+
+<br>
+
+# 5. Akıllı Yaşama Sanatı 
+Baltasar Gracian, 1601
+
+> Tanrısallığı yaratan güzelleştirmek değil, tapınmaktır. Bilge adam kendisine teşekkür edilmesinden ziyade ihtiyaç duyulmasını yeğler. Bağımlılık ortadan kalkınca, saygının yanı sıra kibar tavırlar da kaybolur. Umudu canlı tut ama bekleneni verme; tahtta oturan haminiz bile size ihtiyaç duymaya devam etmelidir. 
+
+> Çalışmak itibarın bedelidir. 
+
+> Doğru anı hakkıyla değerlendirmek istiyorsanız, o anın gelmesini beklerken bile ona yönelik bir şeyler yapmalısınız. Çünkü talihin dönemleri ve fırsatları her zaman düzensizce kapınızı çalar. 
+
+> Nasıl iyi seçim yapacağınızı bilin. Burada hem sağlam beğeniye, hem de doğru muhakemeye ihtiyaç vardır; çünkü ne zeka ne de çalışma tek başına yeterli değildir. Telaş aptalların başarısızlığıdır; çünkü onlar can alıcı noktayı bilmezler ve işe hazırlıksız girişirler. 
+
+> Bir şeye yardımı dokunmadığı sürece, kötü haber vermekten ve size kötü haber verilmesinden kaçının. 
+
+> Zevki de zeka gibi eğitebilirsiniz. Eksiksiz bilgi arzu uyandırır ve hayattan aldığımız zevki artırır. Asil bir ruhu, yüksek beğenilere sahip olmasından tanıyabilirsiniz; büyük bir dehayı tatmin eden şey de büyük olmalıdır. 
+
+> Yalnız bir bilge olacağınıza, dünyanın geri kalanıyla deli olun. En büyük bilgeliğin içinde biraz cehalet ya da en azından cahil rolü yapmak da vardır. 
+
+> Zihnin olgunluğu her şeye anında inanmamaktan geçer. 
+
+<br>
+
+# 6. Yaratma Cesareti 
+Rollo May, 1975
+
+> Sanatçılar genellikle kendi iç imgeleri ve hülyalarına dalmış yumuşak huylu insanlardır. Çünkü sanatçılar, insanoğlunun süregelen kafa tutma gücünün taşıyıcılarıdır. 
+
+> Sanatçıyı kontrol etmek mümkün olsaydı -olduğuna inanmıyorum- bu sanatın ölümü demek olurdu. 
+
+> “Şair dille evlenir ve bu evlilikten şiir doğar.” Auden
+
+<br>
+
+# 7. Kan, Ter ve Pikseller 
+Jason Scherier, 2021
+
+> Bir oyun geliştiricisinin canını sıkmanız isterseniz tek yapmanız gereken hangi meslekte çalıştığını öğrenir öğrenmez ona bütün gün oyun oynamanın nasıl bir şey olduğunu sormaktır.
+
+> Her oyun en az bir kez ertelenir. Her oyun geliştiricisi zorlu tavizlerde bulunmak zorunda kalır. 
+
+> Bir oyun geliştiren herkes fazla mesai yapmak, hiç bitmeyecekmiş gibi görünen bir iş için özel hayatını ve ailesiyle geçireceği vakti feda etmek zorundadır. 
+
+> Video oyunu yapmanın belli başlı bir yolu yoktur. Her seferinde ürününüzü baştan icat etmeniz gerekir. 
+
+> Mart ayında neden bu kadar çok büyük oyun çıktığını hiç merak ettiniz mi? Basit bir cevabı var: Mali yıl. Halka açık bütün şirketler hissedarlarına finansal başarı raporlarını sunduğu ve alınan kararlara büyük ölçüde etki eden zaman dilimi… Çoğu oyun yayıncısı mali yıllarını 31 Mart’ta sona erdirir. 
+
+> Çok kaliteli oyunlar yapan bir stüdyo ile bunu yapamayanlar arasındaki en büyük değişken geliştirici ekibin kalitesi değildir. Kullandıkları geliştirici araçlarıdır. İyi araçlara sahip olmak her zaman daha iyi oyunlar yapmak demektir. 
+
+> Video oyunları her zaman iptal edilir. Bir geliştiricinin yayımlamayı başardığı her oyunun arkasında asla gün ışığı göremeyecek onlarca terk edilmiş konsept ve prototip bulunur.
+
+> Oyun geliştiriciliğinin ortak noktalarından biri de her şeyin son dakikada hallolmasıdır.
+
+> Oyun geliştiriciliği, 'kaosun' keskin ucunda olmak gibidir; o kadar çok bileşen hareket halindedir ki işleri tahmin edilebilir kılmak imkansızdır.
+
+<br>
+
+# 8. Yeraltından Notlar 
+Fyodor Mihayloviç Dostoyevski, 1864
+
+> Şimdi sorarım size: Böyle garip nitelikleri olan insanoğlundan ne beklenebilir? Önüne dünya nimetlerinin hepsini serseniz, başı kaybolana, hatta su yüzüne ufak ufak kabarcıklar çıkana kadar saadet deryasına gömseniz, çalışmaya ihtiyacı olmayacak derecede refahını sağlasanız da, sırf ballı çörekler yiyip yan gelip yatması, bir de insan neslinin kurumaması için uğraşmasını sağlamak için iktisadi refaha kavuştursanız da, sırf nankörlüğü, küstahlığı yüzünden bir rezalet koparacaktır. Öte yandan insan, gerçekten bir piyano tuşu olduğunu görse, hatta tabiat bilimleri ve matematik yoluyla, öyle olduğu ispat edilse bile gene de akıllanmaz; gene mahsus, sırf nankörlükten, inadından yeni haltlar karıştırır. 
+
+> İdrakın biricik kaynağı ıstıraptır. 
+
+<br>
+
+# 9. Zamanın Kısa Tarihi
+Stephen Hawking, 1988
+
+<br>
+
+# 10. Dijital Minimalizm
+Cal Newport, 2019
+
+> “Sayısız insan, sessiz bir ümitsizliğin hakim olduğu hayatlar sürüyor. Oysa uyanık ve sağlıklı ruhlar, güneşin pırıl pırıl doğduğunu hatırlar.” (Walden isimli kitaptan)
+
+> Aralıklı olumlu pekiştirme ile başlayalım. 1970’teki güvercin deneyiyle Michael Zeiler’ın da ortaya koyduğu gibi, ne zaman verileceği öngörülemeyen ödüller, belli bir düzen içinde verilen ödüllere nazaran çok daha cezbedicidir. Çünkü öngörülemezlik durumu, beyinde arzu duygusunu düzenleyen dopamin adlı nörotransmiterin bir şekilde daha fazla salınmasına sebep olur. 
+
+> Düzenli aralıklarla yalnız kalmanın faydasını herkes görür. 
+
+> “Sohbet kavrayışı zenginleştirir, fakat dehanın okulu yalnızlıktır.” Edward Gibbon
+
+> Gerçekten de sosyal medya kullanımı ölçeğinde en üst çeyrekte bulunan birinin, en alt çeyrekte bulunan birine nazaran yalnız olma ihtimali üç kat fazlaydı. 
+
+> İnsanlar, uzun vadede zararlı olsa bile kısa vadede daha az enerji gerektiren faaliyetleri tercih etmeye meyillidir. 
+
+> Zihnin tek gereksinimi değişim ve tazelenmedir, dinlenmek değil -tabii uyku hariç. 
+
+> İş hayatında büyük başarılara imza atan insanların çoğu titiz stratejistlerdir. 
+
+> Tim Wu: “Etrafına bir kalabalık topla ama onun parasıyla ilgilenme, çünkü bu kalabalığı, onun dikkatini isteyen birine yeniden satabilirsin’ fikrini hayata geçiren ilk insandı.” (1830’larda ABD’nin ilk ucuz tabloid gazetesi New York Sun’ı yayınlayan Benjamin Day’e atıfta bulunuyor)
+
+<br>
+
+# Kapanış
+
+Eğer 2022 için zinciri kırmama etkinliği yapmak istiyorsanız şu takvimi [şöyle][calendar-2022] iliştirmek isterim. Tüm yılı derli toplu tek sayfada görebilmek güzel bir motivasyon sunabiliyor. 🙂 
+
+2022’nin elinizden kitap eksik olmayan, keyifli bir yıl olması dileklerimle! 
+
+<br>
+<br>
+
+[cover]: ../assets/images/2022/kitaplar-2021/cover.jpg
+[calendar-2022]: ../assets/images/2022/kitaplar-2021/calendar-2022.pdf
