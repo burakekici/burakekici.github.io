@@ -2,7 +2,7 @@
 title: "2021'de Okuduğum Kitaplar"
 layout: post
 date: 2022-01-02 10:00
-image: /assets/images/2022/kitaplar-2021/cover.JPG
+image: /assets/images/2022/kitaplar-2021/cover.jpg
 headerImage: false
 tag:
 - kitap
