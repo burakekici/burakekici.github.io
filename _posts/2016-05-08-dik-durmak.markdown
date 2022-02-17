@@ -13,9 +13,9 @@ author: ekici
 description: Test
 ---
 
-Günlük yaşantınızda küçük bir değişim ile çok büyük faydalar elde edebileceğinizi söyleseydim ne tepki verirdiniz?
+Günlük yaşantımızda küçük bir değişim ile çok büyük faydalar elde edebileceğimiz bir konu var: postür. 
 
-Tahmin ediyorum, şu anda yaklaşık olarak şöyle bir pozisyona sahipsiniz.
+Masa başındayken çoğumuz sıkça şöyle bir pozisyona bürünebiliyoruz. 
 
 <p align="center">
   <img src="../assets/images/2016/dik-durmak/dik1.jpg" alt="Dik durmak"/>

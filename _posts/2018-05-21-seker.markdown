@@ -11,8 +11,8 @@ tag:
 - bağımlılık
 - beslenme
 - sağlık
-hidden: false
-star: true
+hidden: true
+star: false
 category: blog
 categories: 
 - mix
