@@ -51,7 +51,7 @@ You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and
 🎥 [IMDb][imdb]
 
 
-❝ Some quotes I like
+❝ Some quotes I like 
 
 > Less is more.
 
