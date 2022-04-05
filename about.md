@@ -12,8 +12,6 @@ layout: page
 <br>
 📍 Based in Ankara, Turkey
 <br>
-🎂 27 years old
-<br>
 💡 Minimalist, booklover, lifelong learner
 <br>
 🏋🏻‍♀️ Fitness enthusiast
@@ -21,6 +19,8 @@ layout: page
 🎹 Piano learner
 <br>
 ℹ️ Personality type: [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
+<!--<br>
+🎂 27 years old-->
 
 <br>
 

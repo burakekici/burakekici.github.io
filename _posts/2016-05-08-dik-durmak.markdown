@@ -6,6 +6,7 @@ tag:
 - sağlık
 - dik durmak
 - postür
+hidden: true
 category: blog
 categories: 
 - mix

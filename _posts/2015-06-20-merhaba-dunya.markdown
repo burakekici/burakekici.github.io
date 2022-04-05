@@ -4,6 +4,7 @@ layout: post
 date: 2015-06-20 20:00
 tag:
 - ilk yazı
+hidden: true
 star: false
 category: blog
 categories: 

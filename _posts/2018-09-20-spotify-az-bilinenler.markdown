@@ -1,5 +1,5 @@
 ---
-title: "Sahi Siz Spotify'da Sadece Müzik mi Dinliyorsunuz?"
+title: "Spotify'da Müzik Dinlemek Haricinde Yapılabilecekler"
 layout: post
 date: 2018-09-20 20:00
 tag:
@@ -8,7 +8,7 @@ tag:
 - podcast
 - meditasyon
 - yabancı dil öğrenme
-hidden: false
+hidden: true
 star: false
 category: blog
 categories: 

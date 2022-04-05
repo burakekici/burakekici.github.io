@@ -14,9 +14,9 @@ author: ekici
 description: Erasmus
 ---
 
-Dürüstçe bir açılış yapalım. Erasmus öğrencisi olduğunuzda derslerin birinci önceliğiniz olmaması doğal kabul edilebilir.
+Dürüstçe bir açılış yapalım. Erasmus öğrencisi olduğunuzda derslere gereken özeni gösterememek bence kabul edilebilir bir durum. 
 
-Çünkü önünüzde daha büyük sayılabilecek problemler ve uğraşlar var; sorumluluk almak, bütçenizi idare etmek, ev işlerini görmek, yurt dışında bir başınıza hayatta kalmak.
+Çünkü önünüzde daha büyük sayılabilecek problemler ve uğraşlar var; sorumluluk almak, bütçenizi idare etmek, ev işlerini görmek, yurt dışında bir başınıza hayatta kalmak, sosyalleşmek. 
 
 Aynı zamanda daha heyecan uyandırıcı konular var; kültür şoku, bambaşka ülkelerden ve milletlerden insanlar tanımak, yeni bir dil öğrenmek, İngilizce'nizi ilerletmek ve saire.
 

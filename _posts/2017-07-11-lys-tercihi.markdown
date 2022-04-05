@@ -17,6 +17,7 @@ tag:
 - ayt
 - tyt
 star: false
+hidden: true
 category: blog
 categories: 
 - mix
@@ -28,7 +29,7 @@ Merhaba!
 
 2012 yılında zorlu YGS-LYS maratonunu geride bırakarak tercih dönemini yoğun araştırmalarla tamamlamış biri olarak bu yazımda siz sevgili adaylara tecrübelerimi aktarmaya çalışacağım.
 
-Kısaca kendimden bahsetmem gerekirse, Hacettepe Üniversitesi Bilgisayar Mühendisliğini tek tercihle kazandım. 1 yıl hazırlık ve akabinde 4 yıl bölümde okudum (1 dönem daha devam). Bu süre zarfında 1 yaz okuluna katıldım, 1 dönem Almanya’ya Erasmus değişim öğrencisi olarak gittim, 2 kez Türkiye’de staj yaptım, <span style="text-decoration: line-through;">kısmetse birkaç gün içerisinde de yurt dışına staja gideceğim</span> (Kısmet oldu, 5 gündür gurbetteyim).
+Kısaca kendimden bahsetmem gerekirse, Hacettepe Üniversitesi Bilgisayar Mühendisliğini tek tercihle kazandım. 1 yıl hazırlık ve akabinde 4 yıl bölümde okudum (1 dönem daha devam). Bu süre zarfında 1 yaz okuluna katıldım, 1 dönem Almanya’ya Erasmus değişim öğrencisi olarak gittim, 2 kez Türkiye’de staj yaptım, <span style="text-decoration: line-through;">kısmetse birkaç gün içerisinde de yurt dışına staja gideceğim</span> (Kısmet oldu, 5 gündür yurt dışındayım).
 
 Tüm bunların yanı sıra, tercih dönemimde bilgisayar mühendisliği ile ilgili akıl danışabileceğim kişi sayısı azdı. Biraz kalbimin sesini dinledim, internette bolca araştırma yaptım, kendime bir tercih rotası çizdim. İzlediğim yolun yıllar içerisinde güncelliğini yitirmediğini düşünüyorum ve bu yazıda elimden geldiğince detaylı şekilde anlatacağım.
 
@@ -46,9 +47,7 @@ Bence üniversite tercihini 3 aşamaya bölmelisiniz.
 
 # 1. Bölüm tercih edin
 
-Sevgili arkadaşlar,
-
-Tercih süresinde yapacağınız en önemli seçim **bölüm tercihidir**.
+Bence tercih süresinde yapacağınız en önemli seçim **bölüm tercihidir**.
 
 Şöyle düşünün; okuduğunuz şehri sevmeyebilirsiniz, üniversite ya da yurtla ilgili sorunlar yaşayabilirsiniz. Tüm bu sorunları yalnızca 4 yıl çekeceksiniz (diyelim ki hazırlık okudunuz 5, hadi oldu ya okul uzadı en fazla 6 yıl).
 
@@ -88,15 +87,13 @@ Computer Science daha çok algoritmalar ve olayların arka planıyla uğraşırk
 
 Benim bu alanı nasıl gördüğüme değinecek olursak bence yazılım mühendisliği iki kelimeyle **problem çözmektir**.
 
-Detaylandıracak olursak kendi tanımımla bilgisayar/yazılım mühendisliği, mevcut ya da var olmayan problemleri [1], çeşitli standartları ve prensipleri kullanarak [2] ve **bilgisayarların dilinden konuşarak** [3] sonuca ulaştırma sanatıdır [4].
+Detaylandıracak olursak kendi tanımımla bilgisayar/yazılım mühendisliği, mevcut ya da var olmayan problemleri [1], çeşitli standartları ve prensipleri kullanarak [2] ve **bilgisayarların dilinden konuşarak** [3] sonuca ulaştırma bilimidir.
 
 [1] Var olmayan problemlerle uğraşan birim AR-GE. Uğraşılan şeyler problemdir, neden? Eğer bugün Facebook tamamen yok olsa, bütün kullanıcılar yeniden bir muadilini kavuşmak için harekete geçmek ister. Bundan 15 yıl önce Facebook’un olmaması problem değilken, bugün Facebook’un olmaması 2 milyar kullanıcısı için problem haline gelir. Aynı örnek bankacılık sistemleri, çevrim içi film izleme platformları vb. için de verilebilir.
 
 [2] Herkes kod yazabilir, uygulamalar geliştirebilir. Ancak mühendisler çeşitli standartlara ve prensiplere hakim olan ve onları uygulayan kişilerdir. Üretilen yazılımın kalitesinden emin olunması için bu temellere sahip olmak önemlidir diyebiliriz.
 
 [3] Bu da herkesin vakıf olduğu, bilgisayar mühendislerinin tüm mesaisinde yaptığı iş sanılan **kodlama/programlama**dır. Burayı kısaca açmak isterim; bir proje geliştirken programlama bu geliştirme sürecinin küçük bir kısmını oluşturur. Yaklaşık olarak şu süreçler bulunur; gereksinimleri belirleme, tasarım yapma, kodlama, test etme.
-
-[4] Bence bir sanattır, evet. 🙂
 
 &nbsp;
 
@@ -251,9 +248,9 @@ Kesinlikle. Yurt dışıyla bu kadar iç içe başka bir meslek var mıdır bile
 
 **İngilizce önemli mi?** 
 
-Çoook. Bilgisayar mühendisliğinin farzlarından birincisi İngilizce bilmek. Kaldı ki bence hangi mesleği icra ediyor olursanız olun İngilizce dünyayı takip etmek, içine kapalı kalmamak için olmazsa olmazlardan biri. Eğer kendinize güvenmiyorsanız hemen işe koyulmanızı şiddetle tavsiye ederim. Duolingo-Memrise gibi uygulamalar, podcast dinlemek, İngilizce altyazılı film-dizi-youtube videoları izlemek, İngilizce günlük tutmak ya da yazılar yazmak, yabancılarla sohbet etmeye çalışmak iyi birer başlangıç olabilir.
+Çok! Bilgisayar mühendisliğinin farzlarından birincisi İngilizce bilmek. Kaldı ki bence hangi mesleği icra ediyor olursanız olun İngilizce dünyayı takip etmek, içine kapalı kalmamak için olmazsa olmazlardan biri. Eğer kendinize güvenmiyorsanız hemen işe koyulmanızı şiddetle tavsiye ederim. Duolingo-Memrise gibi uygulamalar, podcast dinlemek, İngilizce altyazılı film-dizi-youtube videoları izlemek, İngilizce günlük tutmak ya da yazılar yazmak, yabancılarla sohbet etmeye çalışmak iyi birer başlangıç olabilir.
 
-**MSN, Facebook falan hackleyebiliyor muyuz ya?**
+**MSN, Facebook falan hackleyebiliyor muyuz?**
 
 Belki. Siber güvenlikle uğraşırsan mümkün olma şansı mevcut. 
 
@@ -263,13 +260,7 @@ Kesinlikle uygun. Bir kere mühendis kelimesine takılmayalım. Yazılım geliş
 
 &nbsp;
 
-**Tavsiye;**
-
-Ailenizin, akrabalarınızın tavsiyelerine **kulak asmayın**; içinize sineni  ve **gönlünüzden geçeni yazın**. Pişman olacaksanız da kendi tercihleriniz sonucunda pişman olun.
-
-&nbsp;
-
-Eğer ilginiz yoksa lütfen bu bölümü yazmayın. Hem hayatı kendinize zindan etmeyin hem de daha düşük sıralamaya sahip ama istekli insanların hayatını etkilemeyin.
+Ailenizin, akrabalarınızın tavsiyelerine **kulak asmayın**; içinize sineni  ve **gönlünüzden geçeni yazın**. Pişman olacaksanız da kendi tercihleriniz sonucunda pişman olun. Ve eğer ilginiz yoksa lütfen bu bölümü yazmayın. 
 
 &nbsp;
 
