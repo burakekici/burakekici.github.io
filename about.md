@@ -26,7 +26,7 @@ layout: page
 
 ## Work
 
-💻 Lead Game Developer at [APPS Mobile][apps].
+💻 Lead Game Developer at [APPS Mobile][apps] (Remote).
 <br>
 🔑 Unity, C#, Game Development, Software Architecture, UX
 
