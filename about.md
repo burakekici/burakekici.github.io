@@ -12,14 +12,13 @@ layout: page
 <br>
 📍 Based in Ankara, Turkey
 <br>
-💡 Minimalist, booklover, lifelong learner
+💡 Minimalist, lifelong learner<!--, booklover--> 
 <br>
-🏋🏻‍♀️ Fitness enthusiast
+ℹ️ Personality type: [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
+<!--🏋🏻‍♀️ Fitness enthusiast
 <br>
 🎹 Piano learner
 <br>
-ℹ️ Personality type: [INFJ-T](https://www.16personalities.com/profiles/19ea956f7d530)
-<!--<br>
 🎂 27 years old-->
 
 <br>
@@ -47,8 +46,8 @@ You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and
 🎵 [Spotify][spotify]
 <br>
 📚 [GoodReads][goodreads]
-<br>
-🎥 [IMDb][imdb]
+<!--<br>
+🎥 [IMDb][imdb]-->
 
 
 ❝ Some quotes I like 
