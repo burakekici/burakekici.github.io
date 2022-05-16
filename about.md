@@ -61,6 +61,10 @@ You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and
 > Life is 10% what happens to you and 90% how you react to it.
 
 
+<br>
+<p style="color:#AAAAAA;font-size:13px">Thanks to <a class="link" href="https://pages.github.com" target="_blank" style="color:#AAAAAA">GitHub</a>, <a class="link" href="https://jekyllrb.com" target="_blank" style="color:#AAAAAA">Jekyll</a>, <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank" style="color:#AAAAAA">Indigo</a>.</p>
+
+
 [linkedin]: https://www.linkedin.com/in/burakekici
 [hacettepe]: https://cs.hacettepe.edu.tr
 [freiburg]: https://www.informatik.uni-freiburg.de
