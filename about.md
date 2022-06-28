@@ -26,8 +26,8 @@ layout: page
 ## Work
 
 💻 Lead Game Developer at [APPS Mobile][apps] (Remote).
-<br>
-🔑 Unity, C#, Game Development, Software Architecture, UX
+<!--<br>
+🔑 Unity, C#, Game Development, Software Architecture, UX-->
 
 You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and [LinkedIn][linkedin].
 
@@ -43,10 +43,10 @@ You can check my [portfolio](../portfolio), [résumé](../assets/resume.pdf) and
 
 ## More about me
 
-🎵 [Spotify][spotify]
+<!--🎵 [Spotify][spotify]
 <br>
 📚 [GoodReads][goodreads]
-<!--<br>
+<br>
 🎥 [IMDb][imdb]-->
 
 
