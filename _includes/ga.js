@@ -19,4 +19,4 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=UA-52187271-1', fun
     gtag('config', 'UA-52187271-1', { 'anonymize_ip': true });
 })
 
-// Bu dosyayı Privacy GDPR zımbırtısı için yarattık. Zaten GA dosyası vardı? 
+/* Bu dosyayı Privacy GDPR zımbırtısı için yarattık. Zaten GA dosyası vardı? */
