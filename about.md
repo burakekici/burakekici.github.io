@@ -31,6 +31,3 @@ My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gami
 [freiburg]: https://www.informatik.uni-freiburg.de
 [mbtype]: https://www.16personalities.com/profiles/19ea956f7d530
 [fire]: https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp
-<!--[spotify]: https://open.spotify.com/user/bekici
-[goodreads]: https://www.goodreads.com/burakekici
-[imdb]: https://www.imdb.com/user/ur41656845-->
