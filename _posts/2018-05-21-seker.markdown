@@ -11,18 +11,18 @@ tag:
 - bağımlılık
 - beslenme
 - sağlık
-hidden: true
+hidden: false
 star: false
 category: blog
 categories: 
 - mix
 author: ekici
-description: Şeker nedir? Neden alkol ve uyuşturucu kadar zararlıdır?
+description: Şeker nedir? Neden zararlıdır?
 ---
 
-Selamlar,
+Merhaba,
 
-Bu yazıda şeker nedir, neden zararlıdır ve nasıl azaltabiliriz sorularına yanıt aradım. Umarım daha sağlıklı bir beslenme alışkanlığı edinmek isteyenlere faydalı bir yazı olur. 
+Bu yazıda şeker nedir, neden zararlıdır ve nasıl azaltabiliriz sorularına yanıt aradım. Daha sağlıklı bir beslenme alışkanlığı edinmek isteyenlere faydalı olması dileklerimle. 
 
 --- 
 
@@ -34,140 +34,83 @@ Avrupa'nın şekerle tanışması, Müslümanların İspanya'ya yerleşmesiyle b
 
 ## Şeker Nedir?
 
-İnsan vücudunun yaklaşık %60'ı su (mineralli ve tuzlu su), yaklaşık %20'si hayvansal yağ ve yaklaşık %20'si de proteinden oluşuyor.
+Şeker, genel olarak tatlandırıcı olarak kullanılan kimyasal bir bileşik. Temel olarak, şekerler; karbon, hidrojen ve oksijen atomlarından oluşan karbonhidrat molekülleridir. Karbonhidrat, canlı yapısına katılmayan, birinci dereceden enerji verici olarak kullanılan, yapı taşı da glikoz olan bir madde. Depolanma şekli bitkilerde nişasta, hayvanlarda ise glikojen şeklinde. 
 
-Karbonhidrat, canlı yapısına katılmayan, birinci dereceden enerji verici olarak kullanılan, yapı taşı da glikoz olan bir madde. Depolanma şekli bitkilerde nişasta, hayvanlarda ise glikojen şeklinde. 
-
-Bildiğimiz toz şeker, yani sakkaroz (sükroz), bir molekül **glikoz** ve bir molekül **fruktozdan** oluşuyor. Şeker pancarı ya da şeker kamışından üretiliyor. 
+En yaygın olarak bilinen şeker türleri glukoz, fruktoz ve sükrozdur. Bildiğimiz toz şeker, yani sakkaroz (sükroz), bir molekül **glikoz** ve bir molekül **fruktozdan** oluşuyor. Şeker pancarı ya da şeker kamışından üretiliyor. 
 
 Bir şeker kamışının %50'si su, o suyun da yalnızca %20'si şeker olabiliyor. Yani aslında soframıza gelen şeker, şeker kamışı bitkisinin konsantre hali.
 
-Fruktoz aynı zamanda balda, meyve suyunda ve mısır şurubunda  mevcut (birazdan değineceğiz).
+Fruktoz da aynı zamanda balda, meyve suyunda ve mısır şurubunda  mevcut.
 
-Bir de **NBŞ** yani **Nişasta Bazlı Şekerler** var ki en fenası. NBŞ'ler genelde mısır olmak üzere çeşitli bitkilerden kimyasal yollarla üretilen endüstriyel şekerlere deniyor. Fruktoz şurubu ve glikoz şurubu olmak üzere iki ana kategoriye ayrılıyorlar. Yoğun miktarda fruktoz bulunduruyorlar ve direkt tüketimden ziyade yine endüstriyel üretimlerde girdi olarak kullanılıyorlar. Örneğin meşrubatlarda, çeşitli tatlı ve şekerlemelerde görmek mümkün. Ve ne yazık ki çokça şeker pancarı kaynağımız olmasına rağmen (yanılmıyorsam dünyadaki 5. şeker pancarı üreticisiyiz) ucuz olduğu için ülkemizde son yıllarda mısır şurubu üretmek için mısır ithal edilmeye başlanmış. NBŞ'ler daha uzun raf ömrü de sağlayınca gıda üreticileri için biçilmiş kaftan olmuş.
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/4aXkoYHpZWInu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/4aXkoYHpZWInu"></a>
-<figcaption>Harika GIF dimi 😄</figcaption>
-</p>
+Bir de **NBŞ** yani **Nişasta Bazlı Şekerler** var ki daha beter. NBŞ'ler genelde mısır olmak üzere çeşitli bitkilerden kimyasal yollarla üretilen endüstriyel şekerlere deniyor. Yoğun miktarda fruktoz bulunduruyorlar ve direkt tüketimden ziyade yine endüstriyel üretimlerde girdi olarak kullanılıyorlar. Örneğin meşrubatlarda, çeşitli tatlı ve şekerlemelerde görmek mümkün. Ve ne yazık ki çokça şeker pancarı kaynağımız olmasına rağmen (yanılmıyorsam dünyadaki 5. şeker pancarı üreticisiyiz) ucuz olduğu için ülkemizde son yıllarda mısır şurubu üretmek için mısır ithal edilmeye başlanmış. NBŞ'ler daha uzun raf ömrü de sağlayınca gıda üreticileri için biçilmiş kaftan olmuş.
 
 ---
 
-## Şeker neden düşman?
+## Şeker neden kötü?
 
 Alkol yani etanol, vücudunuz tarafından bir toksik yani zehir olarak algılandığı için %80'i karaciğerde parçalanıyor. 
 
-Fruktoz da aynı alkol gibi yaşamınız süresince hiç ihtiyaç duymadığınız bir madde olduğu için vücudunuz tamamen yabancı kalıyor, onu bir zehir olarak algılıyor ve neredeyse tamamı karaciğerde işlem görüyor. 
-
-(Glikoz tükettiğimizde (ör: ekmek ya da patates) yediğinizde bunun yaklaşık %20'si karaciğerde parçalanıyor.)
+Fruktoz da aynı alkol gibi yaşamınız süresince hiç ihtiyaç duymadığınız bir madde olduğu için vücudunuz yabancı kalıyor, vücut onu bir zehir olarak algılıyor ve çoğunluğu alkol gibi karaciğerde işlem görüyor. (Glikoz tükettiğimizde (ör: ekmek ya da patates) yediğinizde bunun yalnızca ~%20'si karaciğerde parçalanıyor.)
 
 Yani fruktozun vücutta işlenme süreçleri alkol ile büyük oranda benzerlik taşıyor.
 
-Şeker diyabete, hızlı kilo alımına ve dolayısıyla obeziteye, ani duygu değişimine ve **bağımlılığa** yol açıyor. **Karaciğerde alkol ile neredeyse aynı etkiyi gösteriyor.** 
+Şeker diyabete, hızlı kilo alımına ve dolayısıyla obeziteye, ani duygu değişimine ve **bağımlılığa** yol açıyor.
 
-Bir deneyde bir süre boyunca farklı zamanlarda **farelere kokain ve şeker** veriliyor. Bir süre sonra kokain ve şeker aynı zamanda fareye sunuluyor ve **farelerin %94'ü şekeri seçiyor**. 
+Bir deneyde bir süre boyunca farklı zamanlarda **farelere kokain ve şeker** veriliyor. Bir süre sonra kokain ve şeker aynı zamanda fareye sunuluyor ve **farelerin %94'ü şekeri [seçiyor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1931610/#:~:text=Methodology%2FPrincipal%20findings,the%20sweet%20taste%20of%20saccharin.)**. 
 
-Hatta bir aşama sonrasında şekere giden farelere elektrik şoku veriyorlar, ama fareler yine de kokain yerine şoka razı olarak şekere gidiyorlar.
-
-> Şeker, kokainden 8 kat daha fazla bağımlılık yapıyor.
-
-Yoğun şeker tüketimi **beyin aktivitelerini yavaşlatıyor** ve öğrenme süreçlerinizin yavaşlamasına sebep oluyor.
-
-Şeker tüketimini azaltmak insülin seviyesinin düzelmesini, obezite, diyabet, kötü kolesterol ve kalp rahatsızlıklarının daha az görülmesini sağlıyor. 
-
-Daha az şeker tüketimiyle depresyon riskini azaltmak ve genel olarak daha pozitif bir ruh haline sahip olmak mümkün.
-
-Ayrıca şeker, diş çürümesine yol açan bakterilerle mücadele eden salyadaki organizmaları öldürerek dişlerin çürümesine sebep olabiliyor.
-
----
+Şeker tüketimini azaltmak insülin seviyesinin düzelmesini, obezite, diyabet, kötü kolesterol ve kalp rahatsızlıklarının daha az görülmesini sağlıyor. Ayrıca şeker, diş çürümesine yol açan bakterilerle mücadele eden salyadaki organizmaları öldürerek dişlerin çürümesine sebep olabiliyor.
 
 **İnsülinin en önemli görevi, dolaşımdaki kan şekerini derhal dolaşımdan uzaklaştırmaktır**. Depoya gönderir ve bu da karaciğeri, göbeği ve başka bölgeleri yağlandırır.
 
-Özellikle yoğun fruktoz tüketiminde, pankreasımız bizi bu zehirden korumak için bol miktarda insülin üretmeye çalışıyor, bu da sindirimi kontrol eden hormonların daha az üretilmesine sebep oluyor. Akabinde sindirim yapılamadığı için vücut enerji üretemediğinden beyin "Yemek yemeliyim" sinyalleriyle sizi yeniden yemek yemeye sevk ediyor. **Sonuç: doymama hissi ve şişmanlama**.
-
-<!--Aynı zamanda vücudunuzda yüksek insülin direnci baş gösterecektir. Yani şeker vücuttaki hücrelere giremiyor ve damarlarda dolanmaya devam ediyor. Bu da şeker hastalığını doğurmuş oluyor. -->
-
-Ayrıca beyne doyma hissi gelmeyince çevrede yeterli gıda olmadığını düşünüyor ve daha az enerji tüketmeye başlıyor. Vücuda alınan besinleri depolamaya çalışıyor. 
-
-Aşağıda paylaştığım videolarda çok daha detaylı bir şekilde açıklamalar mevcut. 
+Özellikle yoğun fruktoz tüketiminde, pankreasımız bizi bu zehirden korumak için bol miktarda insülin üretmeye çalışıyor, bu da sindirimi kontrol eden hormonların daha az üretilmesine sebep oluyor. Akabinde sindirim yapılamadığı için vücut enerji üretemediğinden beyin "Yemek yemeliyim" sinyalleriyle sizi yeniden yemek yemeye sevk ediyor. **Sonuç: doymama hissi ve şişmanlama**. Ayrıca beyne doyma hissi gelmeyince çevrede yeterli gıda olmadığını düşünüyor ve daha az enerji tüketmeye başlıyor. Vücuda alınan besinleri depolamaya çalışıyor. 
 
 > Türkiye'de her 3 insandan biri obez, biri aşırı kilolu, biri de normal.
 
----
+Paketli gıdalarda raf ömrünü artırmak için lif oranı düşürülüyor. Örneğin bir meyve yediğinizde içerisinde fruktoz olsa dahi yoğun liflere sahip olduğundan diğer şekerli endüstriyel gıdalar gibi direkt sindirime geçmiyor, daha uzun bir zamanda yavaş yavaş sindiriliyor. 
 
-Endüstriyel paketli gıdaların en az %80'inde şeker bulunuyor. Şeker güzel çünkü bir uyuşturucu gibi. Almayınca çıldırıyorsunuz. Patatesinizin yanında annenizin yaptığı domates sosu yerine ketçap istiyorsunuz çünkü içerisindeki şekere bağımlısınız. 
-
-Ayrıca paketli gıdalarda raf ömrünü artırmak için lif oranı düşürülüyor. 
-
-Örneğin bir meyve yediğinizde içerisinde fruktoz olsa dahi yoğun liflere sahip olduğundan diğer şekerli endüstriyel gıdalar gibi direkt sindirime geçmiyor. Daha uzun bir zaman içerisinde sindiriliyor. 
-
-
-Aynı miktarda kalori alsanız dahi protein ve yağ yerine şekere abandığınızda hızlı bir şekilde kilo almaya, yağ oranında artışa ve insülin direnci geliştirmeye başlıyorsunuz.
+Aynı miktarda kalori alsanız dahi protein ve yağ yerine şekere yüklendiğinizde hızlı bir şekilde kilo almaya, yağ oranında artışa ve insülin direnci geliştirmeye başlıyorsunuz.
 
 _'That Sugar Film'_ adlı belgeselde adam günlük kalori alımını aynı tutarak yediği sağlıklı yiyeceklerin bir kısmını şekerli gıdalarla değiştiriyor. 1 ay içerisinde tam 8.5 kilo alıyor ve vücut yağ oranı %7 artış gösteriyor. 
 
 ---
 
-## Peki ya şekerle nasıl mücadele edebiliriz?
+## Peki şekerle nasıl mücadele edebiliriz?
 
-• İlk önerim kola, gazoz vb. asitli içecekleri bir an evvel bırakmanız yönünde olacaktır. 2013 Temmuz'dan beri içmiyorum ve inanın hiç de aramıyorum. Eğer bırakması imkansız olsaydı ben bırakamazdım çünkü lise yıllarında günde 1 litre civarında kola içiyordum. 
+• Aldığımız ürünlerin **"İçindekiler"** kısmını detaylıca okumalıyız. Örneğin bazı dondurmalarda dondurma yazmıyor, sütlü buz yazıyor. Çünkü dondurma değil, dondurulmuş şuruplu süt tozu.
 
-• Genel olarak paketli gıdaları azaltmaya çalışabilirsiniz. Her şeyin doğalı güzel. Evet, başlarda tatsız gelecek ama zamanla alışacaksınız. İnanın sağlığınız daha önemli. 
+• Paketli gıdaları azaltmaya çalışabiliriz. Her şeyin doğalı güzel. 
 
-• Şekerlemeleri, çikolataları azaltabilirsiniz. 
+• Kola, gazoz, meyve suyu vb. içecekleri, şekerlemeleri ve çikolataları bırakabiliriz ya da azaltabiliriz. 
 
-• Çaya şeker atmayı bırakabilirsiniz.
+• Çaya şeker atmayı bırakabiliriz.
 
-<iframe src="https://giphy.com/embed/kVVEP6SmfEXvy" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-morning-kVVEP6SmfEXvy"></a></p>
+• Portakalın suyunu sıkıp sadece şekeri vücudunuza yüklemektense posasıyla yemeyi tercih edebiliriz. 
 
-• 3-4 tane portakalın suyunu sıkıp tüm şekeri vücudunuza yüklemektense her öğün için 1 adet portakalı posasıyla tercih edebilirsiniz. 
+• Rafine unlu beyaz ekmek yerine tam tahıllı ekmekler tüketebiliriz.
 
-• Beyaz ekmek yerine tam tahıllı ekmekler tüketebilirsiniz.
-
-• Alternatif olarak meyve, kuruyemiş, yoğurt yiyebilir; çay, kahve, ayran ve soda tercih edebilirsiniz.
-
-• Endüstriyel gıdaların "İçindekiler" kısmında "şeker" ya da "x şurubu" şeklinde gördüğünüz tüm ibareler tehlike habercisidir.
+• Alternatif olarak sebze, meyve, kuruyemiş, yoğurt yiyebilir; içecek olarak da çay, kahve, ayran, şalgam ve soda tercih edebiliriz.
 
 ---
 
-## Fotoğraflar
+## Grafikler
 
-"Bir görsel, bin kelimeden iyidir." diyerek biraz da fotoğraflar üzerinden gidelim. 
-
-• Aşağıdaki grafik 1960'lardan sonra şekerin endüstriyel kullanımı arttıktan sonra obezite, diyabet ve kalp rahatsızlıklarının aynı oranda artış gösterdiğini çarpıcı şekilde gözler önüne seriyor.
-
-<p align="center">
-  <img src="../assets/images/2018/seker/seker-obezite-grafik.jpg" alt="Şeker"/>
-</p>
-
-• Aşağıdaki görselde ise ABD'de en çok kola vb. şekerli içecekleri tüketen eyaletler, en obez eyaletler, en tembel eyaletler, en mutsuz eyaletler, en çok diyabet ve kalp rahatsızlığı görülen eyaletler arasında bir pozitif korelasyon olduğunu görmek mümkün. 
+• Bu görsel de ABD'de en çok şekerli içecekleri tüketen eyaletler ile görülen çeşitli rahatsızlıkların bulunduğu eyaletler arasında pozitif bir korelasyon olduğunu gösteriyor. 
 
 <p align="center">
   <img src="../assets/images/2018/seker/abd-seker-depresyon-mutsuzluk-grafik.jpg" alt="Şeker"/>
 </p>
 
-• Bu fotoğraf bayağı meşhur olmuştu ama yine de koydum. Değerler doğru olmasa bile şeker oranları hakkında kabaca bir fikir veriyor.
+• İçeceklerdeki şeker oranının kabaca gösterimi.
 
 <p align="center">
-  <img src="../assets/images/2018/seker/icecek-seker.jpg" alt="Şeker"/>
+  <img src="../assets/images/2018/seker/icecek-seker.jpg" alt="Şeker" height="350"/>
 </p>
 
-• Bu fotoğraf da geçen yıl gezdiğim bir çikolata fabrikasından. Sütlü çikolatanın formülünü gösteriyor. Ve evet yanlış görmediniz, %47.5 paya sahip olan şey şeker. :)  Bu oran beyaz çikolatada %52. Bitter çikolata diğerlerine nazaran güvenli liman ve %24 şeker oranına sahip.
+• Bu fotoğraf da geçen yıl gezdiğim bir çikolata fabrikasından. Sütlü çikolatanın formülünü gösteriyor. Ve evet, %47.5 paya sahip olan şey şeker. Bu oran beyaz çikolatada %52. Bitter çikolata diğerlerine nazaran güvenli liman ve %24 şeker oranına sahip.
 
 <p align="center">
-  <img src="../assets/images/2018/seker/cikolata-icerik-2.jpg" alt="Şeker" height="800"/>
+  <img src="../assets/images/2018/seker/cikolata-icerik-2.jpg" alt="Şeker" height="600"/>
 </p>
-
-Yeri gelmişken çikolatanın tarihçesinden de bahsetmek isterim. 
-
-* Çikolata eski Latin Amerika medeniyeti olan Azteklere ait. 
-
-* Aztekler ilk etapta kakao çekirdeklerini öğütüp sıvı haline getirip tüketirmiş. 
-
-* Doğal olarak acı bir tada sahip. 
-
-* Avrupalılar Güney Amerika'yı işgal edip sömürürken çikolatayı Avrupa'ya pazarlamak istiyor. 
-
-* Bakmışlar yeterince ilgi görmüyor, içine şeker koyalım diyorlar. Sonrası malum. :) 
 
 --- 
 
@@ -193,19 +136,18 @@ Aşağıya faydalı olduğunu düşündüğüm ve çeşitli alıntılar yaptığ
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/HHI-7I9kD5k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
-
-> Hayatta sahip olduğunuz en kıymetli şey sağlığınızdır. Sağlık yoksa, hiçbir şeyin önemi kalmaz. 
-
-Umarım bir nebze olsun farkındalık yaratabilmişimdir. Bu alan benim uzmanlık alanım değil. Dolayısıyla hatalar olması gayet doğal. İzlediğim birkaç video ve akabinde gelen araştırmalar sonucu öğrendiklerimi unutmamak için yazıya dökmek istedim. Sonra biraz düzenleyip paylaşarak topluma faydalı olur motivasyonuyla paylaşıyorum. Gözünüze çarpan hataları ya da eklemek istediklerinizi aşağıda yorumlar bölümünde paylaşırsanız hep birlikte doğrusunu öğrenmiş oluruz. 
-
-Sağlıcakla kalın! 
-
 <br>
 
-Belki şunlara da göz gezdirmek istersiniz. 
+Şu yazılara da belki bakmak istersiniz.
 
 - **[NTV - NBŞ'den uzak durmak için 10 neden](https://www.ntv.com.tr/saglik/nisasta-bazli-seker-neden-zararli-uzak-durmak-icin-10-neden,GecIffmRDkCOtnTYhMisQg)**
 - **[BloombergHT - NBŞ raporu](http://www.bloomberght.com/yorum/irfan-donat/2099739-nisasta-bazli-seker-nbs-raporu)**
 - **[Ekşi Şeyler - Alkolle ve Sigarayla Savaştığımız Gibi Neden Net Bir Şekilde Şekerle de Savaşmalıyız?](https://seyler.eksisozluk.com/alkolle-ve-sigarayla-savastigimiz-gibi-neden-net-bir-sekilde-sekerle-de-savasmaliyiz)**
 
+---
+
+## Kapanış
+
+Umarım bu yazı az da olsa farkındalık yaratmıştır. Bu alan benim uzmanlık alanım değil, dolayısıyla yazılanlarda hatalar olabilir. İzlediğim bazı videolar ve çeşitli araştırmalar sonucunda öğrendiklerimi yazmak istedim. Denk geldiğiniz hataları ya da eklemek istediklerinizi yorumlarda paylaşırsanız hep birlikte doğrusunu öğrenmiş oluruz. 
+
+Sağlıcakla kalın! 
