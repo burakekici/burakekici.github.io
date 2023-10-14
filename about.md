@@ -5,7 +5,7 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-# Hey! I am Burak! 🙋🏻‍♂️
+# Hey! I am Burak. 🙋🏻‍♂️
 
 I am a **Software Engineer** from Ankara, Turkey. I work as a **Game Developer** at [APPS Technology][apps], remotely. I have been making mobile games with Unity since mid-2018.
 

@@ -5,7 +5,7 @@ layout: page
 
 # Portfolio
 
-I have been making mobile games in Unity since 2018 summer. Some of them can be seen below:
+I have been making mobile games with Unity since mid-2018. Some of them can be seen below:
 
 ---
 
@@ -36,19 +36,6 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
 
   <tr>
     <td>
-      Rage Control
-    </td>
-    <td>
-      <img src="../assets/images/portfolio/rage-control.png" alt="Game" width="120"/>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=id.co.superfungames.rage.control" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td>
       How Many
     </td>
     <td>
@@ -57,6 +44,19 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     <td>
       <a href="https://apps.apple.com/us/app/how-many-trivia-game/id1588853290" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
       <a href="https://play.google.com/store/apps/details?id=tr.com.apps.how.many" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      Rage Control
+    </td>
+    <td>
+      <img src="../assets/images/portfolio/rage-control.png" alt="Game" width="120"/>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=id.co.superfungames.rage.control" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -155,6 +155,6 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
 </table>
 
 <!--
-<a href="" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="160"/></a>
-<a href="" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="160"/></a>
+<a href="" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
+<a href="" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
 -->
