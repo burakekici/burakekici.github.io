@@ -9,11 +9,11 @@ layout: page
 
 I am a **Software Engineer** from Ankara, Turkey. I work as a **Game Developer** at [APPS Technology][apps], remotely. I have been making mobile games with Unity since mid-2018.
 
-These are the links of my [resume][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github] for potential collaborations or curious people about me.
+These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github] for potential collaborations or curious people about me.
 
 I have graduated from computer science at [Hacettepe University, Ankara][hacettepe]. I have been at [Albert-Ludwigs University, Freiburg][freiburg] as an Erasmus+ exchange student.
 
-My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gaming on Playstation, travelling, karting, sim-racing, cycling, reading, blogging. I am also interested in personal finance and [FIRE][fire], interior architecture and minimalism. And I love making lists and excel sheets. 🤓
+My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gaming on Playstation, traveling, karting, sim-racing, cycling, reading, blogging. I am also interested in personal finance and [FIRE][fire], interior architecture and minimalism. And I love making lists and excel sheets. 🤓
 
 > "Simplicity is the ultimate sophistication."
 

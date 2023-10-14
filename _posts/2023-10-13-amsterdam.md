@@ -35,7 +35,7 @@ Harika patates kızartması yapıyorlar! Taze Hollanda patateslerini, iki fazda 
   <img src="../assets/images/2023/amsterdam/fabel-friet-1.jpg" alt="Fabel Friet" width="400"/>
 </p>
 
-Sos olarak trüflü mayonez, peynir olarak da parmesanı öneriyorum. Bir de buraya gidecekseniz yaklaşık 1 saat kadar sıra bekleyemeyi göze almalısınız. Neredeyse her zaman kuyruk oluyor. 
+Sos olarak trüflü mayonez, peynir olarak da parmesanı öneriyorum. Bir de buraya gidecekseniz yaklaşık 1 saat kadar sıra beklemeyi göze almalısınız. Neredeyse her zaman kuyruk oluyor. 
 
 <p align="center">
   <img src="../assets/images/2023/amsterdam/fabel-friet-2.jpeg" alt="Fabel Friet" width="400"/>
@@ -79,6 +79,10 @@ Albert Cuyp caddesinde kahvaltı mekanı bakarken denk geldik. Yine memnun ayrı
 
 Burası da içinde dünya mutfağından pek çok lezzeti barındıran büyükçe bir tesis. Pita, hamburger, suşi, noodle, burrito, tapas, taco vb pek çok şey bulmak mümkün. Ortadaki bar alanından da dilediğiniz içeceği alabilirsiniz.
 
+<p align="center">
+  <img src="../assets/images/2023/amsterdam/foodhallen.JPG" alt="Foodhallen" width="600"/>
+</p>
+
 ### Amsterdam Cheese Museum
 
 Peynirseverler olarak burayı da keyifle gezdik. Her peynir çeşidini tadabiliyorsunuz. Peynirlerle aranız iyiyse bir deneyebilirsiniz. 
@@ -98,7 +102,7 @@ Yine aynı şekilde kat planını da dijital ortamda takip edebilirsiniz müze i
 Müze mağazasını da ihmal etmeyiniz. Çok güzel ürünler mevcut. Müzenin dışında da bir mağaza mevcut olduğunu eklemek isterim.
 
 <p align="center">
-  <img src="../assets/images/2023/amsterdam/van-gogh.jpeg" alt="Fabel Friet" width="400"/>
+  <img src="../assets/images/2023/amsterdam/van-gogh.jpeg" alt="Fabel Friet" width="600"/>
 </p>
 
 
