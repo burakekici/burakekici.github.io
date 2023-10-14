@@ -7,100 +7,152 @@ layout: page
 
 I have been making mobile games in Unity since 2018 summer. Some of them can be seen below:
 
-<br>
+---
 
-### Rage Control
+<table style="width:100%">
+  <tr>
+    <th>
+    </th>
+    <th>
+    </th>
+    <th>
+    </th>
+  </tr>
 
-<p align="left">
-  <img src="../assets/images/portfolio/rage-control.png" alt="Game" height="130"/>
-</p>
 
-<a href="https://play.google.com/store/apps/details?id=id.co.superfungames.rage.control" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+  <tr>
+    <td>
+      Fashion Battle
+    </td>
+    <td>
+      <img src="../assets/images/portfolio/fashion-battle.png" alt="Game" height="130"/>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/us/app/fashion-battle-dress-to-win/id1560663843" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.fashion.battle" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<br>
 
-### How Many
+  <tr>
+    <td>
+      Rage Control
+    </td>
+    <td>
+      <img src="../assets/images/portfolio/rage-control.png" alt="Game" height="130"/>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=id.co.superfungames.rage.control" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<p align="left">
-  <img src="../assets/images/portfolio/how-many.png" alt="Game" height="130"/>
-</p>
 
-<a href="https://play.google.com/store/apps/details?id=tr.com.apps.how.many" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
-<a href="https://apps.apple.com/us/app/how-many-trivia-game/id1588853290" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+  <tr>
+    <td>
+      How Many
+    </td>
+    <td>
+      <img src="../assets/images/portfolio/how-many.png" alt="Game" height="130"/>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/us/app/how-many-trivia-game/id1588853290" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.how.many" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<br>
 
-### Fashion Battle
+  <tr>
+    <td>
+    Detective & Puzzles
+    </td>
+    <td>
+    <img src="../assets/images/portfolio/detective.png" alt="Game" height="130"/>
+    </td>
+    <td>
+    <a href="https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<p align="left">
-  <img src="../assets/images/portfolio/fashion-battle.png" alt="Game" height="130"/>
-</p>
 
-<a href="https://play.google.com/store/apps/details?id=tr.com.apps.fashion.battle" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
-<a href="https://apps.apple.com/us/app/fashion-battle-dress-to-win/id1560663843" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+  <tr>
+    <td>
+    Kelime Kutusu
+    </td>
+    <td>
+    <img src="../assets/images/portfolio/kelime-kutusu.png" alt="Game" height="130"/>
+    </td>
+    <td>
+    <a href="https://itunes.apple.com/tr/app/kelimekutusu/id1464130890" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.kk" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<br>
 
-### Detective & Puzzles
+  <tr>
+    <td>
+    Hexart
+    </td>
+    <td>
+    <img src="../assets/images/portfolio/hexart.png" alt="Game" height="130"/>
+    </td>
+    <td>
+    <a href="https://itunes.apple.com/tr/app/hexart/id1455322595" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.hexart" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<p align="left">
-  <img src="../assets/images/portfolio/detective.png" alt="Game" height="130"/>
-</p>
 
-<a href="https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
-<a href="https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+  <tr>
+    <td>
+    Multi Kelime
+    </td>
+    <td>
+    <img src="../assets/images/portfolio/multi-kelime.png" alt="Game" height="130"/>
+    </td>
+    <td>
+    <a href="https://play.google.com/store/apps/details?id=com.bif.multikelime" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<br>
 
-### Kelime Kutusu
+  <tr>
+    <td>
+    Runflux
+    </td>
+    <td>
+    <img src="../assets/images/portfolio/runflux.png" alt="Game" height="130"/>
+    </td>
+    <td>
+    <a href="https://itunes.apple.com/us/app/runflux/id1383179327" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<p align="left">
-  <img src="../assets/images/portfolio/kelime-kutusu.png" alt="Game" height="130"/>
-</p>
 
-<a href="https://play.google.com/store/apps/details?id=tr.com.apps.kk" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
-<a href="https://itunes.apple.com/tr/app/kelimekutusu/id1464130890" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+  <tr>
+    <td>
+    BiletAll
+    </td>
+    <td>
+    <img src="../assets/images/portfolio/biletall.png" alt="Game" height="130"/>
+    </td>
+    <td>
+    <a href="https://itunes.apple.com/tr/app//id873069066" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    </td>
+  </tr>
 
-<br>
 
-### Hexart
-
-<p align="left">
-  <img src="../assets/images/portfolio/hexart.png" alt="Game" height="130"/>
-</p>
-
-<a href="https://play.google.com/store/apps/details?id=tr.com.apps.hexart" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
-<a href="https://itunes.apple.com/tr/app/hexart/id1455322595" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-
-<br>
-
-### Multi Kelime
-
-<p align="left">
-  <img src="../assets/images/portfolio/multi-kelime.png" alt="Game" height="130"/>
-</p>
-
-<a href="https://play.google.com/store/apps/details?id=com.bif.multikelime" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
-
-<br>
-
-### Runflux
-
-<p align="left">
-  <img src="../assets/images/portfolio/runflux.png" alt="Game" height="130"/>
-</p>
-
-<a href="https://itunes.apple.com/us/app/runflux/id1383179327" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-
-<br>
-
-### BiletAll
-
-<p align="left">
-  <img src="../assets/images/portfolio/biletall.png" alt="Game" height="130"/>
-</p>
-
-<a href="https://itunes.apple.com/tr/app//id873069066" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+<!--
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+-->
+</table>
 
 <!--
 <a href="" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="160"/></a>
