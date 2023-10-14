@@ -25,11 +25,11 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
       Fashion Battle
     </td>
     <td>
-      <img src="../assets/images/portfolio/fashion-battle.png" alt="Game" height="130"/>
+      <img src="../assets/images/portfolio/fashion-battle.png" alt="Game" width="120"/>
     </td>
     <td>
-      <a href="https://apps.apple.com/us/app/fashion-battle-dress-to-win/id1560663843" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.fashion.battle" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+      <a href="https://apps.apple.com/us/app/fashion-battle-dress-to-win/id1560663843" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
+      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.fashion.battle" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -39,10 +39,10 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
       Rage Control
     </td>
     <td>
-      <img src="../assets/images/portfolio/rage-control.png" alt="Game" height="130"/>
+      <img src="../assets/images/portfolio/rage-control.png" alt="Game" width="120"/>
     </td>
     <td>
-      <a href="https://play.google.com/store/apps/details?id=id.co.superfungames.rage.control" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+      <a href="https://play.google.com/store/apps/details?id=id.co.superfungames.rage.control" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -52,11 +52,11 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
       How Many
     </td>
     <td>
-      <img src="../assets/images/portfolio/how-many.png" alt="Game" height="130"/>
+      <img src="../assets/images/portfolio/how-many.png" alt="Game" width="120"/>
     </td>
     <td>
-      <a href="https://apps.apple.com/us/app/how-many-trivia-game/id1588853290" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.how.many" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+      <a href="https://apps.apple.com/us/app/how-many-trivia-game/id1588853290" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
+      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.how.many" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -66,11 +66,11 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     Detective & Puzzles
     </td>
     <td>
-    <img src="../assets/images/portfolio/detective.png" alt="Game" height="130"/>
+    <img src="../assets/images/portfolio/detective.png" alt="Game" width="120"/>
     </td>
     <td>
-    <a href="https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    <a href="https://apps.apple.com/tr/app/detective-puzzles-mystery/id1497671053" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
+    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.detective.puzzle.mystery" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -80,11 +80,11 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     Kelime Kutusu
     </td>
     <td>
-    <img src="../assets/images/portfolio/kelime-kutusu.png" alt="Game" height="130"/>
+    <img src="../assets/images/portfolio/kelime-kutusu.png" alt="Game" width="120"/>
     </td>
     <td>
-    <a href="https://itunes.apple.com/tr/app/kelimekutusu/id1464130890" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.kk" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    <a href="https://itunes.apple.com/tr/app/kelimekutusu/id1464130890" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
+    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.kk" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -94,11 +94,11 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     Hexart
     </td>
     <td>
-    <img src="../assets/images/portfolio/hexart.png" alt="Game" height="130"/>
+    <img src="../assets/images/portfolio/hexart.png" alt="Game" width="120"/>
     </td>
     <td>
-    <a href="https://itunes.apple.com/tr/app/hexart/id1455322595" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
-    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.hexart" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    <a href="https://itunes.apple.com/tr/app/hexart/id1455322595" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
+    <a href="https://play.google.com/store/apps/details?id=tr.com.apps.hexart" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -108,10 +108,10 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     Multi Kelime
     </td>
     <td>
-    <img src="../assets/images/portfolio/multi-kelime.png" alt="Game" height="130"/>
+    <img src="../assets/images/portfolio/multi-kelime.png" alt="Game" width="120"/>
     </td>
     <td>
-    <a href="https://play.google.com/store/apps/details?id=com.bif.multikelime" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="130"/></a>
+    <a href="https://play.google.com/store/apps/details?id=com.bif.multikelime" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -121,10 +121,10 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     Runflux
     </td>
     <td>
-    <img src="../assets/images/portfolio/runflux.png" alt="Game" height="130"/>
+    <img src="../assets/images/portfolio/runflux.png" alt="Game" width="120"/>
     </td>
     <td>
-    <a href="https://itunes.apple.com/us/app/runflux/id1383179327" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    <a href="https://itunes.apple.com/us/app/runflux/id1383179327" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
@@ -134,10 +134,10 @@ I have been making mobile games in Unity since 2018 summer. Some of them can be 
     BiletAll
     </td>
     <td>
-    <img src="../assets/images/portfolio/biletall.png" alt="Game" height="130"/>
+    <img src="../assets/images/portfolio/biletall.png" alt="Game" width="120"/>
     </td>
     <td>
-    <a href="https://itunes.apple.com/tr/app//id873069066" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="130"/></a>
+    <a href="https://itunes.apple.com/tr/app//id873069066" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
     </td>
   </tr>
 
