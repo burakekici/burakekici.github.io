@@ -1,7 +1,7 @@
 ---
 title: "Amsterdam Seyir Notlarım"
 layout: post
-date: 2023-10-14 10:00
+date: 2023-10-13 10:00
 image: /assets/images/2023/amsterdam/cover.jpeg
 headerImage: true
 tag:

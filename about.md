@@ -5,60 +5,32 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-# Hey! I am Burak!
+# Hey! I am Burak! 🙋🏻‍♂️
 
-## In a nutshell
+I am a **Software Engineer** from Ankara, Turkey. I work as a **Game Developer** at [APPS Technology][apps], remotely. I have been making mobile games with Unity since mid-2018.
 
-💻 Software engineer
-<br>
-📍 Based in Ankara, Turkey
-<br>
-💡 Minimalist, lifelong learner, problem solver
-<br>
-ℹ️ Personality type: [INFJ-T][mbtype]
+These are the links of my [resume][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github] for potential collaborations or curious people about me.
 
-<br>
+I have graduated from computer science at [Hacettepe University, Ankara][hacettepe]. I have been at [Albert-Ludwigs University, Freiburg][freiburg] as an Erasmus+ exchange student.
 
-## Work
+My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gaming on Playstation, travelling, karting, sim-racing, cycling, reading, blogging. I am also interested in personal finance and [FIRE][fire], interior architecture and minimalism. And I love making lists and excel sheets. 🤓
 
-💻 Lead Game Developer at [APPS Mobile][apps] (Remote).
-<br>
-🔗 You can check my [portfolio][portfolio], [résumé][resume] and [LinkedIn][linkedin].
-
-<br>
-
-## Education
-
-👨🏻‍🎓 Received **BSc** degree of **computer science** at [Hacettepe University][hacettepe], Ankara.
-<br>
-🌍 Ex **Erasmus+ exchange student** at [Albert-Ludwigs University][freiburg], Freiburg.
-
-<br>
-
-## More about me
-
-❝ Some quotes I like 
-
-> Less is more.
-
-> The grass is always greener on the other side of the fence.
-
-> The world is not interested in the storms you encountered, but did you bring in the ship?
-
-> Life is 10% what happens to you and 90% how you react to it.
-
+> "Simplicity is the ultimate sophistication."
 
 <br>
 <p style="color:#AAAAAA;font-size:13px">Thanks to <a class="link" href="https://pages.github.com" target="_blank" style="color:#AAAAAA">GitHub</a>, <a class="link" href="https://jekyllrb.com" target="_blank" style="color:#AAAAAA">Jekyll</a>, <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank" style="color:#AAAAAA">Indigo</a>.</p>
 
 
+
+[apps]: https://apps.com.tr
 [portfolio]: ../portfolio
 [resume]: ../assets/resume.pdf
-[mbtype]: https://www.16personalities.com/profiles/19ea956f7d530
 [linkedin]: https://www.linkedin.com/in/burakekici
+[github]: https://www.github.com/burakekici
 [hacettepe]: https://cs.hacettepe.edu.tr
 [freiburg]: https://www.informatik.uni-freiburg.de
-[apps]: https://apps.com.tr
+[mbtype]: https://www.16personalities.com/profiles/19ea956f7d530
+[fire]: https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp
 <!--[spotify]: https://open.spotify.com/user/bekici
 [goodreads]: https://www.goodreads.com/burakekici
 [imdb]: https://www.imdb.com/user/ur41656845-->
