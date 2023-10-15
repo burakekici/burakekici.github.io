@@ -8,6 +8,8 @@ tag:
 - scrum
 - kitap
 - özet
+- çevik yazılım geliştirme
+- agile
 - verimlilik
 star: false
 category: blog

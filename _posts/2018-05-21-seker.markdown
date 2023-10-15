@@ -26,13 +26,13 @@ Bu yazıda şeker nedir, neden zararlıdır ve nasıl azaltabiliriz sorularına 
 
 --- 
 
-## Şekerin Kısa Tarihçesi 
+## Şekerin kısa tarihçesi 
 
 Günümüzden yaklaşık 5 bin yıl önce şeker kamışı Hindistan’da fark edilmiş ve _sakkhara_ ismiyle anılmaya başlanmış. Bu isim, _saccharum_ olarak Latince'ye, _sakkharon_ olarak Yunanca'ya, _zucchero_ olarak İtalyanca'ya, _azucar_ olarak İspanyolca'ya, _zucker_ olarak Almanca'ya, _sucre_ olarak Fransızca'ya, _sugar_ olarak İngilizce'ye, _şükker_, _şeker_ ve diğer halleriyle de Türkçe, Farsça ve Arapça dillerine geçmiş.
 
-Avrupa'nın şekerle tanışması, Müslümanların İspanya'ya yerleşmesiyle başlıyor. O dönemde avrupalılar bu _baharatı_ çok beğeniyor ama bir hayli değerli. 1300'lerde İngiltere'de bir işçinin maaşı ile 1 pound şeker eşdeğer görülüyor. Hem Avrupa'da hem Osmanlı'da tedavi amaçlı kullanılıyor. _Nabza göre şerbet vermek_ deyimi de buradan geliyor. 
+Avrupa'nın şekerle tanışması, Müslümanların İspanya'ya yerleşmesiyle başlıyor. O dönemde Avrupalılar bu _baharatı_ çok beğeniyor ama bir hayli değerli. 1300'lerde İngiltere'de bir işçinin maaşı ile 1 pound şeker eşdeğer görülüyor. Hem Avrupa'da hem Osmanlı'da tedavi amaçlı kullanılıyor. _Nabza göre şerbet vermek_ deyimi de buradan geliyor. 
 
-## Şeker Nedir?
+## Şeker nedir?
 
 Şeker, genel olarak tatlandırıcı olarak kullanılan kimyasal bir bileşik. Temel olarak, şekerler; karbon, hidrojen ve oksijen atomlarından oluşan karbonhidrat molekülleridir. Karbonhidrat, canlı yapısına katılmayan, birinci dereceden enerji verici olarak kullanılan, yapı taşı da glikoz olan bir madde. Depolanma şekli bitkilerde nişasta, hayvanlarda ise glikojen şeklinde. 
 
@@ -40,7 +40,7 @@ En yaygın olarak bilinen şeker türleri glukoz, fruktoz ve sükrozdur. Bildiğ
 
 Bir şeker kamışının %50'si su, o suyun da yalnızca %20'si şeker olabiliyor. Yani aslında soframıza gelen şeker, şeker kamışı bitkisinin konsantre hali.
 
-Fruktoz da aynı zamanda balda, meyve suyunda ve mısır şurubunda  mevcut.
+Fruktoz da aynı zamanda balda, meyve suyunda ve mısır şurubunda mevcut.
 
 Bir de **NBŞ** yani **Nişasta Bazlı Şekerler** var ki daha beter. NBŞ'ler genelde mısır olmak üzere çeşitli bitkilerden kimyasal yollarla üretilen endüstriyel şekerlere deniyor. Yoğun miktarda fruktoz bulunduruyorlar ve direkt tüketimden ziyade yine endüstriyel üretimlerde girdi olarak kullanılıyorlar. Örneğin meşrubatlarda, çeşitli tatlı ve şekerlemelerde görmek mümkün. Ve ne yazık ki çokça şeker pancarı kaynağımız olmasına rağmen (yanılmıyorsam dünyadaki 5. şeker pancarı üreticisiyiz) ucuz olduğu için ülkemizde son yıllarda mısır şurubu üretmek için mısır ithal edilmeye başlanmış. NBŞ'ler daha uzun raf ömrü de sağlayınca gıda üreticileri için biçilmiş kaftan olmuş.
 
@@ -66,7 +66,7 @@ Bir deneyde bir süre boyunca farklı zamanlarda **farelere kokain ve şeker** v
 
 > Türkiye'de her 3 insandan biri obez, biri aşırı kilolu, biri de normal.
 
-Paketli gıdalarda raf ömrünü artırmak için lif oranı düşürülüyor. Örneğin bir meyve yediğinizde içerisinde fruktoz olsa dahi yoğun liflere sahip olduğundan diğer şekerli endüstriyel gıdalar gibi direkt sindirime geçmiyor, daha uzun bir zamanda yavaş yavaş sindiriliyor. 
+Paketli gıdalarda raf ömrünü artırmak için lif oranı düşürülüyor. Örneğin bir meyve yediğinizde içerisinde fruktoz olsa da yoğun liflere sahip olduğundan diğer şekerli endüstriyel gıdalar gibi çabuk sindirilmiyor, daha uzun bir zamanda yavaş yavaş sindiriliyor. 
 
 Aynı miktarda kalori alsanız dahi protein ve yağ yerine şekere yüklendiğinizde hızlı bir şekilde kilo almaya, yağ oranında artışa ve insülin direnci geliştirmeye başlıyorsunuz.
 
@@ -84,7 +84,7 @@ _'That Sugar Film'_ adlı belgeselde adam günlük kalori alımını aynı tutar
 
 • Çaya şeker atmayı bırakabiliriz.
 
-• Portakalın suyunu sıkıp sadece şekeri vücudunuza yüklemektense posasıyla yemeyi tercih edebiliriz. 
+• Portakalın suyunu sıkıp sadece şekeri vücudumuza yüklemektense posasıyla yemeyi tercih edebiliriz. 
 
 • Rafine unlu beyaz ekmek yerine tam tahıllı ekmekler tüketebiliriz.
 
@@ -106,7 +106,7 @@ _'That Sugar Film'_ adlı belgeselde adam günlük kalori alımını aynı tutar
   <img src="../assets/images/2018/seker/icecek-seker.jpg" alt="Şeker" height="350"/>
 </p>
 
-• Bu fotoğraf da geçen yıl gezdiğim bir çikolata fabrikasından. Sütlü çikolatanın formülünü gösteriyor. Ve evet, %47.5 paya sahip olan şey şeker. Bu oran beyaz çikolatada %52. Bitter çikolata diğerlerine nazaran güvenli liman ve %24 şeker oranına sahip.
+• Bu fotoğraf da geçen yıl gezdiğim bir çikolata fabrikasından. Sütlü çikolatanın formülünü gösteriyor. Ve evet, %47.5 paya sahip olan şey şeker. Bu oran beyaz çikolatada %52. Bitter çikolata ise %24 şeker oranına sahip.
 
 <p align="center">
   <img src="../assets/images/2018/seker/cikolata-icerik-2.jpg" alt="Şeker" height="600"/>
