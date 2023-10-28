@@ -7,7 +7,7 @@ layout: page
 
 # Hey! I am Burak. 🙋🏻‍♂️
 
-I am a **Software Engineer** from Ankara, Turkey. I work as a **Game Developer** at [APPS Technology][apps], remotely. I have been making mobile games with Unity since mid-2018.
+I am a **Software Engineer** from Ankara, Türkiye. I work as a **Game Developer** at [APPS Technology][apps], remotely. I have been making mobile games with Unity since mid-2018.
 
 These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github] for potential collaborations or curious people about me.
 
@@ -16,6 +16,12 @@ I have graduated from computer science at [Hacettepe University, Ankara][hacette
 My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gaming on Playstation, traveling, karting, sim-racing, cycling, reading, blogging. I am also interested in personal finance and [FIRE][fire], interior architecture and minimalism. And I love making lists and excel sheets. 🤓
 
 > "Simplicity is the ultimate sophistication."
+
+---
+
+## What is this blog about?
+
+In this blog, you will find some posts about books, programming, technology, traveling and a variety of my thoughts.
 
 <br>
 <p style="color:#AAAAAA;font-size:13px">Thanks to <a class="link" href="https://pages.github.com" target="_blank" style="color:#AAAAAA">GitHub</a>, <a class="link" href="https://jekyllrb.com" target="_blank" style="color:#AAAAAA">Jekyll</a>, <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank" style="color:#AAAAAA">Indigo</a>.</p>
