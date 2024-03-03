@@ -7,13 +7,13 @@ layout: page
 
 # Hey! I am Burak. 🙋🏻‍♂️
 
-I am a **Software Engineer** from Ankara, Türkiye. I work as a **Game Developer** at [APPS Technology][apps], remotely. I have been making mobile games with Unity since mid-2018.
+I am a **Software Engineer** from Ankara, Türkiye, currently working remotely as a **Game Developer** at [APPS Technology][apps]. Since mid-2018, I have been programming mobile games with Unity.
 
-These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github] for potential collaborations or curious people about me.
+Whether you're looking to collaborate or simply curious about me, these are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
 
-I have graduated from computer science at [Hacettepe University, Ankara][hacettepe]. I have been at [Albert-Ludwigs University, Freiburg][freiburg] as an Erasmus+ exchange student.
+Following my graduation from [Hacettepe University, Ankara][hacettepe] with a degree in Computer Science, I had the opportunity to participate in an Erasmus+ exchange program at [Albert-Ludwigs University in Freiburg][freiburg].
 
-My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gaming on Playstation, traveling, karting, sim-racing, cycling, reading, blogging. I am also interested in personal finance and [FIRE][fire], interior architecture and minimalism. And I love making lists and excel sheets. 🤓
+My personality type is [INFJ-T][mbtype]. I enjoy variety of activities, including playing Playstation games, traveling, karting, sim-racing, cycling, reading, blogging. I am also interested in personal finance and [FIRE][fire] movement, interior architecture and minimalism. And I love making lists and excel sheets. 🤓
 
 > "Simplicity is the ultimate sophistication."
 
@@ -21,7 +21,7 @@ My personality type is [INFJ-T][mbtype]. I enjoy doing many things such as: gami
 
 ## What is this blog about?
 
-In this blog, you will find some posts about books, programming, technology, traveling and a variety of my thoughts.
+This blog is a collection of my thoughts and interests, where you'll find posts about books, programming, technology, travel, and more.
 
 <br>
 <p style="color:#AAAAAA;font-size:13px">Thanks to <a class="link" href="https://pages.github.com" target="_blank" style="color:#AAAAAA">GitHub</a>, <a class="link" href="https://jekyllrb.com" target="_blank" style="color:#AAAAAA">Jekyll</a>, <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank" style="color:#AAAAAA">Indigo</a>.</p>
