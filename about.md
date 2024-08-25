@@ -7,7 +7,7 @@ layout: page
 
 # Hey! I am Burak. 🙋🏻‍♂️
 
-I am a **Software Engineer** from Ankara, Türkiye, currently working remotely as a **Game Developer** at [APPS Technology][apps]. Since mid-2018, I have been programming mobile games with Unity.
+I am a **Software Engineer**, currently working remotely as a **Game Developer** at [APPS Technology][apps]. Since mid-2018, I have been programming mobile games with Unity game engine. I live in Ankara, Türkiye with my lovely wife.
 
 Whether you're looking to collaborate or simply curious about me, these are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
 
