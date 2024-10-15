@@ -5,9 +5,9 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-# Hey! I am Burak. 🙋🏻‍♂️
+# Hey! I am Burak. 👋🏼
 
-I am a **Software Engineer**, currently working remotely as a **Game Developer** at [APPS Technology][apps]. I have been programming mobile games with Unity game engine since mid-2018. I live in Ankara, Türkiye with my lovely wife.
+I am a **Software Engineer**, currently working remotely as a **Game Developer** at [APPS Technology][apps]. I have been programming mobile games and tools with Unity game engine and C# since 2018. I live in Ankara, Türkiye with my lovely wife.
 
 Whether you're looking to collaborate or simply curious about me, these are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
 
