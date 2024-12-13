@@ -104,7 +104,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
+#  - jekyll-admin   # Geçici olarak kapattık, hata veriyordu. 
 
 jekyll-mentions:
     base_url: https://github.com
