@@ -9,7 +9,7 @@ layout: page
 
 I am a **Software Engineer**, currently working remotely as a **Game Developer** at [APPS Technology][apps]. I live in Ankara, Türkiye with my lovely wife.
 
-I have been programming mobile games and tools with Unity game engine and C# since 2018. These are the links of my [résumé][resume], [portfolio][portfolio] and [LinkedIn][linkedin].
+I have been programming mobile games and tools with Unity game engine and C# since 2018. These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
 
 <!--
 Following my graduation from [Hacettepe University, Ankara][hacettepe] with a degree in Computer Science, I had the opportunity to participate in an Erasmus+ exchange program at [Albert-Ludwigs University in Freiburg][freiburg].
@@ -28,9 +28,10 @@ I am interested in mobile technologies, gaming, sports (🏀,🎾,🚴🏻‍♂
 [portfolio]: ../portfolio
 [resume]: ../assets/resume.pdf
 [linkedin]: https://www.linkedin.com/in/burakekici
+[github]: https://www.github.com/burakekici
 
-<!--[github]: https://www.github.com/burakekici
+<!--
 [hacettepe]: https://cs.hacettepe.edu.tr
 [freiburg]: https://www.informatik.uni-freiburg.de
 [mbtype]: https://www.16personalities.com/profiles/19ea956f7d530
-[fire]: https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp-->
+-->
