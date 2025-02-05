@@ -11,18 +11,14 @@ I am a **Software Engineer**, currently working remotely as a **Game Developer**
 
 I have been programming mobile games and tools with Unity game engine and C# since 2018. Whether you're looking to collaborate or simply curious about me, these are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
 
-<!--Following my graduation from [Hacettepe University, Ankara][hacettepe] with a degree in Computer Science, I had the opportunity to participate in an Erasmus+ exchange program at [Albert-Ludwigs University in Freiburg][freiburg].-->
+<!--Following my graduation from [Hacettepe University, Ankara][hacettepe] with a degree in Computer Science, I had the opportunity to participate in an Erasmus+ exchange program at [Albert-Ludwigs University in Freiburg][freiburg].
+My personality type is [INFJ-T][mbtype].-->
 
-My personality type is [INFJ-T][mbtype]. I enjoy variety of activities, including playing Playstation games (The Finals lately), traveling, playing tennis, cycling and reading. I am also interested in personal finance and [FIRE][fire] movement, interior architecture and minimalism. And I love making lists and excel sheets. 🤓
+I am interested in mobile technologies, gaming, sports (🏀,🎾,🚴🏻‍♂️), and clean design in every aspect. 
 
 > "Simplicity is the ultimate sophistication."
 
----
-
-## What is this blog about?
-
-This blog is a collection of my thoughts and interests, where you'll find posts about books, programming, technology, travel, and more.
-
+<br>
 <br>
 <p style="color:#AAAAAA;font-size:13px">Thanks to <a class="link" href="https://pages.github.com" target="_blank" style="color:#AAAAAA">GitHub</a>, <a class="link" href="https://jekyllrb.com" target="_blank" style="color:#AAAAAA">Jekyll</a>, <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank" style="color:#AAAAAA">Indigo</a>.</p>
 
