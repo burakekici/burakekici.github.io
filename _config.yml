@@ -36,19 +36,19 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: burakekici0
-twitter: burakekici0
-#linkedin: burakekici
+#facebook: username
+#twitter: burakekici0
+#linkedin: username
 github: burakekici
 spotify: bekici
 email: contact.ekici@gmail.com
-# medium: ekici
-# google: burakekici0
-# instagram: burakekici0
-# pinterest: burakekici
-# youtube: burakekici0
-# quora: Burak-Ekici-2
-# vimeo: burakekici
+# medium: username
+# google: username
+# instagram: username
+# pinterest: username
+# youtube: username
+# quora: username
+# vimeo: username
 # stackoverflow: 6747657/bekici
 # reddit: username
 # lastfm: mylastfm
@@ -57,7 +57,7 @@ email: contact.ekici@gmail.com
 authors:
     ekici:
         name: Burak Ekici
-        bio: Software Engineer • Lifelong Learner
+        bio: Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: burakekici0
