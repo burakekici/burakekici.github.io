@@ -5,7 +5,7 @@ layout: page
 
 # Portfolio
 
-I have been making mobile games with Unity since mid-2018. Some of them can be seen below:
+I have been programming mobile games and tools with Unity and C# since 2018. Some of them can be seen below:
 
 ---
 
