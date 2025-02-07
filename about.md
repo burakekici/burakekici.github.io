@@ -13,7 +13,7 @@ These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn]
 
 <!--My personality type is [INFJ-T][mbtype].-->
 
-I am interested in mobile technologies, gaming, sports (🏀,🎾,🚴🏻‍♂️), and clean design in every aspect. 
+I am interested in tech, gaming, sports (🏀,🎾,🚴🏻‍♂️), and clean design in every aspect. 
 
 > "Simplicity is the ultimate sophistication."
 
