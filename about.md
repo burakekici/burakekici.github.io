@@ -7,9 +7,9 @@ layout: page
 
 # Hey! I am Burak. 👋🏼
 
-I am a **Software Engineer**, currently working as a **Game Developer** at [APPS Technology][apps]. I live in Ankara, Türkiye with my lovely wife.
+I am a **Game Developer** at [APPS Technology][apps]. I develop mobile games and tools with Unity. I live in Ankara, Türkiye with my lovely wife.
 
-I develop mobile games and tools with Unity game engine and C#. These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
+These are the links of my [résumé][resume], [portfolio][portfolio], [LinkedIn][linkedin] and [GitHub][github].
 
 <!--My personality type is [INFJ-T][mbtype].-->
 
