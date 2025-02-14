@@ -13,7 +13,7 @@ These are the links of my [résumé][resume], [portfolio][portfolio] and [Linked
 
 I am interested in tech, gaming, sports (🏀,🎾,🚴🏻‍♂️), and clean design in every aspect. 
 
-> "Simplicity is the ultimate sophistication."
+<!--> "Simplicity is the ultimate sophistication."-->
 
 <br>
 <br>
