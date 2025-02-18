@@ -11,7 +11,7 @@ tag:
 - bağımlılık
 - beslenme
 - sağlık
-hidden: false
+hidden: true
 star: false
 category: blog
 categories: 
