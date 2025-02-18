@@ -36,6 +36,21 @@ I have been programming mobile games and tools with Unity and C# since 2018. Som
 
   <tr>
     <td>
+      Drill and Collect
+    </td>
+    <td>
+      <img src="../assets/images/portfolio/dnc.png" alt="Game" width="120"/>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/tr/app/drill-and-collect-idle-mine/id1642304873" target="_blank"><img src="../assets/images/download_ios.png" alt="Download" width="120"/></a>
+      <a href="https://play.google.com/store/apps/details?id=tr.com.apps.drill.and.collect" target="_blank"><img src="../assets/images/download_android.png" alt="Download" width="120"/></a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td>
       How Many
     </td>
     <td>
