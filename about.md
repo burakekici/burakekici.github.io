@@ -9,7 +9,7 @@ layout: page
 
 I am a **Game Developer** at [APPS Technology][apps]. I develop mobile games and tools with Unity. I live in Ankara, Türkiye with my lovely wife.
 
-These are the links of my [résumé][resume], [portfolio][portfolio] and [LinkedIn][linkedin].
+The links of my [résumé][resume], [portfolio][portfolio] and [LinkedIn][linkedin].
 
 I am interested in tech, gaming, sports (🏀,🎾,🚴🏻‍♂️), and clean design in every aspect. 
 
