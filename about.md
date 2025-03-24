@@ -11,7 +11,7 @@ I am a **Game Developer** at [APPS Technology][apps]{:target="_blank"}. I develo
 
 The links of my [portfolio][portfolio], [résumé][resume]{:target="_blank"} and [LinkedIn][linkedin]{:target="_blank"}.
 
-I am interested in tech, gaming, sports (🏀,🎾,🚴🏻‍♂️), and clean design in every aspect. 
+I am interested in tech, gaming, sports (🏀,🎾,🏎️,🚴🏻‍♂️), and clean design in every aspect.
 
 <!-- "Simplicity is the ultimate sophistication."-->
 
