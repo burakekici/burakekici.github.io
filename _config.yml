@@ -131,3 +131,6 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+
+include:
+  - .well-known
