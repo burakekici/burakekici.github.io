@@ -7,7 +7,7 @@ layout: page
 
 # Hey! I am Burak. 👋🏼
 
-I am a **Game Developer** at [APPS Technology][apps]{:target="_blank"}. I develop mobile games and tools with Unity. I live in Ankara, Türkiye with my lovely wife.
+I develop mobile games and tools with Unity at [APPS Technology][apps]{:target="_blank"}. I live in Ankara, Türkiye with my lovely wife.
 
 The links of my [portfolio][portfolio], [résumé][resume]{:target="_blank"} and [LinkedIn][linkedin]{:target="_blank"}.
 
