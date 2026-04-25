@@ -7,11 +7,9 @@ layout: page
 
 # Hey! I am Burak. 👋🏼
 
-I develop mobile games and tools with Unity at [APPS Technology][apps]{:target="_blank"}. I live in Ankara, Türkiye with my lovely wife.
+I develop tools and mobile games with Unity at [APPS Technology][apps]{:target="_blank"}. These are the links of my [portfolio][portfolio], [résumé][resume]{:target="_blank"} and [LinkedIn][linkedin]{:target="_blank"}.
 
-The links of my [portfolio][portfolio], [résumé][resume]{:target="_blank"} and [LinkedIn][linkedin]{:target="_blank"}.
-
-I am interested in tech, gaming, sports (🏀,🎾,🏎️,🚴🏻‍♂️), and clean design in every aspect.
+I am interested in tech, gaming, sports (🎾,🏀,🏎️,🚴🏻‍♂️), and clean design in every aspect. I live in Ankara, Türkiye with my lovely wife.
 
 <!-- "Simplicity is the ultimate sophistication."-->
 
